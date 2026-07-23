@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixSec
 #announce: TG: @AnixSec
-#subscription-userinfo: upload=192512; download=192512; total=10995116277760; expire=0
+#subscription-userinfo: upload=20486144; download=20486144; total=10995116277760; expire=0
 
 vless://b4883d27-3151-4adf-92b1-841c0dccd1ea@172.64.88.168:8880?&security=false&fp=chrome&type=ws&headerType=none&host=damp-surf-aacf.296-8ed.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇷🇺 AnixVPN | Russia #1
 vless://adda46c3-eab1-40bc-b88d-6b92c1e8c558@172.67.174.37:8880?security=none&type=ws&host=delicate-base-12ed.287-133.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇸🇪 AnixVPN | Sweden #2
