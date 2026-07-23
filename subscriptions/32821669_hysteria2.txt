@@ -1,0 +1,30 @@
+#profile-title: Anix VPN - Hysteria2 🕊️
+#profile-update-interval: 6
+#support-url: https://t.me/AnixSec
+#announce: TG: @AnixSec
+#subscription-userinfo: upload=102400; download=102400; total=10995116277760; expire=0
+
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3#🇭🇰 AnixVPN | Hong Kong #1
+hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=www.bing.com#🇯🇵 AnixVPN | Japan #2
+hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@23.95.75.151:8080?sni=hopp-us.yyuyy.com&insecure=0&headerType=none&encryption=none&burmalda=c48e536b# AnixVPN | Mexico #3
+hysteria2://FR+3uZ+qu5lMaeIEV2OeBK3sQJmmMiABg57L4KFWK78=@vpn.the2oser.lol:8443/?insecure=1#🇩🇪 AnixVPN | Germany #4
+hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@92.118.205.239:8443?sni=grape-power-pl.ddnsguru.com#🇵🇱 AnixVPN | Poland #5
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&nonce=hTpHEKtK#🇳🇱 AnixVPN | Netherlands #6
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443?insecure=1&sni=hopp-legend-se.roxa.org#🇳🇴 AnixVPN | Norway #7
+hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1&nonce=Tj4Nzkn8#🇸🇬 AnixVPN | Singapore #8
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sw02.auragg.org:8443?security=tls&sni=sw02.auragg.org#🇸🇪 AnixVPN | Sweden #9
+hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?sni=grape-sos-de.roxa.org#🇩🇪 AnixVPN | Germany #10
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?sni=swe-one.quiet-rogue.site&insecure=0#🇸🇪 AnixVPN | Sweden #11
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@popa.leontunel.ru:443?headerType=none&encryption=none&sni=popa.leontunel.ru&insecure=0#🇬🇧 AnixVPN | United Kingdom #12
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@nl02.auragg.org:48343?security=tls&sni=nl02.auragg.org#🇳🇱 AnixVPN | Netherlands #13
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#🇺🇸 AnixVPN | United States #14
+hysteria2://76dff95d-a720-4909-8ca6-3d848e786a9c@159.65.178.189:443?insecure=1&sni=www.bing.com#🇺🇸 AnixVPN | United States #15
+hysteria2://35415e5e-3666-4454-8c45-903af0fcddf4@85.120.228.208:47257?sni=www.bing.com&alpn=h3&insecure=1# AnixVPN | Romania #16
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@pl02.auragg.org:443?sni=pl02.auragg.org&nonce=4x9bMU_P#🇵🇱 AnixVPN | Poland #17
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@ge01.auragg.org:443?security=tls&sni=ge01.auragg.org#🇩🇪 AnixVPN | Germany #18
+hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?headerType=none&encryption=none&sni=prodfr.h2corp.org&insecure=0#🇩🇪 AnixVPN | Germany #19
+hysteria2://hy2pass123@hy2.zzrvic.com:8443?insecure=1&sni=hy2.zzrvic.com#🇭🇰 AnixVPN | Hong Kong #20
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl01.auragg.org:443?security=tls&sni=fl01.auragg.org#🇳🇱 AnixVPN | Netherlands #21
+hysteria2://e3a5bb40be52de65@q.baoge.me:2328?insecure=1&sni=apps.apple.com#🇺🇸 AnixVPN | United States #22
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world# AnixVPN | Taiwan #23
+hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de2-hy2.veilvpn.life:3478?sni=de2-hy2.veilvpn.life&nonce=FaIR8FxP#🇩🇪 AnixVPN | Germany #24
