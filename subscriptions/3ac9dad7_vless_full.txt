@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixSec
 #announce: TG: @AnixSec
-#subscription-userinfo: upload=147456; download=147456; total=10995116277760; expire=0
+#subscription-userinfo: upload=8385536; download=8385536; total=10995116277760; expire=0
 
 vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?path=%2Fv1&security=&encryption=none&host=77.222.46.162&type=ws#🇷🇺 AnixVPN | Russia #1
 vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.43:2083?type=ws&security=tls&fp=chrome&sni=fhfhfhf.kathykroger.workers.dev#🇸🇪 AnixVPN | Sweden #2
