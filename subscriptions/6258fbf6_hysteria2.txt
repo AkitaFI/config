@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixSec
 #announce: TG: @AnixSec
-#subscription-userinfo: upload=90770432; download=90770432; total=10995116277760; expire=0
+#subscription-userinfo: upload=98421760; download=98421760; total=10995116277760; expire=0
 
 hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?sni=grape-sos-de.roxa.org#🇩🇪 AnixVPN | Germany #1
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.117:8443?headerType=none&encryption=none&sni=grape-zet-ro-turbo.bumbleshrimp.com&insecure=0#🇩🇪 AnixVPN | Germany #2
