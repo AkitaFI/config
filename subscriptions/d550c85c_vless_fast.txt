@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixSec
 #announce: TG: @AnixSec
-#subscription-userinfo: upload=62627840; download=62627840; total=10995116277760; expire=0
+#subscription-userinfo: upload=75796480; download=75796480; total=10995116277760; expire=0
 
 vless://1da58b96-0a4b-4748-9015-41335e4938b2@suck-my-dick.apruxdomain.xyz:80?type=ws#🇩🇪 AnixVPN | Germany #1
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.101.100:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#🇩🇪 AnixVPN | Germany #2
