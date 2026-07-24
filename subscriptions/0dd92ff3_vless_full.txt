@@ -2,5 +2,5 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixSec
 #announce: TG: @AnixSec
-#subscription-userinfo: upload=399115264; download=399115264; total=10995116277760; expire=0
+#subscription-userinfo: upload=406363136; download=406363136; total=10995116277760; expire=0
 
