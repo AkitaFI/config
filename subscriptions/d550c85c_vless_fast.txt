@@ -1,4 +1,4 @@
-#profile-title: Anix VPN - Fast 🕊️
+#profile-title: Anix VPN - Mini 🕊️
 #profile-update-interval: 6
 #support-url: https://t.me/AnixSec
 #announce: TG: @AnixSec
