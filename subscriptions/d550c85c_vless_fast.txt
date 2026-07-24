@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixSec
 #announce: TG: @AnixSec
-#subscription-userinfo: upload=85796864; download=85796864; total=10995116277760; expire=0
+#subscription-userinfo: upload=102551552; download=102551552; total=10995116277760; expire=0
 
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=edge#🇷🇺 AnixVPN | Russia #1
 vless://6f98a077-004e-4b86-8b78-8d09308d3868@66.90.90.13:8443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ai-6a607097.noooo.win&type=tcp&fp=edge#🇷🇺 AnixVPN | Russia #2
