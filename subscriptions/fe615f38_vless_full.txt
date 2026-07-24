@@ -1,0 +1,6 @@
+#profile-title: Anix VPN - Fast 🕊️
+#profile-update-interval: 6
+#support-url: https://t.me/AnixSec
+#announce: TG: @AnixSec
+#subscription-userinfo: upload=48759808; download=48759808; total=10995116277760; expire=0
+
