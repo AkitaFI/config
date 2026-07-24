@@ -1,0 +1,12 @@
+#profile-title: Anix VPN - Mini 🕊️
+#profile-update-interval: 6
+#support-url: https://t.me/AnixSec
+#announce: TG: @AnixSec
+#subscription-userinfo: upload=97280; download=97280; total=10995116277760; expire=0
+
+vless://03446511-2806-4fc0-b02f-f10d2d3a33c6@91.233.8.136:443?security=reality&sni=tnt-cloud.ru&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&type=tcp&flow=xtls-rprx-vision#🇩🇪 AnixVPN | Germany #1
+vless://03446511-2806-4fc0-b02f-f10d2d3a33c6@31.77.111.11:43439?security=reality&sni=cdn.higames.ru&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=ae99c61853e8a6ae&type=grpc&serviceName=streaming#🇸🇪 AnixVPN | Sweden #2
+vless://03446511-2806-4fc0-b02f-f10d2d3a33c6@109.121.44.31:443?security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=8c2d9e1f&type=tcp&flow=xtls-rprx-vision&spx=%2F#🇳🇱 AnixVPN | Netherlands #3
+vless://03446511-2806-4fc0-b02f-f10d2d3a33c6@109.121.44.71:443?security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=a7b2c9d4&type=tcp&flow=xtls-rprx-vision&spx=%2F#🇳🇱 AnixVPN | Netherlands #4
+vless://03446511-2806-4fc0-b02f-f10d2d3a33c6@185.16.36.200:43439?security=reality&sni=cdn-up.perecbass.ru&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=ae99c61853e8a6ae&type=grpc&serviceName=ws#🇵🇱 AnixVPN | Poland #5
+vless://03446511-2806-0021-b02f-f10d2d3a33c6@5.61.91.221:443?security=reality&sni=cdn-up.perecbass.ru&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&type=tcp&flow=xtls-rprx-vision&spx=%2F#🇫🇮 AnixVPN | Finland #6
