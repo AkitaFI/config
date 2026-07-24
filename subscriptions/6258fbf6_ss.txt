@@ -1,0 +1,56 @@
+#profile-title: Anix VPN - ShadowSocks 🕊️
+#profile-update-interval: 6
+#support-url: https://t.me/AnixSec
+#announce: TG: @AnixSec
+#subscription-userinfo: upload=15612928; download=15612928; total=10995116277760; expire=0
+
+hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?sni=grape-sos-de.roxa.org#🇩🇪 AnixVPN | Germany #1
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443?sni=hopp-legend-se.roxa.org#🇳🇴 AnixVPN | Norway #2
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3#🇭🇰 AnixVPN | Hong Kong #3
+hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1#🇳🇱 AnixVPN | Netherlands #4
+hysteria2://Hy2%40SiLiCon2026%21@43.130.7.3:8443?insecure=1&sni=bing.com#🇺🇸 AnixVPN | United States #5
+vmess://eyJhZGQiOiAiNjEuMjQ1LjExLjYwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIjYxLjI0NS4xMS42MCIsICJpZCI6ICJhM2UzYTcxMC03OWY4LTRhZTAtYjgzYy02MDdhYWI0MGQxOTciLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJwb3J0IjogIjgwIiwgInBzIjogIkFuaXhWUE4gfCBQaGlsaXBwaW5lcyAjNiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJ2IjogIjIifQ==
+hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@92.118.205.239:8443?insecure=0&sni=grape-power-pl.ddnsguru.com#🇵🇱 AnixVPN | Poland #7
+hysteria2://35415e5e-3666-4454-8c45-903af0fcddf4@85.120.228.208:47257?insecure=1&sni=www.bing.com# AnixVPN | Romania #8
+hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1&nonce=Tj4Nzkn8#🇸🇬 AnixVPN | Singapore #9
+hysteria2://yg8u9ly451dHdmXyJdbHB4EATgYbrU-C@2.27.23.44:43327?sni=gate-v1.not-a-projects.xyz#🇸🇪 AnixVPN | Sweden #10
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQW5peFZQTiB8IEthemFraHN0YW4gIzExIiwgImFkZCI6ICIzOC4xMDcuMjM0LjU3IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAibmFtZSI6ICJAdjJyYXljb25maWdhbWlyIDIzMDUifQ==
+trojan://rYuChHcwQZskq9E0zdoR@2.56.204.246:443?security=tls&sni=vpn5.rnmcnm.com&allowInsecure=1&type=ws&host=vpn5.rnmcnm.com&path=%2Fws-79dffb8106db#🇦🇺 AnixVPN | Australia #12
+trojan://-----------BanV2ray----------@37.156.45.60:242?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=9d50bfcefa#🇫🇷 AnixVPN | France #13
+trojan://---------BanV2ray------------@179.237.74.104:584?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=a385e5ea#🇫🇷 AnixVPN | France #14
+trojan://-----------BanV2ray----------@37.156.45.60:376?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=a93d9b#🇩🇪 AnixVPN | Germany #15
+trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443/?type=tcp&security=tls&sni=149.104.104.58&fp=android# AnixVPN | Pakistan #16
+trojan://---------BanV2ray------------@179.237.74.104:361?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&sid=c9d8&spx=%2F0741da572c9d4fe&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=#🇨🇭 AnixVPN | Switzerland #17
+trojan://---------BanV2ray------------@179.237.74.104:428?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=b4#🇩🇪 AnixVPN | Germany #18
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&fp=android&type=ws&host=www.creationlong.org&path=%2Fassignment#🇵🇱 AnixVPN | Poland #19
+trojan://-----------BanV2ray----------@37.156.45.60:438?security=reality&sni=world.yahoo.com%3A443&fp=firefox&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&sid=4a76cd52&spx=%2F0a7fbfe99dc4e8f&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=#🇨🇭 AnixVPN | Switzerland #20
+trojan://UKGgxZwI4G@179.237.75.217:443?mode=gun&security=reality&pbk=QBQffGuSwDaXUoGxow_-MUl5P1t5vCYRhCzavcBtqSs&fp=firefox&spx=%2F%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network-------%40sil3nt_network&type=grpc&sni=yahoo.com#🇨🇭 AnixVPN | Switzerland #21
+trojan://-----------BanV2ray----------@37.156.45.60:297?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=db#🇳🇱 AnixVPN | Netherlands #22
+trojan://---------BanV2ray------------@179.237.74.104:265?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=537b8f4ad4ddb860#🇳🇱 AnixVPN | Netherlands #23
+trojan://MITIVPN@45.85.118.16:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN=de&host=9---MiTiVPN---MiTiVPN.MAQROR.ir&sni=4-MiTiVPN----o.MAQROR.ir&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#🇨🇦 AnixVPN | Canada #24
+trojan://-----------BanV2ray----------@37.156.45.60:426?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=9f5e#🇺🇸 AnixVPN | United States #25
+trojan://-----------BanV2ray----------@37.156.45.60:388?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=db#🇷🇺 AnixVPN | Russia #26
+trojan://bIsrw94HH7zmhmvmGskKIb4HbmOZdcCR@148.72.168.35:58615?allowInsecure=1&type=tcp&security=tls&fp=chrome#🇺🇸 AnixVPN | United States #27
+trojan://---------BanV2ray------------@179.237.74.104:177?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=chrome&spx=/0741da572c9d4fe&type=grpc&sni=world.yahoo.com:443&sid=b4#🇺🇸 AnixVPN | United States #28
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443?headerType=none&encryption=none&sni=germany1.noesissite.ru&insecure=0#🇩🇪 AnixVPN | Germany #29
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?sni=swe-one.quiet-rogue.site&insecure=0#🇸🇪 AnixVPN | Sweden #30
+hysteria2://hy2pass123@hy2.zzrvic.com:8443?insecure=1&sni=hy2.zzrvic.com#🇭🇰 AnixVPN | Hong Kong #31
+hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?insecure=0&sni=prodfr.h2corp.org#🇩🇪 AnixVPN | Germany #32
+hysteria2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@newlte.kihsuyhf8jkiugsxb.cfd:9443?sni=newlte.kihsuyhf8jkiugsxb.cfd#🇩🇪 AnixVPN | Germany #33
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@pl02.auragg.org:443?security=tls&sni=pl02.auragg.org#🇵🇱 AnixVPN | Poland #34
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@ge01.auragg.org:443?security=tls&sni=ge01.auragg.org#🇩🇪 AnixVPN | Germany #35
+hysteria2://FR+3uZ+qu5lMaeIEV2OeBK3sQJmmMiABg57L4KFWK78=@vpn.the2oser.lol:8443/?insecure=1#🇩🇪 AnixVPN | Germany #36
+hysteria2://6fa1b8eb-56f4-4f41-97dc-e0185bcfc575@hys.unlimitedteam.space:443?sni=hys.unlimitedteam.space&security=tls&nonce=aH4cLozn# AnixVPN | Latvia #37
+hysteria2://u9zD-8mD-XZROtWZCZGNb_qU7qR3Q4dLk7hnLfaJBNyu12Mn@lv.h2corp.org:443?allowInsecure=0&insecure=0&sni=lv.h2corp.org# AnixVPN | Latvia #38
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@sw02.auragg.org:8443?security=tls&sni=sw02.auragg.org#🇸🇪 AnixVPN | Sweden #39
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl01.auragg.org:443?security=tls&sni=fl01.auragg.org#🇳🇱 AnixVPN | Netherlands #40
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@nl02.auragg.org:48343?security=tls&sni=nl02.auragg.org#🇳🇱 AnixVPN | Netherlands #41
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQW5peFZQTiB8IEthemFraHN0YW4gIzQyIiwgImFkZCI6ICIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCAicG9ydCI6ICI4MCIsICJpZCI6ICI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcy8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
+vmess://eyJhZGQiOiAieHNqMDA0LTEwLmZhY2FpMjAyNC5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAieHNqMDA0LTEwLmZhY2FpMjAyNC5jb20iLCAiaWQiOiAiMWYxYWEzNjItMjU3Ni00OTg5LThmZGItN2NmMWMyYzk2NDkwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8xZjFhYTM2Mi0yNSIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJBbml4VlBOIHwgVW5pdGVkIFN0YXRlcyAjNDMiLCAic2N5IjogImF1dG8iLCAic25pIjogInhzajAwNC0xMC5mYWNhaTIwMjQuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://hGGbs2T6hf@mmd.asan9720.ir:8880?mode=auto&path=%2F&security=reality&extra=%7B++%22xPaddingBytes%22+%3A+%22100-1000%22%7D&pbk=6f4gYYvBFM7iGf9zfFhUWRMoRTrK4zUl7soYqsEDMHI&spx=%2FkOxL13CTwtXvSvU&type=xhttp&sni=www.aparat.com&sid=d2e5e6aed56c393b&fp=ios#🇩🇪 AnixVPN | Germany #44
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=vpn-tw-002.fastervpn.world# AnixVPN | Taiwan #45
+hysteria2://e3a5bb40be52de65@q.baoge.me:2328?insecure=1&sni=apps.apple.com#🇺🇸 AnixVPN | United States #46
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@popa.leontunel.ru:443?headerType=none&encryption=none&sni=popa.leontunel.ru&insecure=0#🇬🇧 AnixVPN | United Kingdom #47
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#🇺🇸 AnixVPN | United States #48
+hysteria2://419bfbd4-3097-4cef-a6b3-aebd78506ed7@ppl.myispace.xyz:8443?headerType=none&encryption=none&sni=ppl.myispace.xyz&insecure=0#🇵🇱 AnixVPN | Poland #49
+hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de2-hy2.veilvpn.life:3478?sni=de2-hy2.veilvpn.life&nonce=FaIR8FxP#🇩🇪 AnixVPN | Germany #50
