@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixSec
 #announce: TG: @AnixSec
-#subscription-userinfo: upload=57193472; download=57193472; total=10995116277760; expire=0
+#subscription-userinfo: upload=65339392; download=65339392; total=10995116277760; expire=0
 
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@89.127.217.210:2200?path=/v1&encryption=none&host=rzd.ru&type=ws&sni=tn.tmn141246.ru#🇺🇸 AnixVPN | United States #1
 vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@89.127.217.210:2200?path=/v1&security=none&encryption=none&type=ws#🇺🇸 AnixVPN | United States #2
