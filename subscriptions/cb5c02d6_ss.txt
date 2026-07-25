@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixSec
 #announce: TG: @AnixSec
-#subscription-userinfo: upload=102400; download=102400; total=10995116277760; expire=0
+#subscription-userinfo: upload=19287040; download=19287040; total=10995116277760; expire=0
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#Netherlands%20#🇷🇺 AnixVPN | Russia #1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#Netherlands%20#🇷🇺 AnixVPN | Russia #2
