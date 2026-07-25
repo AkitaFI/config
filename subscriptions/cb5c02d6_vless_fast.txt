@@ -2,7 +2,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixSec
 #announce: TG: @AnixSec
-#subscription-userinfo: upload=615794688; download=615794688; total=10995116277760; expire=0
+#subscription-userinfo: upload=630313984; download=630313984; total=10995116277760; expire=0
 
 vless://d7ec3e31-a9c4-4bdf-a2d8-7f75a8381035@104.18.13.229:8880?security=none&type=ws&host=weathered-lake-e883.35-bc4.workers.dev#🇫🇮 AnixVPN | Finland #1
 vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@82.29.43.27:443?type=tcp&headerType=none&security=reality&encryption=none&sni=auto.malina24.xyz&fp=firefox&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=5678&flow=xtls-rprx-vision#🇸🇪 AnixVPN | Sweden #2
