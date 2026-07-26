@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixSec
 #announce: TG: @AnixSec
-#subscription-userinfo: upload=482920448; download=482920448; total=10995116277760; expire=0
+#subscription-userinfo: upload=493548544; download=493548544; total=10995116277760; expire=0
 
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.99:2376#🇺🇸 AnixVPN | United States #1
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.123:8119#🇺🇸 AnixVPN | United States #2
