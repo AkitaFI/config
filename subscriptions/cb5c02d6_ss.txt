@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=41660416; download=41660416; total=10995116277760; expire=0
+#subscription-userinfo: upload=67530752; download=67530752; total=10995116277760; expire=0
 
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@172.99.190.87:8881#🇬🇧 AnixVPN | United Kingdom #1
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.34:5004#🇺🇸 AnixVPN | United States #2
