@@ -7,7 +7,7 @@
 
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-#subscription-userinfo: upload=53090304; download=53090304; total=10995116277760; expire=0
+#subscription-userinfo: upload=61332480; download=61332480; total=10995116277760; expire=0
 
 
 
