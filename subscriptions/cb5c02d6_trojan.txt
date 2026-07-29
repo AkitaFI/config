@@ -5,103 +5,103 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 #subscription-userinfo: upload=102400; download=102400; total=10995116277760; expire=0
 
-trojan://WG39087154@91.243.81.101:443?security=tls&sni=still-mastodon.rooster465.autos#🇸🇬 AnixVPN | Singapore #1
-trojan://jKRJgS7uvI@155.248.193.254:31853?security=tls#🇺🇸 AnixVPN | United States #2
-trojan://shenmegui@185.49.33.47:8461?security=tls&sni=$jp.swiftfalcon.app#🇬🇧 AnixVPN | United Kingdom #3
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@43.154.172.79:10102?security=tls#🇭🇰 AnixVPN | Hong Kong #4
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@133.167.100.203:2053?security=tls#🇯🇵 AnixVPN | Japan #5
-trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.127:443?security=tls&sni=sbank.ir#🇻🇳 AnixVPN | Vietnam #6
+trojan://IQ68037294@13.39.89.72:443?security=tls&sni=definite-giraffe.rooster465.autos#🇫🇷 AnixVPN | France #1
+trojan://WG39087154@89.39.70.49:443?security=tls&sni=eager-louse.rooster465.autos#🇳🇱 AnixVPN | Netherlands #2
+trojan://dbf9bf9c-2c3f-474a-8031-d4c00666a989@129.146.190.42:443?security=tls#🇺🇸 AnixVPN | United States #3
+trojan://telegram-id-directvpn@3.145.14.67:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #4
+trojan://2a9ba60d-10ce-4f79-97e7-817334456195@3.85.62.200:54527?security=tls&sni=tr7.tgcunzhang.xyz#🇺🇸 AnixVPN | United States #5
+trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#🇫🇷 AnixVPN | France #6
 trojan://IQ68037294@45.135.228.169:443?security=tls&sni=fun-salmon.rooster465.autos#🇸🇬 AnixVPN | Singapore #7
-trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls#🇯🇵 AnixVPN | Japan #8
-trojan://d1960ba9f0f6353353994fa844cf817b@18.163.123.29:49277?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #9
-trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?security=tls&sni=Koma-YT.PAGeS.Dev#🇳🇱 AnixVPN | Netherlands #10
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.175:443?security=tls&sni=hhcm.hhxaf.cc.cd#🇰🇷 AnixVPN | South Korea #11
-trojan://d1960ba9f0f6353353994fa844cf817b@43.207.96.164:49277?security=tls&sni=www.nintendogames.net#🇯🇵 AnixVPN | Japan #12
-trojan://6d64570c-81d4-30fa-b2e2-dce73e1a2702@173.82.240.199:44301?security=tls&sni=lav002.jd0001.top#🇺🇸 AnixVPN | United States #13
-trojan://cd27884b-c5af-34ec-b75f-8248077818fe@144.24.76.54:8443?security=tls&sni=2.hg.kr.cat77.cloud#🇰🇷 AnixVPN | South Korea #14
-trojan://4d111af8-5078-37e0-a583-34155f60b32c@152.70.143.228:44302?security=tls#🇺🇸 AnixVPN | United States #15
-trojan://telegram-id-privatevpns@13.48.202.26:22222?security=tls&sni=trj.rollingnext.co.uk#🇸🇪 AnixVPN | Sweden #16
-trojan://telegram-id-directvpn@3.239.128.106:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #17
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@23.145.24.30:443?security=tls#🇯🇵 AnixVPN | Japan #18
-trojan://q9870219@181.214.99.54:2035?security=tls&sni=ht.lljllj.buzz#🇩🇪 AnixVPN | Germany #19
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@210.0.158.220:28443?security=tls#🇭🇰 AnixVPN | Hong Kong #20
-trojan://e05c749b-7c6b-41b8-9c71-9dcf685edf4a@152.67.162.166:443?security=tls#🇮🇳 AnixVPN | India #21
-trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls#🇰🇷 AnixVPN | South Korea #22
-trojan://4f7dc540-d244-4e64-af21-4b5bb300add3@132.226.5.246:443?security=tls&sni=www.tokyo2023.ga#🇯🇵 AnixVPN | Japan #23
-trojan://d1960ba9f0f6353353994fa844cf817b@18.163.180.201:48738?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #24
-trojan://BxceQaOe@18.162.152.65:9194?security=tls&sni=t.me%252Fripaojiedian#🇭🇰 AnixVPN | Hong Kong #25
-trojan://d1960ba9f0f6353353994fa844cf817b@16.162.105.149:17005?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #26
-trojan://d1960ba9f0f6353353994fa844cf817b@16.162.105.149:49277?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #27
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#🇺🇸 AnixVPN | United States #28
-trojan://PD07395842@13.39.127.43:443?security=tls&sni=united-bedbug.rooster465.autos#🇫🇷 AnixVPN | France #29
-trojan://FC60532879@91.243.81.18:443?security=tls&sni=bright-quagga.rooster465.autos#🇸🇬 AnixVPN | Singapore #30
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#🇮🇳 AnixVPN | India #31
-trojan://Sp3eDVp@185.212.200.75:443?security=tls#🇺🇸 AnixVPN | United States #32
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@59.30.42.194:12345?security=tls&sni=vpn.rnmcnm.com#🇰🇷 AnixVPN | South Korea #33
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@14.53.107.138:29999?security=tls&sni=vpn.rnmcnm.com#🇰🇷 AnixVPN | South Korea #34
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.163.123.229:38937?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #35
-trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=trj.rollingnext.co.uk#🇬🇧 AnixVPN | United Kingdom #36
-trojan://telegram-id-directvpn@35.91.162.93:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #37
-trojan://telegram-id-directvpn@35.182.251.60:22222?security=tls&sni=trj.rollingnext.co.uk#🇨🇦 AnixVPN | Canada #38
-trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#🇦🇺 AnixVPN | Australia #39
-trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#🇨🇿 AnixVPN | Czech Republic #40
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@89.163.220.99:28443?security=tls#🇩🇪 AnixVPN | Germany #41
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#🇵🇱 AnixVPN | Poland #42
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@62.210.254.72:28443?security=tls#🇫🇷 AnixVPN | France #43
-trojan://c2b0a060-44b0-11ed-ad2e-1239d0255272@51.81.82.15:443?security=tls#🇺🇸 AnixVPN | United States #44
-trojan://d4e41ff772c7fd45@23.247.137.70:3389?security=tls#🇺🇸 AnixVPN | United States #45
-trojan://FLpONjB2Lb@139.162.45.139:443?security=tls#🇸🇬 AnixVPN | Singapore #46
-trojan://7x42LetRa0@106.180.225.69:1443?security=tls#🇯🇵 AnixVPN | Japan #47
-trojan://d1960ba9f0f6353353994fa844cf817b@57.183.19.130:6357?allowInsecure=0&sni=www.nintendogames.net#🇸🇬 AnixVPN | Singapore #48
-trojan://XG59623478@194.99.79.214:443?security=tls&sni=growing-oyster.rooster465.autos#🇭🇰 AnixVPN | Hong Kong #49
-trojan://XG59623478@82.117.225.216:443?security=tls&sni=concise-buck.rooster465.autos#🇦🇺 AnixVPN | Australia #50
-trojan://NQ26071394@79.133.126.190:443?security=tls&sni=renewed-phoenix.rooster465.autos#🇳🇱 AnixVPN | Netherlands #51
-trojan://KV63147582@89.39.70.233:443?security=tls&sni=game-firefly.rooster465.autos#🇳🇱 AnixVPN | Netherlands #52
-trojan://humanity@208.103.161.101:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&Host=www.creationlong.org#🇺🇸 AnixVPN | United States #53
-trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#🇰🇷 AnixVPN | South Korea #54
-trojan://telegram-id-directvpn@3.145.14.67:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #55
-trojan://6d64570c-81d4-30fa-b2e2-dce73e1a2702@138.2.45.89:44301?security=tls&sni=osav101.jd0001.top#🇯🇵 AnixVPN | Japan #56
-trojan://xxoo@138.124.183.226:443?security=tls#🇬🇧 AnixVPN | United Kingdom #57
-trojan://f42e1a2e-e650-44f4-8d17-bcb68663da18@150.230.201.192:443?security=tls&sni=www.seetheworldjp.ga#🇯🇵 AnixVPN | Japan #58
-trojan://XG59623478@82.117.225.56:443?security=tls&sni=stirring-dane.rooster465.autos#🇦🇺 AnixVPN | Australia #59
-trojan://NQ26071394@87.121.33.68:443?security=tls&sni=wanted-marmoset.rooster465.autos#🇦🇺 AnixVPN | Australia #60
-trojan://d1960ba9f0f6353353994fa844cf817b@16.163.57.145:40138?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #61
-trojan://b490740312aedb5f9f6b84c7aebd08c0@54.46.77.161:38937?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #62
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.58.27:40138?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #63
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:47867?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #64
-trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.51.248:38937?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #65
-trojan://b490740312aedb5f9f6b84c7aebd08c0@35.77.80.32:40138?security=tls&sni=www.nintendogames.net#🇯🇵 AnixVPN | Japan #66
-trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#🇫🇷 AnixVPN | France #67
-trojan://telegram-id-privatevpns@54.93.240.151:22222?security=tls&sni=trj.rollingnext.co.uk#🇩🇪 AnixVPN | Germany #68
-trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#🇩🇪 AnixVPN | Germany #69
-trojan://da777aae-defb-41d0-a183-2c27da2b4677@150.230.96.103:443?security=tls#🇯🇵 AnixVPN | Japan #70
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@141.147.191.85:28443?security=tls#🇯🇵 AnixVPN | Japan #71
-trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com#🇭🇰 AnixVPN | Hong Kong #72
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@104.208.100.101:443?security=tls&sni=uk.liangyuandian.top#🇭🇰 AnixVPN | Hong Kong #73
-trojan://BxceQaOe@54.46.75.237:27161?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰 AnixVPN | Hong Kong #74
-trojan://d1960ba9f0f6353353994fa844cf817b@16.162.55.106:13118?allowInsecure=0&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #75
-trojan://BxceQaOe@16.162.34.239:11035?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰 AnixVPN | Hong Kong #76
-trojan://KV63147582@62.112.222.212:443?security=tls&sni=more-trout.rooster465.autos#🇵🇱 AnixVPN | Poland #77
-trojan://IQ68037294@193.169.239.162:443?security=tls&sni=distinct-ibex.rooster465.autos#🇳🇱 AnixVPN | Netherlands #78
-trojan://PI36027154@62.112.222.26:443?security=tls&sni=upright-hamster.rooster465.autos#🇵🇱 AnixVPN | Poland #79
-trojan://WG39087154@89.39.70.49:443?security=tls&sni=eager-louse.rooster465.autos#🇳🇱 AnixVPN | Netherlands #80
-trojan://IQ68037294@45.135.228.211:443?security=tls&sni=endless-kiwi.rooster465.autos#🇸🇬 AnixVPN | Singapore #81
-trojan://e23f408a-012e-4030-8b31-02022031cb50@129.146.135.157:443?security=tls#🇺🇸 AnixVPN | United States #82
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.179:443?security=tls&sni=tjsp.hhxaf.cc.cd#🇰🇷 AnixVPN | South Korea #83
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.58.27:49277?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #84
-trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:49277?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #85
-trojan://telegram-id-directvpn@34.220.74.123:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #86
-trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?security=tls#🇨🇦 AnixVPN | Canada #87
-trojan://d4e41ff772c7fd45@45.11.104.94:3389?security=tls&sni=sbank.ir#🇭🇰 AnixVPN | Hong Kong #88
-trojan://xxoo@3.34.6.217:443?security=tls#🇰🇷 AnixVPN | South Korea #89
-trojan://origin@51.77.71.134:443?security=tls#🇩🇪 AnixVPN | Germany #90
-trojan://2dab5d78-5c56-4252-850d-c037753a40db@51.81.211.171:443?security=tls#🇺🇸 AnixVPN | United States #91
-trojan://1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb@43.206.67.76:36306?security=tls&sni=sunmoon02.abzoones.xyz#🇯🇵 AnixVPN | Japan #92
-trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq#🇰🇷 AnixVPN | South Korea #93
-trojan://IQ68037294@13.39.89.72:443?security=tls&sni=definite-giraffe.rooster465.autos#🇫🇷 AnixVPN | France #94
-trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls#🇺🇸 AnixVPN | United States #95
+trojan://BxceQaOe@18.163.208.174:45691?security=tls&sni=t.me%252Fripaojiedian#🇭🇰 AnixVPN | Hong Kong #8
+trojan://PD07395842@85.234.65.26:443?security=tls&sni=pro-crane.rooster465.autos#🇳🇱 AnixVPN | Netherlands #9
+trojan://FC60532879@91.243.81.18:443?security=tls&sni=bright-quagga.rooster465.autos#🇸🇬 AnixVPN | Singapore #10
+trojan://WG39087154@91.243.81.101:443?security=tls&sni=still-mastodon.rooster465.autos#🇸🇬 AnixVPN | Singapore #11
+trojan://IQ68037294@45.135.228.211:443?security=tls&sni=endless-kiwi.rooster465.autos#🇸🇬 AnixVPN | Singapore #12
+trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?security=tls#🇰🇷 AnixVPN | South Korea #13
+trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?security=tls&sni=Koma-YT.PAGeS.Dev#🇳🇱 AnixVPN | Netherlands #14
+trojan://433e785b-2077-47f7-a43d-985f63dd18d1@59.30.42.194:12345?security=tls&sni=vpn.rnmcnm.com#🇰🇷 AnixVPN | South Korea #15
+trojan://433e785b-2077-47f7-a43d-985f63dd18d1@14.53.107.138:29999?security=tls&sni=vpn.rnmcnm.com#🇰🇷 AnixVPN | South Korea #16
+trojan://b490740312aedb5f9f6b84c7aebd08c0@95.40.51.248:38937?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #17
+trojan://b490740312aedb5f9f6b84c7aebd08c0@35.77.80.32:40138?security=tls&sni=www.nintendogames.net#🇯🇵 AnixVPN | Japan #18
+trojan://d1960ba9f0f6353353994fa844cf817b@43.207.96.164:49277?security=tls&sni=www.nintendogames.net#🇯🇵 AnixVPN | Japan #19
+trojan://6d64570c-81d4-30fa-b2e2-dce73e1a2702@173.82.240.199:44301?security=tls&sni=lav002.jd0001.top#🇺🇸 AnixVPN | United States #20
+trojan://telegram-id-directvpn@35.182.251.60:22222?security=tls&sni=trj.rollingnext.co.uk#🇨🇦 AnixVPN | Canada #21
+trojan://telegram-id-directvpn@34.210.47.105:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #22
+trojan://telegram-id-directvpn@3.239.128.106:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #23
+trojan://telegram-id-privatevpns@54.93.240.151:22222?security=tls&sni=trj.rollingnext.co.uk#🇩🇪 AnixVPN | Germany #24
+trojan://shenmegui@185.49.33.47:8461?security=tls&sni=$jp.swiftfalcon.app#🇬🇧 AnixVPN | United Kingdom #25
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@103.135.103.229:443?security=tls#🇭🇰 AnixVPN | Hong Kong #26
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.233.100:443?security=tls&sni=tj.hhll.qqs.me&type=ws&path=/proxyip=104.168.132.123,172.104.53.198,85.121.50.16,151.242.125.226&Host=tj.hhll.qqs.me#🇺🇸 AnixVPN | United States #27
+trojan://d1478689-439c-4590-b7ce-36e786a02dc3@107.181.161.163:443?security=tls&sni=107.181.161.163#🇺🇸 AnixVPN | United States #28
+trojan://87f6eb37-36af-4347-95c7-8b3b0a3e9194@157.120.35.234:443?security=tls&sni=download.windowsupdate1.com#🇯🇵 AnixVPN | Japan #29
+trojan://0c6a3341e8d5ab17@103.172.116.196:3389?security=tls#🇸🇬 AnixVPN | Singapore #30
+trojan://xxoo@138.124.183.226:443?security=tls#🇬🇧 AnixVPN | United Kingdom #31
+trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#🇩🇪 AnixVPN | Germany #32
+trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz#🇺🇸 AnixVPN | United States #33
+trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#🇸🇪 AnixVPN | Sweden #34
+trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#🇸🇪 AnixVPN | Sweden #35
+trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#🇸🇪 AnixVPN | Sweden #36
+trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#🇸🇪 AnixVPN | Sweden #37
+trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#🇬🇧 AnixVPN | United Kingdom #38
+trojan://d1960ba9f0f6353353994fa844cf817b@18.163.118.58:13118?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #39
+trojan://WG39087154@82.117.226.92:443?security=tls&sni=superb-dory.rooster465.autos#🇰🇷 AnixVPN | South Korea #40
+trojan://IQ68037294@35.180.10.212:443?security=tls&sni=firm-warthog.rooster465.autos#🇫🇷 AnixVPN | France #41
+trojan://WG39087154@79.133.126.111:443?security=tls&sni=powerful-squid.rooster465.autos#🇳🇱 AnixVPN | Netherlands #42
+trojan://ON38567014@79.133.126.137:443?security=tls&sni=workable-crawdad.rooster465.autos#🇳🇱 AnixVPN | Netherlands #43
+trojan://HdsUZmsHQW@148.113.141.99:443?security=tls#🇨🇦 AnixVPN | Canada #44
+trojan://Sp3eDVp@185.212.200.75:443?security=tls#🇺🇸 AnixVPN | United States #45
+trojan://b490740312aedb5f9f6b84c7aebd08c0@18.163.123.229:38937?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #46
+trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#🇫🇷 AnixVPN | France #47
+trojan://6d64570c-81d4-30fa-b2e2-dce73e1a2702@138.2.45.89:44301?security=tls&sni=osav101.jd0001.top#🇯🇵 AnixVPN | Japan #48
+trojan://telegram-id-privatevpns@13.48.202.26:22222?security=tls&sni=trj.rollingnext.co.uk#🇸🇪 AnixVPN | Sweden #49
+trojan://telegram-id-directvpn@18.222.168.7:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #50
+trojan://telegram-id-directvpn@3.129.217.93:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #51
+trojan://bs6KJkPBW9MP74uHEa@45.80.190.66:443?security=tls#🇩🇪 AnixVPN | Germany #52
+trojan://39386ab3-db28-468f-b87b-471f4ab7ca1c@170.64.130.150:443?security=tls&sni=$trxn.ballistics.top#🇦🇺 AnixVPN | Australia #53
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@43.154.172.79:10102?security=tls#🇭🇰 AnixVPN | Hong Kong #54
+trojan://a70b39d1-62ea-4d9e-b681-9c5408352234@103.103.245.125:50418?security=tls#🇭🇰 AnixVPN | Hong Kong #55
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@20.163.90.12:443?security=tls&sni=paydiu.com#🇺🇸 AnixVPN | United States #56
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.26.189.91:443?security=tls&sni=tj.hhll.qqs.me&type=ws&path=/proxyip=104.168.132.123,172.104.53.198,85.121.50.16,151.242.125.226&Host=tj.hhll.qqs.me#🇺🇸 AnixVPN | United States #57
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@168.138.189.17:28443?security=tls#🇸🇬 AnixVPN | Singapore #58
+trojan://c60fbf90-4b55-11ed-b935-225401db9d57@51.75.76.22:443?security=tls#🇩🇪 AnixVPN | Germany #59
+trojan://xxoo@146.19.230.241:443?security=tls#🇫🇷 AnixVPN | France #60
+trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@152.67.98.30:443?security=tls#🇦🇺 AnixVPN | Australia #61
+trojan://1b5eff5a-f36b-4149-8001-7c8c0c4ed2eb@43.206.67.76:36306?security=tls&sni=sunmoon02.abzoones.xyz#🇯🇵 AnixVPN | Japan #62
+trojan://kSZddpnUKy@150.136.57.125:41106?security=tls#🇺🇸 AnixVPN | United States #63
+trojan://92902210-2eb5-11ee-b234-205c6d5f5d78@95.179.255.171:2087?security=tls&sni=asia.oceis.net&type=grpc&serviceName=trgrpc#🇩🇪 AnixVPN | Germany #64
+trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#🇩🇪 AnixVPN | Germany #65
+trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#🇩🇪 AnixVPN | Germany #66
+trojan://telegram-id-directvpn@3.96.217.9:22222?security=tls&sni=trj.rollingnext.co.uk#🇨🇦 AnixVPN | Canada #67
+trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443?security=tls&sni=ba24.ir#🇺🇸 AnixVPN | United States #68
+trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#🇸🇪 AnixVPN | Sweden #69
+trojan://NQ26071394@87.121.33.68:443?security=tls&sni=wanted-marmoset.rooster465.autos#🇦🇺 AnixVPN | Australia #70
+trojan://IQ68037294@62.112.222.27:443?security=tls&sni=optimal-urchin.rooster465.autos#🇵🇱 AnixVPN | Poland #71
+trojan://origin@176.31.83.90:443?security=tls#🇫🇷 AnixVPN | France #72
+trojan://d1960ba9f0f6353353994fa844cf817b@18.163.123.29:17005?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #73
+trojan://d1960ba9f0f6353353994fa844cf817b@18.163.123.29:49277?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #74
+trojan://b490740312aedb5f9f6b84c7aebd08c0@18.166.58.27:40138?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #75
+trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:47867?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #76
+trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=trj.rollingnext.co.uk#🇬🇧 AnixVPN | United Kingdom #77
+trojan://jKRJgS7uvI@155.248.193.254:31853?security=tls#🇺🇸 AnixVPN | United States #78
+trojan://telegram-id-directvpn@34.220.74.123:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #79
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@23.145.24.30:443?security=tls#🇯🇵 AnixVPN | Japan #80
+trojan://4d111af8-5078-37e0-a583-34155f60b32c@129.146.175.86:44302?security=tls&sni=phxv001.jd0001.top#🇺🇸 AnixVPN | United States #81
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@159.65.147.91:443?security=tls#🇮🇳 AnixVPN | India #82
+trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir#🇷🇺 AnixVPN | Russia #83
+trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@168.138.43.89:443?security=tls#🇯🇵 AnixVPN | Japan #84
+trojan://4f7dc540-d244-4e64-af21-4b5bb300add3@132.226.5.246:443?security=tls&sni=www.tokyo2023.ga#🇯🇵 AnixVPN | Japan #85
+trojan://7x42LetRa0@106.180.225.69:1443?security=tls#🇯🇵 AnixVPN | Japan #86
+trojan://8r<[9'l6hAO#🇯🇵 AnixVPN | Japan #87
+trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#🇳🇱 AnixVPN | Netherlands #88
+trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#🇩🇪 AnixVPN | Germany #89
+trojan://telegram-id-privatevpns@15.237.50.200:22222?security=tls&sni=trj.rollingnext.co.uk#🇫🇷 AnixVPN | France #90
+trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#🇫🇷 AnixVPN | France #91
+trojan://BxceQaOe@95.40.61.23:11035?security=tls&sni=t.me%2Fripaojiedian#🇭🇰 AnixVPN | Hong Kong #92
+trojan://BxceQaOe@43.199.34.153:27161?security=tls&sni=t.me%2Fripaojiedian#🇭🇰 AnixVPN | Hong Kong #93
+trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls#🇺🇸 AnixVPN | United States #94
+trojan://telegram-id-directvpn@35.91.162.93:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #95
 trojan://bs6KJkPBW9MP74uHEa@45.80.190.64:443?security=tls#🇩🇪 AnixVPN | Germany #96
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.121.74.146:2053?security=tls#🇯🇵 AnixVPN | Japan #97
-trojan://ON38567014@79.133.126.137:443?security=tls&sni=workable-crawdad.rooster465.autos#🇳🇱 AnixVPN | Netherlands #98
-trojan://d1960ba9f0f6353353994fa844cf817b@16.162.91.50:38937?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #99
-trojan://telegram-id-directvpn@18.222.168.7:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #100
+trojan://27876_t7d7f4e3f@23.142.200.175:443?security=tls#🇺🇸 AnixVPN | United States #97
+trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#🇬🇧 AnixVPN | United Kingdom #98
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@141.95.61.209:1145?security=tls#🇫🇷 AnixVPN | France #99
+trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443?security=tls#🇯🇵 AnixVPN | Japan #100
