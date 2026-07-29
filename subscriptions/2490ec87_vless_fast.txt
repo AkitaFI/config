@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=66827264; download=66827264; total=10995116277760; expire=0
+#subscription-userinfo: upload=82222080; download=82222080; total=10995116277760; expire=0
 
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@162.159.44.7:2053?encryption=none&type=ws&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&fp=chrome&sni=josni.hoyes.cloudns.ch#🇪🇪 AnixVPN | Estonia #1
 vless://a3160bea-8479-4eb0-bcb5-a79453a4d0f7@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=ios#🇷🇺 AnixVPN | Russia #2
