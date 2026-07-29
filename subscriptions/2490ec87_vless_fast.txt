@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=704854016; download=704854016; total=10995116277760; expire=0
+#subscription-userinfo: upload=722881536; download=722881536; total=10995116277760; expire=0
 
 vless://5ae768bf-2ea0-22d2-eade-6763e14dc745@81.225.165.216:1001?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a#🇷🇺 AnixVPN | Russia #1
 vless://d0722d01-7ee8-03e8-85e1-d590ad0e60d3@37.139.33.57:52006?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&packetEncoding=xudp#🇵🇭 AnixVPN | Philippines #2
