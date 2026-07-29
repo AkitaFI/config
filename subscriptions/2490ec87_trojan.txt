@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=116916224; download=116916224; total=10995116277760; expire=0
+#subscription-userinfo: upload=127612928; download=127612928; total=10995116277760; expire=0
 
 trojan://a70b39d1-62ea-4d9e-b681-9c5408352234@103.103.245.125:50418?security=tls#🇭🇰 AnixVPN | Hong Kong #1
 trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@20.163.90.12:443?security=tls&sni=paydiu.com#🇺🇸 AnixVPN | United States #2
