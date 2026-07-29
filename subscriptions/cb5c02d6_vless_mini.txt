@@ -3,20 +3,19 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=228321280; download=228321280; total=10995116277760; expire=0
+#subscription-userinfo: upload=252283904; download=252283904; total=10995116277760; expire=0
 
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@31.172.67.215:4100?security=none&sni=tn.tmn141246.ru&type=ws&host=live.ok.ru&path=%2Fv1#🇷🇺 AnixVPN | Russia #1
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22224?encryption=none&security=none&type=tcp#🇫🇷 AnixVPN | France #1
 vless://75b38c79-92e3-454b-b98e-52fbd254884d@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=towndtime.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇫🇮 AnixVPN | Finland #2
 vless://f5576b8c-57b3-40cd-9c09-dba9f3106435@140.248.185.253:443?security=tls&sni=ssl.fastly.com&type=ws&host=pan1.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&allowInsecure=0#🇫🇮 AnixVPN | Finland #3
-vless://74ae950f-95c6-417b-9409-a0f58be33429@195.123.216.28:443?type=grpc&security=reality&sni=www.intel.com&pbk=RRhxkmf4YgwjyNSikyomlL6Me9329CTvZbAMFWakWjE&sid=4e6e39c4#🇳🇱 AnixVPN | Netherlands #4
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@89.127.217.210:4100?type=ws&security=none&encryption=none&path=%2Fv1&host=live.ok.ru&headerType=none#🇺🇸 AnixVPN | United States #5
-vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&spx=/&type=raw#🇷🇺 AnixVPN | Russia #6
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.140.169:22224?encryption=none&security=none&type=tcp#🇫🇷 AnixVPN | France #7
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@130.17.2.137:4100/?type=ws&encryption=none&flow=&path=%2Fv1#🇺🇸 AnixVPN | United States #8
-vless://9c32f85f-6e9c-429f-b7dc-3eeb8901259e@87.120.106.226:14610?security=&encryption=none&headerType=&type=tcp#🇩🇪 AnixVPN | Germany #9
-vless://095a6088-d997-444c-b7e5-d7706a447769@free-de-04.la-la-land.top:443?type=tcp&headerType=none&security=reality&encryption=none&sni=free-de-04.la-la-land.top&fp=firefox&pbk=uRuW2K9JNw64jgAVEdV39NMh_udtVD6xxEV-dQFATHY#🇬🇧 AnixVPN | United Kingdom #10
-vless://99df3ab6-784b-4081-9a63-9aba4af10f5c@nl.furryraccoon.net:443?&security=tls&fp=firefox&sni=nl.furryraccoon.net&type=ws&headerType=none&host=nl.furryraccoon.net&path=%2Fvless#🇳🇱 AnixVPN | Netherlands #11
-vless://f5576b8c-57b3-40cd-9c09-dba9f3106435@fast.cd-tur4.ir:443?type=ws&security=tls&sni=ssl.fastly.com&host=pan1.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053#🇫🇮 AnixVPN | Finland #12
-vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cs10210.vk.com&fp=firefox&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&spx=%2F&flow=xtls-rprx-vision#🇵🇱 AnixVPN | Poland #13
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@31.172.67.215:4100?security=none&sni=tn.tmn141246.ru&type=ws&host=live.ok.ru&path=%2Fv1#🇷🇺 AnixVPN | Russia #4
+vless://9c32f85f-6e9c-429f-b7dc-3eeb8901259e@87.120.106.226:14610?security=&encryption=none&headerType=&type=tcp#🇩🇪 AnixVPN | Germany #5
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@130.17.2.137:4100/?type=ws&encryption=none&flow=&path=%2Fv1#🇺🇸 AnixVPN | United States #6
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&spx=/&type=raw#🇷🇺 AnixVPN | Russia #7
+vless://74ae950f-95c6-417b-9409-a0f58be33429@195.123.216.28:443?type=grpc&security=reality&sni=www.intel.com&pbk=RRhxkmf4YgwjyNSikyomlL6Me9329CTvZbAMFWakWjE&sid=4e6e39c4#🇳🇱 AnixVPN | Netherlands #8
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@89.127.217.210:4100?type=ws&security=none&encryption=none&path=%2Fv1&host=live.ok.ru&headerType=none#🇺🇸 AnixVPN | United States #9
+vless://f5576b8c-57b3-40cd-9c09-dba9f3106435@fast.cd-tur4.ir:443?type=ws&security=tls&sni=ssl.fastly.com&host=pan1.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053#🇫🇮 AnixVPN | Finland #10
+vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cs10210.vk.com&fp=firefox&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&spx=%2F&flow=xtls-rprx-vision#🇵🇱 AnixVPN | Poland #11
+vless://e22418f6-8fe0-4088-9dc3-ec5e1c78b6b8@pro-fi.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-fi.emrata.top&flow=xtls-rprx-vision#🇫🇮 AnixVPN | Finland #12
+vless://095a6088-d997-444c-b7e5-d7706a447769@free-de-04.la-la-land.top:443?type=tcp&headerType=none&security=reality&encryption=none&sni=free-de-04.la-la-land.top&fp=firefox&pbk=uRuW2K9JNw64jgAVEdV39NMh_udtVD6xxEV-dQFATHY#🇬🇧 AnixVPN | United Kingdom #13
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@my.neoncloak.space:443?&security=reality&flow=xtls-rprx-vision&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&fp=firefox&sni=my.neoncloak.space&type=tcp&headerType=none&host=my.neoncloak.space&path=%2F#🇵🇱 AnixVPN | Poland #14
-vless://e22418f6-8fe0-4088-9dc3-ec5e1c78b6b8@pro-fi.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-fi.emrata.top&flow=xtls-rprx-vision#🇫🇮 AnixVPN | Finland #15
