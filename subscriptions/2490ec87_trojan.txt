@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=171123712; download=171123712; total=10995116277760; expire=0
+#subscription-userinfo: upload=178170880; download=178170880; total=10995116277760; expire=0
 
 trojan://telegram-id-directvpn@34.220.74.123:22222?security=tls&sni=trj.rollingnext.co.uk#🇺🇸 AnixVPN | United States #1
 trojan://d1960ba9f0f6353353994fa844cf817b@54.46.50.201:17005?security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #2
