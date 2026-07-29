@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=116630528; download=116630528; total=10995116277760; expire=0
+#subscription-userinfo: upload=141206528; download=141206528; total=10995116277760; expire=0
 
 vless://e7b178da-65e8-45ad-8550-de40eb0a7835@162.159.62.32:80?encryption=none&type=ws&host=sahanwickramasinghevip.shop&path=%2F&security=none#🇸🇬 AnixVPN | Singapore #1
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.78:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-1.ariyuz.org&type=ws&headerType=none&host=germany-1.ariyuz.org&path=%2F#🇬🇧 AnixVPN | United Kingdom #2
