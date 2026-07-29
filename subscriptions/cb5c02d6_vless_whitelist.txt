@@ -3,11 +3,11 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=142071808; download=142071808; total=10995116277760; expire=0
+#subscription-userinfo: upload=155406336; download=155406336; total=10995116277760; expire=0
 
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@130.17.1.19:443?security=reality&type=tcp&sni=swe06.myxasecure.space&fp=firefox&flow=xtls-rprx-vision&sid=d67ec5a8fc40ebea&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw#🇸🇪 AnixVPN | Sweden #1
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&spx=/&type=raw#🇷🇺 AnixVPN | Russia #1
 vless://2e72e2ca-2113-4775-9259-1ab5f9724d2e@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#🇷🇺 AnixVPN | Russia #2
-vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&spx=/&type=raw#🇷🇺 AnixVPN | Russia #3
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@130.17.1.19:443?security=reality&type=tcp&sni=swe06.myxasecure.space&fp=firefox&flow=xtls-rprx-vision&sid=d67ec5a8fc40ebea&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw#🇸🇪 AnixVPN | Sweden #3
 vless://1715e320-8d46-4074-b032-d9a8f2558fff@147.45.136.218:443?type=tcp&headerType=none&security=reality&encryption=none&sni=euronode.click&fp=qq&pbk=1En4-0B5KMRfcxvuDxKtGTqS-X4pGtj_efA7SNZdAh0&flow=xtls-rprx-vision#🇳🇱 AnixVPN | Netherlands #4
 vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:443?security=reality&type=xhttp&path=%2F&sni=swcdn.apple.com&fp=chrome&pbk=Nnpwm8dqFl9dlMJmg0M9G11vmgCKzNagFTn4tH4sWy4#🇺🇸 AnixVPN | United States #5
 vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@191.44.108.249:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yahoo.com&fp=firefox&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc&flow=xtls-rprx-vision#🇩🇪 AnixVPN | Germany #6
