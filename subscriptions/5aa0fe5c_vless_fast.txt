@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=286650368; download=286650368; total=10995116277760; expire=0
+#subscription-userinfo: upload=305624064; download=305624064; total=10995116277760; expire=0
 
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.130.125.239:2087?security=tls&sni=tot1.erooo12345.xyz&type=ws&host=tot1.erooo12345.xyz&path=%2F&fp=chrome&allowInsecure=0#🇩🇪 AnixVPN | Germany #1
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@172.67.185.125:8443?encryption=none&fp=chrome&host=ad-005.zen2bswa.info&path=%2F&security=tls&sni=ad-005.zen2bswa.info&type=ws#🇩🇪 AnixVPN | Germany #2
