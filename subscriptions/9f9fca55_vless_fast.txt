@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=1125493760; download=1125493760; total=10995116277760; expire=0
+#subscription-userinfo: upload=1133958144; download=1133958144; total=10995116277760; expire=0
 
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.200:2053?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🇩🇪 AnixVPN | Germany #1
 vless://d57b9436-a238-4066-8b11-d23ae57c5982@54.179.79.12:53646?fp=chrome&host=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&type=ws#🇸🇬 AnixVPN | Singapore #2
