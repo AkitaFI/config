@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=1816625152; download=1816625152; total=10995116277760; expire=0
+#subscription-userinfo: upload=1836752896; download=1836752896; total=10995116277760; expire=0
 
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.251.23:443?flow=xtls-rprx-vision&fp=safari&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sid=&sni=apple.com&type=tcp#🇳🇱 AnixVPN | Netherlands #1
 vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.251.9:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#🇳🇱 AnixVPN | Netherlands #2
