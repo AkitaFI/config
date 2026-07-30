@@ -5,10 +5,10 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 #subscription-userinfo: upload=1646338048; download=1646338048; total=10995116277760; expire=0
 
-vless://a046297b-0f66-4514-8d4f-2a7d200d8d37@2.26.70.181:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=s2vIO76C2QmrvyeujAWxTmQtQ51bwMTWDgQESIm8J1c&security=reality&sid=bdcaf30f86&sni=1.aws-lbr.amazonaws.com&type=tcp#🇳🇱 AnixVPN | Netherlands #1
-vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.eni.com&spx=%2F&type=raw&fp=chrome#🇷🇺 AnixVPN | Russia #2
-vless://aaa16b30-0816-0002-bab3-f4b4e850fe88@192.142.23.33:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jwtdecoder.xyz&sid=1c3e8241a8743df9#🇸🇪 AnixVPN | Sweden #3
-vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:443?&security=reality&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&sni=dl.google.com&type=xhttp#🇺🇸 AnixVPN | United States #4
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.eni.com&spx=%2F&type=raw&fp=chrome#🇷🇺 AnixVPN | Russia #1
+vless://aaa16b30-0816-0002-bab3-f4b4e850fe88@192.142.23.33:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jwtdecoder.xyz&sid=1c3e8241a8743df9#🇸🇪 AnixVPN | Sweden #2
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:443?&security=reality&pbk=Rt2wltCWOxIroFggNWMudZDBJXls8DsF4icaWqxKDk8&sni=dl.google.com&type=xhttp#🇺🇸 AnixVPN | United States #3
+vless://a046297b-0f66-4514-8d4f-2a7d200d8d37@2.26.70.181:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=s2vIO76C2QmrvyeujAWxTmQtQ51bwMTWDgQESIm8J1c&security=reality&sid=bdcaf30f86&sni=1.aws-lbr.amazonaws.com&type=tcp#🇳🇱 AnixVPN | Netherlands #4
 vless://e3cda0e7-10e6-4afd-8328-da05072ef086@tun.temas-bor.ir:443?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=firefox&spx=/&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#🇩🇪 AnixVPN | Germany #5
-vless://74ae950f-95c6-417b-9409-a0f58be33429@nd.unit-digital.com:443?security=reality&encryption=none&pbk=RRhxkmf4YgwjyNSikyomlL6Me9329CTvZbAMFWakWjE&fp=edge&spx=%2F&type=grpc&sni=www.intel.com&sid=4e6e39c4#🇳🇱 AnixVPN | Netherlands #6
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@api.getsavesafe.net:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=api.getsavesafe.net&fp=qq&pbk=XyVDRn9DwbR6_bZPiGGz0jgCONpfH5LVbDaUejtiuTA&sid=16f5b3bddf7f68ae&path=%2F#🇳🇱 AnixVPN | Netherlands #7
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@api.getsavesafe.net:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=api.getsavesafe.net&fp=qq&pbk=XyVDRn9DwbR6_bZPiGGz0jgCONpfH5LVbDaUejtiuTA&sid=16f5b3bddf7f68ae&path=%2F#🇳🇱 AnixVPN | Netherlands #6
+vless://74ae950f-95c6-417b-9409-a0f58be33429@nd.unit-digital.com:443?security=reality&encryption=none&pbk=RRhxkmf4YgwjyNSikyomlL6Me9329CTvZbAMFWakWjE&fp=edge&spx=%2F&type=grpc&sni=www.intel.com&sid=4e6e39c4#🇳🇱 AnixVPN | Netherlands #7
