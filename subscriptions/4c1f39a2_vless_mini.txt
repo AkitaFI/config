@@ -3,20 +3,20 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=1202302976; download=1202302976; total=10995116277760; expire=0
+#subscription-userinfo: upload=1226219520; download=1226219520; total=10995116277760; expire=0
 
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@89.127.217.210:4100?type=ws&security=none&encryption=none&path=%2Fv1&host=live.ok.ru&headerType=none#🇩🇪 AnixVPN | Germany #1
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@195.133.25.181:4100?type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=firefox#🇺🇸 AnixVPN | United States #2
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@31.172.67.215:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇺🇸 AnixVPN | United States #3
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@217.149.23.141:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&sid=496ee75c2f91f51d&flow=xtls-rprx-vision#🇷🇺 AnixVPN | Russia #4
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@176.124.212.48:443?security=reality&type=xhttp&path=/&host=mnl.savesafe.space&sni=bridgework.savesafe.space&fp=qq&sid=b997e34499a919f3&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&encryption=none#🇷🇺 AnixVPN | Russia #5
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.198.80.9:443?security=reality&type=xhttp&path=/&host=mnl.savesafe.space&sni=bridgework.savesafe.space&fp=qq&sid=b997e34499a919f3&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&encryption=none#🇷🇺 AnixVPN | Russia #6
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@5.129.206.126:443?security=reality&type=xhttp&path=/&host=mnl.savesafe.space&sni=bridgework.savesafe.space&fp=firefox&sid=b997e34499a919f3&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&encryption=none#🇷🇺 AnixVPN | Russia #7
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@104.171.132.207:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&security=reality&sid=496ee75c2f91f51d&sni=ads.x5.ru&type=raw#🇺🇸 AnixVPN | United States #8
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@201.51.2.248:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&sid=496ee75c2f91f51d&flow=xtls-rprx-vision#🇧🇷 AnixVPN | Brazil #9
-vless://28a895d7-f41a-427f-8ad8-5909a45c9a9e@213.219.212.30:443?encryption=none&security=reality&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision#🇷🇺 AnixVPN | Russia #10
-vless://bece874b-e905-48a4-9620-5ef59b49081a@5.175.249.199:52315?path=%2F&security=&encryption=none&type=ws#🇩🇪 AnixVPN | Germany #11
-vless://28a895d7-f41a-427f-8ad8-5909a45c9a9e@213.219.212.24:443?encryption=none&security=reality&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision#🇷🇺 AnixVPN | Russia #12
-vless://28a895d7-f41a-427f-8ad8-5909a45c9a9e@213.219.212.14:443?encryption=none&security=reality&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision#🇷🇺 AnixVPN | Russia #13
-vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.eni.com&spx=%2F&type=raw#🇷🇺 AnixVPN | Russia #14
-vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=www.eni.com&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&spx=%2F&fp=chrome#🇷🇺 AnixVPN | Russia #15
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@72.56.244.137:443?security=reality&type=tcp&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&sid=496ee75c2f91f51d&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&encryption=none#🇸🇨 AnixVPN | Seychelles #1
+vless://e4927998-38dd-4bf4-a37d-4cc67a06ee2d@172.66.170.53:8880?type=ws&host=cold-shadow-66a0.278.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇸🇪 AnixVPN | Sweden #2
+vless://8b9986f7-889c-4213-bc64-fafe012fabd6@104.18.10.118:8880?&type=ws&headerType=none&host=morning-cell-adfc.99-c38.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇫🇮 AnixVPN | Finland #3
+vless://28a895d7-f41a-427f-8ad8-5909a45c9a9e@213.219.212.30:443?encryption=none&security=reality&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision#🇷🇺 AnixVPN | Russia #4
+vless://28a895d7-f41a-427f-8ad8-5909a45c9a9e@213.219.212.24:443?encryption=none&security=reality&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision#🇷🇺 AnixVPN | Russia #5
+vless://28a895d7-f41a-427f-8ad8-5909a45c9a9e@213.219.212.14:443?encryption=none&security=reality&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision#🇷🇺 AnixVPN | Russia #6
+vless://bece874b-e905-48a4-9620-5ef59b49081a@5.175.249.199:52315?path=%2F&security=&encryption=none&type=ws#🇩🇪 AnixVPN | Germany #7
+vless://63a1d550-f8da-456e-813c-398dd819e405@104.17.21.32:8880?&security=none&type=ws&headerType=&host=noisy-cherry-b46b.206-866.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇷🇺 AnixVPN | Russia #8
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@ruded2.onlinestreamself.com:443?encryption=none&security=reality&sni=apple.com&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&flow=xtls-rprx-vision#🇳🇱 AnixVPN | Netherlands #9
+vless://6d73dc1e-1627-4b16-b471-53e63aa16c78@162.159.140.78:8880?&security=false&fp=chrome&type=ws&headerType=none&host=sweet-truth-ccdb.134-7e9.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇷🇺 AnixVPN | Russia #10
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.251.189:443?&security=reality&flow=xtls-rprx-vision&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&fp=chrome&sni=apple.com&type=tcp&headerType=none&path=%2F#🇳🇱 AnixVPN | Netherlands #11
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ru1-cr.astralweb.tech:443?type=tcp&security=reality&sni=ru1-cr.astralweb.tech&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&encryption=none&flow=xtls-rprx-vision&fp=safari#🇬🇧 AnixVPN | United Kingdom #12
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@77.222.35.36:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺 AnixVPN | Russia #13
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?type=tcp&headerType=none&security=tls&encryption=none&sni=lv-ddc.astralweb.tech&fp=firefox&alpn=h2&insecure=0#🇩🇪 AnixVPN | Germany #14
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@217.149.23.141:443?encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&sid=496ee75c2f91f51d&flow=xtls-rprx-vision#🇷🇺 AnixVPN | Russia #15
