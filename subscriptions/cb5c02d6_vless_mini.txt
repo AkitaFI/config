@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=1414622208; download=1414622208; total=10995116277760; expire=0
+#subscription-userinfo: upload=1432835072; download=1432835072; total=10995116277760; expire=0
 
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?type=ws&security=none&path=/v1#🇺🇸 AnixVPN | United States #1
 vless://fd22ad82-2d89-4338-b72c-5092ae699c7d@194.67.102.65:8880?encryption=none&type=ws&security=none&path=%2Frutube&host=rutube.ummapeople.online#🇷🇺 AnixVPN | Russia #2
@@ -13,9 +13,9 @@ vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&
 vless://28a895d7-f41a-427f-8ad8-5909a45c9a9e@213.219.212.14:443?encryption=none&security=reality&sni=pro-ru-213.emrata.top&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision&fp=firefox#🇷🇺 AnixVPN | Russia #6
 vless://28a895d7-f41a-427f-8ad8-5909a45c9a9e@213.219.212.30:443?encryption=none&security=reality&sni=pro-ru-213.emrata.top&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision&fp=edge#🇷🇺 AnixVPN | Russia #7
 vless://3bf2781f-63a2-4c38-ad02-2cc337c2f7fa@www.glassdoor.com:8880?&security=false&fp=chrome&type=ws&headerType=none&host=silent-heart-175f.325-a85.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇷🇺 AnixVPN | Russia #8
-vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon&security=tls&alpn=h2&encryption=none&insecure=0&host=utmwb.freshlionnode-fla.sbs&type=ws&allowInsecure=0&sni=utmwb.freshlionnode-fla.sbs#🇫🇷 AnixVPN | France #9
-vless://f0eac976-e4e2-4e24-bc86-cda82ee31442@tw05.kinomir.fun:40443?type=tcp&headerType=none&security=reality&pbk=7QJA1tXQcNj8gioQVzief5a4KeUTDT7R8FE0jfKU41k&fp=qq&sni=deepl.com&sid=3180&spx=%2F#🇷🇺 AnixVPN | Russia #10
-vless://a429499b-6237-44b2-ae4d-0d53d14cf46a@themeforest.net:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=small-wave-9851.441-57f.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇷🇺 AnixVPN | Russia #11
-vless://ed189537-41de-4abe-9f8b-bb75d457722d@log.bpminecraft.com:8880?&security=false&fp=chrome&type=ws&headerType=none&host=lucky-cake-4f58.318-5ee.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇭🇰 AnixVPN | Hong Kong #12
-vless://e9f44bc0-72c5-435b-9ab0-b1525823ad02@www.visa.com.sg:8880?&security=false&fp=chrome&type=ws&headerType=none&host=gentle-rice-a9b4.460-a3e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇫🇮 AnixVPN | Finland #13
-vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.eni.com&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&spx=%2F&flow=xtls-rprx-vision&fp=chrome#🇷🇺 AnixVPN | Russia #14
+vless://f0eac976-e4e2-4e24-bc86-cda82ee31442@tw05.kinomir.fun:40443?type=tcp&headerType=none&security=reality&pbk=7QJA1tXQcNj8gioQVzief5a4KeUTDT7R8FE0jfKU41k&fp=qq&sni=deepl.com&sid=3180&spx=%2F#🇷🇺 AnixVPN | Russia #9
+vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=/carbon&security=tls&alpn=h2&encryption=none&insecure=0&host=utmwb.freshlionnode-fla.sbs&type=ws&allowInsecure=0&sni=utmwb.freshlionnode-fla.sbs#🇫🇷 AnixVPN | France #10
+vless://ed189537-41de-4abe-9f8b-bb75d457722d@log.bpminecraft.com:8880?&security=false&fp=chrome&type=ws&headerType=none&host=lucky-cake-4f58.318-5ee.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇭🇰 AnixVPN | Hong Kong #11
+vless://a8f84171-5f96-4547-b621-59758fe668c8@node-tw0.omhvp.co:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.eni.com&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&sid=7a5b89ecdb01f781&spx=%2F&flow=xtls-rprx-vision&fp=chrome#🇷🇺 AnixVPN | Russia #12
+vless://a429499b-6237-44b2-ae4d-0d53d14cf46a@themeforest.net:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=small-wave-9851.441-57f.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇷🇺 AnixVPN | Russia #13
+vless://e9f44bc0-72c5-435b-9ab0-b1525823ad02@www.visa.com.sg:8880?&security=false&fp=chrome&type=ws&headerType=none&host=gentle-rice-a9b4.460-a3e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇫🇮 AnixVPN | Finland #14
