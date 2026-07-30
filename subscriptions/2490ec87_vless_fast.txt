@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=862125056; download=862125056; total=10995116277760; expire=0
+#subscription-userinfo: upload=891430912; download=891430912; total=10995116277760; expire=0
 
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@172.64.53.89:443?type=ws&headerType=none&security=tls&encryption=none&sni=canda.usic.ccwu.cc&fp=edge&path=%2Fapi%2Fv2%2Fcheck_update&host=canda.usic.ccwu.cc&insecure=0#🇨🇦 AnixVPN | Canada #1
 vless://35ec6474-c6fd-0210-34c9-de9e43389781@69.46.46.3:443?path=/ws/35ec6474-c6fd-0210-34c9-de9e43389781&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-5879.up.railway.app&fp=chrome&type=ws&sni=rvg-production-5879.up.railway.app#🇺🇸 AnixVPN | United States #2
