@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=1794329600; download=1794329600; total=10995116277760; expire=0
+#subscription-userinfo: upload=1831243776; download=1831243776; total=10995116277760; expire=0
 
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@85.149.220.15:8443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🇩🇪 AnixVPN | Germany #1
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@31.172.67.215:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇺🇸 AnixVPN | United States #2
