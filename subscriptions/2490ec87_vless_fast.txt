@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=1324005376; download=1324005376; total=10995116277760; expire=0
+#subscription-userinfo: upload=1352840192; download=1352840192; total=10995116277760; expire=0
 
 vless://bf667068-11cb-4c37-a867-4a2b03b45555@162.159.140.78:8880?host=flat-sun-b8d3.225-154.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&sni=flat-sun-b8d3.225-154.workers.dev&type=ws#🇷🇺 AnixVPN | Russia #1
 vless://2756d45c-2d91-4783-8114-ad1e128799ba@104.19.146.207:8880?encryption=none&type=ws&host=blue-breeze-e33c.261.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none#🇷🇺 AnixVPN | Russia #2
