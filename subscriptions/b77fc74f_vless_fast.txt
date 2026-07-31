@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=555578368; download=555578368; total=10995116277760; expire=0
+#subscription-userinfo: upload=560514048; download=560514048; total=10995116277760; expire=0
 
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@5.129.194.34:4100?host=live.ok.ru&path=%2Fv1&provider_id=zieng_vless_universal&security=none&source_name=zieng_vless_universal&type=ws#🇺🇸 AnixVPN | United States #1
 vless://e80398bb-aecb-4686-a75c-dfe4cd8ce242@178.17.53.177:34150?security=reality&encryption=none&pbk=nlEvGwt7WTuobjUSOK9ITQ8LF5VIC-SrWPMTH9FqTk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=84abf04b#🇫🇮 AnixVPN | Finland #2
