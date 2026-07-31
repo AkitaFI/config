@@ -1,0 +1,7 @@
+#profile-user-id: 999624522
+#profile-title: Anix VPN - WhiteList 🕊️
+#profile-update-interval: 6
+#support-url: https://t.me/AnixCompany
+#announce: TG: @AnixCompany Link: anix-com.ru
+
+vless://f5692768-5288-43c6-8cef-341dde6344a5@154.17.239.145:443?encryption=none&flow=xtls-rprx-vision&pbk=cFOObXBY1O7-LqMqwQ4qDbRdH104xyMb6XwrNHuCkho&security=reality&sni=learn.microsoft.com&type=raw&fp=chrome#🇺🇸 AnixVPN | United States #1
