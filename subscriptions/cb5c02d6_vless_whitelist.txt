@@ -3,12 +3,13 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=3014984704; download=3014984704; total=10995116277760; expire=0
+#subscription-userinfo: upload=3000027136; download=3000027136; total=10995116277760; expire=0
 
-vless://a046297b-0f66-4514-8d4f-2a7d200d8d37@2.26.70.181:443?flow=xtls-rprx-vision&fp=qq&pbk=s2vIO76C2QmrvyeujAWxTmQtQ51bwMTWDgQESIm8J1c&security=reality&sid=bdcaf30f86&sni=1.aws-lbr.amazonaws.com&spx=%2F4933617c03ba762&type=tcp#🇳🇱 AnixVPN | Netherlands #1
+vless://62b43dee-e9f6-4bbf-855c-e9cfe08cb670@103.112.70.204:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W3_mz6WgMSWv6emDJjkjdJ3gIEnPrxcKST6THwPTxCs&security=reality&sid=7a0e32399d1f3d01&sni=www.sony.com&type=raw#🇳🇱 AnixVPN | Netherlands #1
 vless://74ae950f-95c6-417b-9409-a0f58be33429@195.123.216.28:443?encryption=none&fp=&pbk=RRhxkmf4YgwjyNSikyomlL6Me9329CTvZbAMFWakWjE&security=reality&sid=4e6e39c4&sni=www.intel.com&type=grpc#🇳🇱 AnixVPN | Netherlands #2
-vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?&security=reality&flow=xtls-rprx-vision&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&type=tcp&headerType=none&host=pro-ru-bridge.emrata.top&path=%2F#🇷🇺 AnixVPN | Russia #3
-vless://aba7caee-8436-4fd4-a2be-a3b5c62d9405@sweden1.banovano.space:443?type=grpc&security=reality&fp=edge&pbk=uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g&sid=53499a662395&sni=ai.android&spx=/#🇸🇪 AnixVPN | Sweden #4
-vless://cca1a416-44be-49cb-b617-ec58e4e1456a@germany1.banovano.space:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=vs39cITZN6jMHKslRMmvkwXupHXUbyKNX1MQsWRWKlg&sid=3f40efc7&sni=www.nvidia.com&spx=/#🇩🇪 AnixVPN | Germany #5
-vless://74ae950f-95c6-417b-9409-a0f58be33429@nd.unit-digital.com:443?security=reality&encryption=none&pbk=RRhxkmf4YgwjyNSikyomlL6Me9329CTvZbAMFWakWjE&fp=edge&spx=%2F&type=grpc&sni=www.intel.com&sid=4e6e39c4#🇳🇱 AnixVPN | Netherlands #6
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@getsavesafe.net:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=getsavesafe.net&serverName=getsavesafe.net&fp=qq&alpn=&allowInsecure=0&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#🇳🇱 AnixVPN | Netherlands #7
+vless://a046297b-0f66-4514-8d4f-2a7d200d8d37@2.26.70.181:443?flow=xtls-rprx-vision&fp=qq&pbk=s2vIO76C2QmrvyeujAWxTmQtQ51bwMTWDgQESIm8J1c&security=reality&sid=bdcaf30f86&sni=1.aws-lbr.amazonaws.com&spx=%2F4933617c03ba762&type=tcp#🇳🇱 AnixVPN | Netherlands #3
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@getsavesafe.net:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=getsavesafe.net&serverName=getsavesafe.net&fp=qq&alpn=&allowInsecure=0&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661#🇳🇱 AnixVPN | Netherlands #4
+vless://831f56ff-d117-4a72-bb2b-a5e44eab6fbf@pro-ru-bridge.emrata.top:443?&security=reality&flow=xtls-rprx-vision&pbk=F8tqvcuJUSVbxv_i9ZsVOef3EPwULzzDqgvmj3vWNlA&fp=firefox&sni=pro-ru-bridge.emrata.top&type=tcp&headerType=none&host=pro-ru-bridge.emrata.top&path=%2F#🇷🇺 AnixVPN | Russia #5
+vless://aba7caee-8436-4fd4-a2be-a3b5c62d9405@sweden1.banovano.space:443?type=grpc&security=reality&fp=edge&pbk=uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g&sid=53499a662395&sni=ai.android&spx=/#🇸🇪 AnixVPN | Sweden #6
+vless://cca1a416-44be-49cb-b617-ec58e4e1456a@germany1.banovano.space:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=vs39cITZN6jMHKslRMmvkwXupHXUbyKNX1MQsWRWKlg&sid=3f40efc7&sni=www.nvidia.com&spx=/#🇩🇪 AnixVPN | Germany #7
+vless://74ae950f-95c6-417b-9409-a0f58be33429@nd.unit-digital.com:443?security=reality&encryption=none&pbk=RRhxkmf4YgwjyNSikyomlL6Me9329CTvZbAMFWakWjE&fp=edge&spx=%2F&type=grpc&sni=www.intel.com&sid=4e6e39c4#🇳🇱 AnixVPN | Netherlands #8
