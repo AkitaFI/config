@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=658777088; download=658777088; total=10995116277760; expire=0
+#subscription-userinfo: upload=678164480; download=678164480; total=10995116277760; expire=0
 
 vless://9c9f29d5-cf0d-49be-97fd-643e866752da@194.61.31.126:2053?type=tcp&security=reality&encryption=none&fp=chrome&pbk=f5Z_ywk2z0Yuj7ksyjawYC36qgxQngD8yGXEIPFNVGM&sid=30ed89c317118330&sni=www.apple.com#🇮🇳 AnixVPN | India #1
 vless://903fed13-8e78-4fa2-a83e-b392b289741f@175.41.179.37:51262?security=tls&type=ws&path=/@Marisa_kristi&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&packetEncoding=xudp&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&fp=chrome&encryption=none#🇸🇬 AnixVPN | Singapore #2
