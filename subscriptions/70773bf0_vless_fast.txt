@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=1078345728; download=1078345728; total=10995116277760; expire=0
+#subscription-userinfo: upload=1085803520; download=1085803520; total=10995116277760; expire=0
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=raw#🇳🇱 AnixVPN | Netherlands #1
 vless://cfb310a9-7846-45dd-b72c-37597d6e33b3@217.217.254.126:2053/?type=tcp&encryption=none&flow=&sni=www.apple.com&alpn=channel@TGRVPN-channel@TGRVPN-channel@TGRVPN-channel@TGRVPN-channel@TGRVPN-channel@TGRVPN-&security=reality&pbk=B1e_iMjxReenyAiFXDymzmzFNHqhvwc_RMdD3o3KYRE&sid=64e6ad70ed4c248f#🇸🇬 AnixVPN | Singapore #2
@@ -13,3 +13,4 @@ vless://0659abf6-b784-4421-be09-1eea5b703510@191.223.220.115:10585?flow=xtls-rpr
 vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.49:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #6
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&type=tcp&sni=152.69.195.67#🇯🇵 AnixVPN | Japan #7
 vless://c7e9c591-2764-423a-afca-efbd010fd396@171.22.114.27:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #8
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?type=tcp&headerType=none&security=tls&encryption=none&sni=lv-ddc.astralweb.tech&fp=firefox&alpn=h2&insecure=0#🇱🇻 AnixVPN | Latvia #9
