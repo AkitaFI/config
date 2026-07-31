@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=2131815424; download=2131815424; total=10995116277760; expire=0
+#subscription-userinfo: upload=2141869056; download=2141869056; total=10995116277760; expire=0
 
 vless://c7e9c591-2764-423a-afca-efbd010fd396@80.209.240.188:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#🇫🇮 AnixVPN | Finland #1
 vless://aea85a22-6404-4d1f-becd-17bc7dc14b8f@46.250.240.80:2053?security=reality&encryption=none&pbk=uf8sbHK411DeW1Wo5Yt-VmR_FeirV3HmVFeaO2T44j0&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=96831d397b50de01#🇦🇺 AnixVPN | Australia #2
