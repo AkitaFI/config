@@ -4,15 +4,18 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@188.226.187.215:443?path=%2F&security=tls&encryption=none&insecure=1&host=forfreeuse.sub-flow.online&type=ws&allowInsecure=1&sni=forfreeuse.sub-flow.online#🇫🇮 AnixVPN | Finland #2
+vless://c7e9c591-2764-423a-afca-efbd010fd396@51.91.102.36:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #1
+vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.78.179:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #2
 vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.12.58:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #3
-vless://c7e9c591-2764-423a-afca-efbd010fd396@162.19.78.179:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #4
-vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.209.85:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #5
-vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&spx=%2F&type=raw#🇸🇬 AnixVPN | Singapore #6
-vless://2ff7eec6-da48-46ab-b770-5c83400a528c@icy-glade-ad0f.412.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&fp=qq#🇭🇰 AnixVPN | Hong Kong #7
-vless://bfa3aaaf-41d3-4ec4-8453-e9827d7e7b30@www.zsu.gov.ua:8880?&security=none&type=ws&headerType=&host=crimson-mode-f8de.432-9e1.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇬🇧 AnixVPN | United Kingdom #8
-vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@www.baipiao.eu.org:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=curly-surf-4401.75-08c.workers.dev&type=ws#🇭🇰 AnixVPN | Hong Kong #9
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&type=ws&security=tls&path=/&host=po.fastbrokencompony.com&sni=po.fastbrokencompony.com&alpn=h3,h2&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 AnixVPN | Germany #10
-vless://4af06e6a-63ae-43c1-83c0-f8f613aef263@www.visa.com.sg:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=withered-sea-c187.445-608.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇫🇮 AnixVPN | Finland #11
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?alpn=h2&encryption=none&security=tls&sni=lv-ddc.astralweb.tech&type=tcp#🇱🇻 AnixVPN | Latvia #12
+vless://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #4
+vless://c7e9c591-2764-423a-afca-efbd010fd396@188.226.187.215:443?path=%2F&security=tls&encryption=none&insecure=1&host=forfreeuse.sub-flow.online&type=ws&allowInsecure=1&sni=forfreeuse.sub-flow.online#🇫🇮 AnixVPN | Finland #5
+vless://c7e9c591-2764-423a-afca-efbd010fd396@171.22.114.27:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇮 AnixVPN | Finland #6
+vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.209.85:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #7
+vless://a8f84171-5f96-4547-b621-59758fe668c8@94.126.206.121:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=jWVk2Z7eFkyDcu2xgzqX8JsPbZuCVhHUWD463Vfgazw&security=reality&sid=7a5b89ecdb01f781&sni=www.singaporeair.com&spx=%2F&type=raw#🇸🇬 AnixVPN | Singapore #8
+vless://2ff7eec6-da48-46ab-b770-5c83400a528c@icy-glade-ad0f.412.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&fp=qq#🇭🇰 AnixVPN | Hong Kong #9
+vless://4af06e6a-63ae-43c1-83c0-f8f613aef263@www.visa.com.sg:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=withered-sea-c187.445-608.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇫🇮 AnixVPN | Finland #10
+vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@www.baipiao.eu.org:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&encryption=none&host=curly-surf-4401.75-08c.workers.dev&type=ws#🇭🇰 AnixVPN | Hong Kong #11
+vless://bfa3aaaf-41d3-4ec4-8453-e9827d7e7b30@www.zsu.gov.ua:8880?&security=none&type=ws&headerType=&host=crimson-mode-f8de.432-9e1.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇬🇧 AnixVPN | United Kingdom #12
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&type=ws&security=tls&path=/&host=po.fastbrokencompony.com&sni=po.fastbrokencompony.com&alpn=h3,h2&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 AnixVPN | Germany #13
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@lv-ddc.astralweb.tech:443?alpn=h2&encryption=none&security=tls&sni=lv-ddc.astralweb.tech&type=tcp#🇱🇻 AnixVPN | Latvia #14
+vless://c7e9c591-2764-423a-afca-efbd010fd396@151.242.69.72:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇮 AnixVPN | Finland #15
