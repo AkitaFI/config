@@ -3,7 +3,6 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=3000027136; download=3000027136; total=10995116277760; expire=0
 
 vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@104.156.81.2:80?type=xhttp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%92%A4%20Germany
 vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@104.156.85.44:80?type=xhttp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%92%A4%20Germany
