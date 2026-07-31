@@ -7,8 +7,8 @@
 vless://XpnTeam-161@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇳🇱 AnixVPN | Netherlands #1
 vless://c7e9c591-2764-423a-afca-efbd010fd396@95.182.120.208:2053?encryption=none&fp=ios&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #2
 vless://0c0b895d-b954-4bec-94e6-5770677e7925@199.232.78.159:443?type=ws&security=tls&sni=ssl.fastly.com&host=pan1.global.ssl.fastly.neT&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053#🇫🇮 AnixVPN | Finland #3
-vless://4ecdf2bd-3ef1-4356-8323-420ed29e8e89@43.108.23.174:32521?alpn=http%2F1.1&fp=chrome&headertype=none&type=tcp#🇰🇷 AnixVPN | South Korea #4
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@104.21.18.9:8443?encryption=none&fp=chrome&host=ad-013.orbitqgr7v.info&path=%2F&security=tls&sni=ad-013.orbitqgr7v.info&type=ws#🇨🇦 AnixVPN | Canada #5
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@104.21.18.9:8443?encryption=none&fp=chrome&host=ad-013.orbitqgr7v.info&path=%2F&security=tls&sni=ad-013.orbitqgr7v.info&type=ws#🇨🇦 AnixVPN | Canada #4
+vless://4ecdf2bd-3ef1-4356-8323-420ed29e8e89@43.108.23.174:32521?alpn=http%2F1.1&fp=chrome&headertype=none&type=tcp#🇰🇷 AnixVPN | South Korea #5
 vless://01421c5e-f85f-4d68-ae22-b32968115682@109.71.240.178:777?type=grpc&security=reality&fp=random&pbk=8x4ChRC0AIoNe0nW5CHEm5ve8lJK8akzGg4uO60dBXk&sid=2f1541&sni=yahoo.com&spx=/#🇳🇱 AnixVPN | Netherlands #6
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.227:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇷🇺 AnixVPN | Russia #7
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053/?type=ws&encryption=none&flow=&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch#🇷🇺 AnixVPN | Russia #8
