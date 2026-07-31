@@ -4,9 +4,9 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@89.127.217.210:4100?type=ws&security=none&encryption=none&path=%2Fv1&host=live.ok.ru&headerType=none#🇺🇸 AnixVPN | United States #1
+vless://0e192bd1-8f19-4184-9fff-6d67e4f738bd@199.232.238.172:443?alpn=h3&encryption=none&host=oh4.global.ssl.fastly.net&mode=packet-up&path=%2F&security=tls&sni=account.fastly.com&type=xhttp#🇫🇷 AnixVPN | France #1
 vless://6ab8d525-f3db-0014-9f09-3683f719f756@46.8.208.7:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&alpn=http%2F1.1&fp=qq#🇺🇸 AnixVPN | United States #2
-vless://0e192bd1-8f19-4184-9fff-6d67e4f738bd@199.232.238.172:443?alpn=h3&encryption=none&host=oh4.global.ssl.fastly.net&mode=packet-up&path=%2F&security=tls&sni=account.fastly.com&type=xhttp#🇫🇷 AnixVPN | France #3
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@89.127.217.210:4100?type=ws&security=none&encryption=none&path=%2Fv1&host=live.ok.ru&headerType=none#🇺🇸 AnixVPN | United States #3
 vless://c7e9c591-2764-423a-afca-efbd010fd396@95.217.176.149:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #4
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@162.159.44.7:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇩🇪 AnixVPN | Germany #5
 vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.209.85:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #6
