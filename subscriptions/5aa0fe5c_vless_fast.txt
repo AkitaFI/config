@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=830615552; download=830615552; total=10995116277760; expire=0
+#subscription-userinfo: upload=861309952; download=861309952; total=10995116277760; expire=0
 
 vless://ecad47b0-249e-0009-adff-e3c8f02b1897@194.55.239.200:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=raw#🇸🇪 AnixVPN | Sweden #1
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22222?encryption=none&security=none&type=tcp#🇫🇷 AnixVPN | France #2
