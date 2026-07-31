@@ -3,7 +3,7 @@
 #profile-update-interval: 6
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
-#subscription-userinfo: upload=696412160; download=696412160; total=10995116277760; expire=0
+#subscription-userinfo: upload=722651136; download=722651136; total=10995116277760; expire=0
 
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.168:443?type=tcp&security=reality&sni=agile-raptor.cdn.cachefleet.com&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&fp=random&encryption=none&flow=xtls-rprx-vision#🇧🇪 AnixVPN | Belgium #1
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#🇩🇪 AnixVPN | Germany #2
