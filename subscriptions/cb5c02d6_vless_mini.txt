@@ -4,11 +4,11 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://828aa918-2ed3-4541-8519-083f9efeaaf7@162.159.46.0:8880?&security=none&type=ws&headerType=&host=icy-hall-bfba.266-f4e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇷🇺 AnixVPN | Russia #1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@208.103.161.206:443?path=%2F&security=tls&encryption=none&host=forfreeuse.sub-flow.online&type=ws&sni=forfreeuse.sub-flow.online&allowInsecure=0&insecure=0#🇫🇮 AnixVPN | Finland #2
-vless://9bf81377-d077-4569-9fc9-5f0a55180651@172.64.151.134:8880?type=ws&host=super-feather-91c4.267.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇷🇺 AnixVPN | Russia #3
-vless://28201cd6-c2a9-4703-a31b-eaf31ecb18fd@104.16.72.41:8880?encryption=none&type=ws&host=summer-butterfly-cbc8.26-971.workers.dev&path=%2Fpyip&security=none#🇷🇺 AnixVPN | Russia #4
-vless://06bfb14e-66cc-48ca-a429-b9301dba2f81@104.17.123.204:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=long-firefly-a226.216-ce0.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇷🇺 AnixVPN | Russia #5
+vless://9bf81377-d077-4569-9fc9-5f0a55180651@172.64.151.134:8880?type=ws&host=super-feather-91c4.267.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇷🇺 AnixVPN | Russia #1
+vless://828aa918-2ed3-4541-8519-083f9efeaaf7@162.159.46.0:8880?&security=none&type=ws&headerType=&host=icy-hall-bfba.266-f4e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇷🇺 AnixVPN | Russia #2
+vless://c7e9c591-2764-423a-afca-efbd010fd396@208.103.161.206:443?path=%2F&security=tls&encryption=none&host=forfreeuse.sub-flow.online&type=ws&sni=forfreeuse.sub-flow.online&allowInsecure=0&insecure=0#🇫🇮 AnixVPN | Finland #3
+vless://06bfb14e-66cc-48ca-a429-b9301dba2f81@104.17.123.204:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=long-firefly-a226.216-ce0.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇷🇺 AnixVPN | Russia #4
+vless://28201cd6-c2a9-4703-a31b-eaf31ecb18fd@104.16.72.41:8880?encryption=none&type=ws&host=summer-butterfly-cbc8.26-971.workers.dev&path=%2Fpyip&security=none#🇷🇺 AnixVPN | Russia #5
 vless://e8e34074-166f-48a6-9f86-398ad796c3ca@162.159.140.78:8880?encryption=none&security=none&type=ws&host=hidden-bonus-24d0.232-647.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇷🇺 AnixVPN | Russia #6
 vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@38.180.112.246:52315?type=ws#🇩🇪 AnixVPN | Germany #7
 vless://9f4b666c-ecf1-49e9-8ab8-9ae2c4f4c613@172.64.94.251:8880?&type=ws&headerType=&host=withered-morning-aa51.64-c79.workers.dev&path=%2F#🇷🇺 AnixVPN | Russia #8
