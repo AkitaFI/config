@@ -5,13 +5,13 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://218fd696-e3a2-4c33-b397-a5f13a82969e@45.9.15.56:443?encryption=none&extra=null&fp=ios&mode=auto&path=%2F630fdd2a-0f82-4a85-9ecf-7f490b9e8c24&pbk=iudzEpcjL_9hNvn7rf05GwUfV5zMpf8TSumBNo4VLTM&security=reality&sid=b30a30f0&sni=www.tradingview.com&type=xhttp#🇩🇪 AnixVPN | Germany #1
-vless://c7e9c591-2764-423a-afca-efbd010fd396@135.125.191.89:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #2
-vless://c7e9c591-2764-423a-afca-efbd010fd396@57.129.63.42:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #3
-vless://c7e9c591-2764-423a-afca-efbd010fd396@135.125.133.217:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #4
+vless://c7e9c591-2764-423a-afca-efbd010fd396@57.129.63.42:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #2
+vless://c7e9c591-2764-423a-afca-efbd010fd396@135.125.133.217:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #3
+vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@45.133.209.203:52315?&type=ws&headerType=none&path=%2F#🇩🇪 AnixVPN | Germany #4
 vless://a747c516-34bd-41b8-8590-a9d1edb79e95@164.90.176.31:8443?encryption=none&type=ws&security=tls&path=%2F&host=summer-hall-8b23.asddsaasan.workers.dev&sni=summer-hall-8b23.asddsaasan.workers.dev&fp=random&allowInsecure=0#🇩🇪 AnixVPN | Germany #5
-vless://3fffe7ed-7374-57ba-956f-6e930f10f04f@51.250.3.73:443?encryption=none&pbk=QapbUJT61NbhceZHd1X5ylScWQpkHOEkUZ5VG6p53w4&security=reality&sid=ed1fd4c7&sni=ads.x5.ru&type=tcp&fp=firefox#🇷🇺 AnixVPN | Russia #6
-vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@45.133.209.203:52315?&type=ws&headerType=none&path=%2F#🇩🇪 AnixVPN | Germany #7
-vless://ec6ec723-6998-4180-8f68-5c11ce288487@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=firefox#🇷🇺 AnixVPN | Russia #8
+vless://ec6ec723-6998-4180-8f68-5c11ce288487@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw&fp=firefox#🇷🇺 AnixVPN | Russia #6
+vless://c7e9c591-2764-423a-afca-efbd010fd396@135.125.191.89:2053?host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #7
+vless://3fffe7ed-7374-57ba-956f-6e930f10f04f@51.250.3.73:443?encryption=none&pbk=QapbUJT61NbhceZHd1X5ylScWQpkHOEkUZ5VG6p53w4&security=reality&sid=ed1fd4c7&sni=ads.x5.ru&type=tcp&fp=firefox#🇷🇺 AnixVPN | Russia #8
 vless://635a1c4e-122b-45f5-8339-03bce6039739@82.29.43.43:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&sni=auto.malina24.xyz#🇸🇪 AnixVPN | Sweden #9
 vless://635a1c4e-122b-45f5-8339-03bce6039739@82.29.43.42:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=auto.malina24.xyz&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd#🇸🇪 AnixVPN | Sweden #10
 vless://f055899d-026b-49b5-88ed-0227795082da@2.26.135.189:443?&security=reality&flow=xtls-rprx-vision&pbk=09O8bAlIWm9AGnNyxBtHwpYNQxlXPSQeQeKzS3ZMwGE&sid=a1f9c0e21d7b6485&fp=firefox&sni=smorodina.mycdn-me.ru&type=tcp&headerType=none&host=smorodina.mycdn-me.ru&path=%2F#🇩🇪 AnixVPN | Germany #11
