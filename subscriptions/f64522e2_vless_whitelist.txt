@@ -4,8 +4,8 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://635a1c4e-122b-45f5-8339-03bce6039739@82.29.43.42:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=auto.malina24.xyz&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd#🇸🇪 AnixVPN | Sweden #1
-vless://635a1c4e-122b-45f5-8339-03bce6039739@82.29.43.43:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=auto.malina24.xyz&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd#🇸🇪 AnixVPN | Sweden #2
-vless://39c24c2d-c185-4fc4-8631-3645d46bbb76@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=raw&fp=chrome#🇷🇺 AnixVPN | Russia #3
-vless://32c0cedd-6d9c-4668-bb2e-d379f380037c@203.159.90.65:443?encryption=none&type=xhttp&path=/&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#🇳🇱 AnixVPN | Netherlands #4
-vless://276ae18f-8eea-4e45-ae5c-285690305d48@147.45.136.218:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=euronode.click&fp=qq&pbk=1En4-0B5KMRfcxvuDxKtGTqS-X4pGtj_efA7SNZdAh0#🇳🇱 AnixVPN | Netherlands #5
+vless://39c24c2d-c185-4fc4-8631-3645d46bbb76@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=raw&fp=chrome#🇷🇺 AnixVPN | Russia #1
+vless://32c0cedd-6d9c-4668-bb2e-d379f380037c@203.159.90.65:443?encryption=none&type=xhttp&path=/&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#🇳🇱 AnixVPN | Netherlands #2
+vless://276ae18f-8eea-4e45-ae5c-285690305d48@147.45.136.218:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=euronode.click&fp=qq&pbk=1En4-0B5KMRfcxvuDxKtGTqS-X4pGtj_efA7SNZdAh0#🇳🇱 AnixVPN | Netherlands #3
+vless://635a1c4e-122b-45f5-8339-03bce6039739@82.29.43.42:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=auto.malina24.xyz&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd#🇸🇪 AnixVPN | Sweden #4
+vless://635a1c4e-122b-45f5-8339-03bce6039739@82.29.43.43:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=auto.malina24.xyz&fp=qq&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd#🇸🇪 AnixVPN | Sweden #5
