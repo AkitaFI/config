@@ -4,103 +4,72 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@104.21.77.92:8443?type=ws&headerType=none&security=tls&encryption=none&sni=ad-013.fluxmxd18.info&fp=chrome&path=%2F&host=ad-013.fluxmxd18.info&insecure=0#🇨🇦 AnixVPN | Canada #1
-vless://c743b343-b1c9-4e44-98a9-274df2015727@139.64.166.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=cudJBi1zLMATgg_nlqMK5O6Lshlv8EQ2BBQjxbpF4AY&sid=eedf31ed&type=tcp&headerType=none#🇳🇱 AnixVPN | Netherlands #2
-vless://8995976a-1c81-4b44-a414-d3bc71058a21@162.159.48.193:8880?&security=none&type=ws&headerType=&host=muddy-queen-cdda.181-cf9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇷🇺 AnixVPN | Russia #3
-vless://4476eabb-509c-42d3-bb42-6838bf6fcd1e@104.64.206.42:57137?type=ws&security=none&encryption=none&path=%2FFREE+By+Tharuwa+%280767597317%29&host=m.zoom.us&headerType=none#🇸🇬 AnixVPN | Singapore #4
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.67.176.32:8443?security=tls&sni=ad-013.rapid4yjcz.info&fp=chrome&type=ws&host=ad-013.rapid4yjcz.info&path=/#🇨🇦 AnixVPN | Canada #5
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&type=tcp&headerType=none#🇺🇸 AnixVPN | United States #6
-vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@195.144.24.84:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PCF6GYA_TCdb28mM6zsxJ38MAtmnSrJJEygkXvrt1AE&sid=b512d49930874a31&sni=cdn-mk.ai-apiroute.cc#🇦🇱 AnixVPN | Albania #7
-vless://c7e9c591-2764-423a-afca-efbd010fd396@171.22.114.27:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇮 AnixVPN | Finland #8
-vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@89.125.48.213:443?flow=xtls-rprx-vision&fp=firefox&pbk=QPTCQB2qBQulpvhYrfa_IoSMkJVVLvumrLHsdvF3VSo&security=reality&sid=b512d49930874a31&sni=cdn-nl.ai-apiroute.cc#🇳🇱 AnixVPN | Netherlands #9
-vless://89c3b66f-c849-4602-a5a8-84b6f06af478@3.162.103.19:80?allowInsecure=0&sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=/#🇹🇭 AnixVPN | Thailand #10
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.67.145.169:8443?encryption=none&fp=chrome&host=ad-013.pixel9xdmq.info&path=%2F&security=tls&sni=ad-013.pixel9xdmq.info&type=ws#🇨🇦 AnixVPN | Canada #11
-vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@31.207.7.97:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-se.ai-apiroute.cc&fp=firefox&pbk=nQE3INl_ycbBFpNZdzkrgASofD64HB215kzQuH_uZn4&sid=b512d49930874a31&type=tcp&headerType=none#🇺🇸 AnixVPN | United States #12
-vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&fp=safari&mode=auto&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp#🇺🇸 AnixVPN | United States #13
-vless://89c3b66f-c849-4602-a5a8-84b6f06af478@3.162.103.99:80?sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F#🇹🇭 AnixVPN | Thailand #14
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@77.222.35.36:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺 AnixVPN | Russia #15
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.21.35.235:2053?security=tls&type=ws&path=/&host=music1000.melobitmusic1.ir&alpn=h2,http/1.1&sni=music1000.melobitmusic1.ir&fp=chrome&encryption=none#🇵🇱 AnixVPN | Poland #16
-vless://91802465-1a09-8678-04d3-7105678a9bce@69.46.46.10:443?path=/ws/91802465-1a09-8678-04d3-7105678a9bce&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-6509.up.railway.app&fp=chrome&type=ws&sni=rvg-production-6509.up.railway.app#🇺🇸 AnixVPN | United States #17
-vless://89c3b66f-c849-4602-a5a8-84b6f06af478@3.170.185.91:80?host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F&sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws#🇹🇭 AnixVPN | Thailand #18
-vless://c7e9c591-2764-423a-afca-efbd010fd396@91.99.193.84:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=forfreeuse.sub-flow.online&path=%2F#🇫🇮 AnixVPN | Finland #19
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.59.120.124:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #20
-vless://89c3b66f-c849-4602-a5a8-84b6f06af478@3.169.173.8:80?allowInsecure=0&sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=/#🇹🇭 AnixVPN | Thailand #21
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?security=tls&flow=xtls-rprx-vision-udp443#🇰🇷 AnixVPN | South Korea #22
-vless://d3b3f278-2cca-4abf-aa27-bf0c0f27cbd0@pro-de.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-de.emrata.top#🇬🇧 AnixVPN | United Kingdom #23
-vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@217.60.193.1:443?fp=firefox&security=tls&sni=ddc-akn.astralweb.tech#🇩🇪 AnixVPN | Germany #24
-vless://6d29adce-a64e-4aa3-8860-7bc88bead811@199.232.78.159:443?encryption=none&security=tls&type=ws&host=BankMelat.glObal.ssl.faStly.nEt.&sni=ssl.fastly.com#🇩🇪 AnixVPN | Germany #25
-vless://8a88edf2-235a-4e74-a012-315e8b0f000c@104.18.151.69:2083?path=%2F&security=tls&encryption=none&insecure=0&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=oknoloy.dearhossein-taktaz.ir#🇫🇮 AnixVPN | Finland #26
-vless://19668b6f-e215-41e6-8102-b8d29fb5b8ae@dtac.exp.dog:80?type=ws&host=duatoup3wk8q2.cloudfront.net&path=/fnet50#🇹🇭 AnixVPN | Thailand #27
-vless://943ecfd7-bea6-4520-8898-e1fa536250cc@87.242.85.201:13561?encryption=none&security=none&type=raw#🇩🇪 AnixVPN | Germany #28
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@89.127.217.210:4100?type=ws&security=none&encryption=none&path=%2Fv1&host=live.ok.ru&headerType=none#🇩🇪 AnixVPN | Germany #29
-vless://d17418df-741d-480e-9dac-de5624dd776d@176.98.176.110:443?mode=gun&security=reality&encryption=none&pbk=gWQI82-139LOX4McshbOZOGRElcpw_TXwvjVstOGswY&type=grpc&sni=stepik.org&sid=d2f7a1c9e3b04685&fp=chrome#🇷🇺 AnixVPN | Russia #30
-vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@168.222.202.187:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇷🇺 AnixVPN | Russia #31
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.233:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#🇺🇸 AnixVPN | United States #32
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.37.116:62145?security=none&type=tcp&packetEncoding=xudp#🇳🇱 AnixVPN | Netherlands #33
-vless://77d68177-7331-4816-b5e9-23ec39a2ae3b@104.17.144.29:8880?&security=none&type=ws&headerType=&host=divine-rice-3224.464.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇸🇪 AnixVPN | Sweden #34
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@81.85.78.78:4100?encryption=none&type=ws&path=/v1&host=live.ok.ru#🇷🇺 AnixVPN | Russia #35
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?path=%2Fv1&security=none&type=ws#🇺🇸 AnixVPN | United States #36
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.67:4100?encryption=none&type=ws&path=/v1&host=live.ok.ru#🇺🇸 AnixVPN | United States #37
-vless://943ecfd7-bea6-4520-8898-e1fa536250cc@176.123.165.127:56745?encryption=none&security=none&type=tcp#🇩🇪 AnixVPN | Germany #38
-vless://0ed342c3-eb45-4d63-83a1-697252636ca9@104.27.82.154:8880?&security=false&fp=chrome&type=ws&headerType=none&host=yellow-hall-d482.260-d22.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇸🇪 AnixVPN | Sweden #39
-vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@45.149.147.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin.boxypn.com&fp=firefox&pbk=5sHbJ4047kBhn_28eCvK9cvU1Yd_-qWWl8sVzsSKZhI&type=tcp&headerType=none#🇮🇹 AnixVPN | Italy #40
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.130:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=/&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#🇸🇪 AnixVPN | Sweden #41
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.157.103:62145?security=none&type=tcp&encryption=none#🇳🇱 AnixVPN | Netherlands #42
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?security=tls&type=ws&path=/&host=workspace.evan00.dpdns.org&packetEncoding=xudp&sni=workspace.evan00.dpdns.org&fp=randomized#🇸🇪 AnixVPN | Sweden #43
-vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#🇫🇮 AnixVPN | Finland #44
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇩🇪 AnixVPN | Germany #45
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.144.66:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&eh=Sec-WebSocket-Protocol#🇸🇪 AnixVPN | Sweden #46
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.30:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&eh=Sec-WebSocket-Protocol#🇷🇺 AnixVPN | Russia #47
-vless://943ecfd7-bea6-4520-8898-e1fa536250cc@176.123.165.127:57836?encryption=none&security=none&type=tcp#🇩🇪 AnixVPN | Germany #48
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.146:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇸🇪 AnixVPN | Sweden #49
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.98:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇸🇪 AnixVPN | Sweden #50
-vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@207.2.120.229:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sw-new.boxypn.com&fp=firefox&pbk=SUTv6bVuL6TnWcPGf03-1QFmJ8Q_ISoA1WIajvct32M&type=tcp&headerType=none#🇺🇸 AnixVPN | United States #51
-vless://943ecfd7-bea6-4520-8898-e1fa536250cc@87.242.85.201:35412?encryption=none&amp;security=none&amp;type=tcp#🇩🇪 AnixVPN | Germany #52
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.60:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&eh=Sec-WebSocket-Protocol#🇷🇺 AnixVPN | Russia #53
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.140:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&eh=Sec-WebSocket-Protocol#🇷🇺 AnixVPN | Russia #54
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.182:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇷🇺 AnixVPN | Russia #55
-vless://926bc4cd-709e-4e90-8aa7-78db75fbe86b@45.80.111.7:443?encryption=none&type=ws&host=De2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde2---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=2--ldej--MiTiVPN---MiTiVPN-o.KingNetwork.ir#🇷🇺 AnixVPN | Russia #56
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.227:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇷🇺 AnixVPN | Russia #57
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.173:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&eh=Sec-WebSocket-Protocol#🇷🇺 AnixVPN | Russia #58
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.87:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&eh=Sec-WebSocket-Protocol#🇷🇺 AnixVPN | Russia #59
-vless://5415953e-c623-1f62-4538-3a4300000000@104.21.208.1:443?type=ws&security=tls&fp=chrome&sni=ez-bd46ae.ezaccess13f54ec.workers.dev#🇸🇪 AnixVPN | Sweden #60
-vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.209.85:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #61
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.78:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=germany-1.ariyuz.org&type=ws&headerType=none&host=germany-1.ariyuz.org&path=%2F#🇬🇧 AnixVPN | United Kingdom #62
-vless://c7e9c591-2764-423a-afca-efbd010fd396@95.216.168.240:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=forfreeuse.sub-flow.online&path=%2F#🇫🇮 AnixVPN | Finland #63
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.64.35.7:2053?type=ws&security=tls&fp=chrome&sni=josni.hoyes.cloudns.ch#🇷🇺 AnixVPN | Russia #64
-vless://926bc4cd-709e-4e90-8aa7-78db75fbe86b@45.80.108.182:443?&security=tls&fp=chrome&sni=ii--6---6--MiTiVPN---MiTiVPN-o.KinGNetWork.iR&type=ws&headerType=none&host=ii--6---6--MiTiVPN---MiTiVPN-o.KinGNetWork.iR&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ffl---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#🇷🇺 AnixVPN | Russia #65
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.88:443?type=ws&security=tls&fp=chrome&sni=germany-1.ariyuz.org#🇬🇧 AnixVPN | United Kingdom #66
-vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.12.58:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #67
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.108:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇸🇪 AnixVPN | Sweden #68
-vless://c7e9c591-2764-423a-afca-efbd010fd396@95.217.176.149:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇫🇮 AnixVPN | Finland #69
-vless://4bde007a-f683-4a43-83ad-e11eff35e6b4@tasiyanc.nova-5e611f.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=tasiyanc.nova-5e611f.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tasiyanc.nova-5e611f.workers.dev#🇭🇰 AnixVPN | Hong Kong #70
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector9nmb3.info:8443?&security=tls&fp=chrome&type=ws&headerType=none&host=ad-010.vector9nmb3.info&path=%2F#🇬🇧 AnixVPN | United Kingdom #71
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.zen2bswa.info:8443?encryption=none&security=tls&type=ws#🇬🇧 AnixVPN | United Kingdom #72
-vless://04b9e828-43ed-4faf-8952-41069ec08355@ddc-akn.astralweb.tech:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇩🇪 AnixVPN | Germany #73
-vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@france.io-com-de-dev.org:8443?type=ws&headerType=none&security=tls&encryption=none&sni=france.io-com-de-dev.org&fp=chrome&alpn=http%2F1.1&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Fx9i2&host=france.io-com-de-dev.org&insecure=0#🇫🇷 AnixVPN | France #74
-vless://2dfe97eb-a306-4eb1-8f84-71ad4ced2aed@3x-ui-production-2dec.up.railway.app:443?path=/in1&security=tls&encryption=none&insecure=0&host=&type=ws&allowInsecure=0&sni=#🇺🇸 AnixVPN | United States #75
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@tn2.tmn141246.ru:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru&security=none#🇺🇸 AnixVPN | United States #76
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.76.231:2095?security=none&type=ws&path=/&host=fuckfangbinxing.pusytroller.gq#🇺🇸 AnixVPN | United States #77
-vless://a68a61ce-84fb-44d0-a486-51023f228ac7@153.80.249.28:8443?security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=n1.plus-abc.ru#🇳🇱 AnixVPN | Netherlands #78
-vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?encryption=none&security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&sid=df8611c07d&type=tcp&headerType=none#🇺🇸 AnixVPN | United States #79
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.240:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇷🇺 AnixVPN | Russia #80
-vless://caeb0482-d3d9-4271-8fbe-bc2cfe694efa@pro-se.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=firefox&sni=pro-se.emrata.top#🇬🇧 AnixVPN | United Kingdom #81
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=&type=ws#🇦🇪 AnixVPN | United Arab Emirates #82
-vless://8c7752f1-c2fc-47ff-8357-3ed5150d0338@hentai.colorbox.space:80?type=ws#🇩🇪 AnixVPN | Germany #83
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.limaklhc6.info:8443?&security=tls&fp=chrome&sni=ad-010.limaklhc6.info&type=ws&headerType=none&host=ad-010.limaklhc6.info&path=%2F#🇬🇧 AnixVPN | United Kingdom #84
-vless://916e3030-6eac-418b-9402-7508ca7d6280@fast.nanniang.top:8443/?type=ws&encryption=none&flow=&host=us-akile.nanniang.top&path=%2F&security=tls&sni=us-akile.nanniang.top&fp=chrome&packetEncoding=xudp#🇺🇸 AnixVPN | United States #85
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&type=ws&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=ov.iran-servers.shop#🇫🇷 AnixVPN | France #86
-vless://f6a92fa2-5685-3c70-16d5-ba38b388dbbf@empty-water-a05b.gfbghfbfngbdgbghngf.workers.dev:443?type=ws&headerType=none&security=tls&encryption=none&sni=empty-water-a05b.gfbghfbfngbdgbghngf.workers.dev&path=%2F&insecure=0#🇭🇰 AnixVPN | Hong Kong #87
-vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443?security=tls&type=ws&path=/xprolk-primeline&host=primelinelk.me&sni=primelinelk.me&fp=chrome&encryption=none#🇸🇬 AnixVPN | Singapore #88
-vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.novayjr9g.info:8443?type=ws&headerType=none&security=tls&encryption=none&sni=ad-005.novayjr9g.info&fp=chrome&path=%2F&insecure=0#🇩🇪 AnixVPN | Germany #89
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.novayjr9g.info:8443?&security=tls&fp=chrome&sni=ad-004.novayjr9g.info&type=ws&headerType=none&host=ad-004.novayjr9g.info&path=%2F#🇫🇷 AnixVPN | France #90
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@music1000.melobitmusic1.ir:2053?&security=tls&fp=chrome&sni=music1000.melobitmusic1.ir&type=ws&headerType=none&host=music1000.melobitmusic1.ir&path=%2F#🇵🇱 AnixVPN | Poland #91
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.orbitqgr7v.info:8443?path=%2F&security=tls&type=ws#🇨🇦 AnixVPN | Canada #92
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.milo1fmyz.info:8443?type=ws&security=tls&encryption=none&path=%2F&host=ad-010.milo1fmyz.info&sni=ad-010.milo1fmyz.info&fp=chrome&headerType=none#🇬🇧 AnixVPN | United Kingdom #93
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.pixel9xdmq.info:8443?&security=tls&fp=chrome&sni=ad-010.pixel9xdmq.info&type=ws&headerType=none&host=ad-010.pixel9xdmq.info&path=%2F#🇬🇧 AnixVPN | United Kingdom #94
-vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@ad-018.cloud25075.info:8443?type=ws&headerType=none&security=tls&encryption=none&sni=ad-018.cloud25075.info&fp=chrome&path=%2F&host=ad-018.cloud25075.info&insecure=0#🇫🇷 AnixVPN | France #95
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.limaklhc6.info:8443?encryption=none&security=tls&type=ws#🇨🇦 AnixVPN | Canada #96
-vless://2e8beadd-99bf-4fda-8692-8493886504bc@ad-007.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-007.cloud25075.info&type=ws&headerType=none&host=ad-007.cloud25075.info&path=%2F#🇬🇧 AnixVPN | United Kingdom #97
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.pixel9xdmq.info:8443?&security=tls&fp=chrome&sni=ad-004.pixel9xdmq.info&type=ws&headerType=none&host=ad-004.pixel9xdmq.info&path=%2F#🇫🇷 AnixVPN | France #98
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-020.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-020.cloud25075.info&type=ws&headerType=none&host=ad-020.cloud25075.info&path=%2F#🇬🇧 AnixVPN | United Kingdom #99
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.fluxmxd18.info:8443?&security=tls&fp=chrome&sni=ad-013.fluxmxd18.info&type=ws&headerType=none&host=ad-013.fluxmxd18.info&path=%2F#🇨🇦 AnixVPN | Canada #100
+vless://c7e9c591-2764-423a-afca-efbd010fd396@103.54.16.230:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#🇫🇮 AnixVPN | Finland #1
+vless://59c2ceb7-8261-4744-baa1-1852d041574b@212.192.246.57:2087?security=reality&encryption=none&sni=refersion.com&fp=chrome&pbk=DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ&sid=36&type=tcp&path=/#🇦🇹 AnixVPN | Austria #2
+vless://91802465-1a09-8678-04d3-7105678a9bce@69.46.46.10:443?path=/ws/91802465-1a09-8678-04d3-7105678a9bce&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-6509.up.railway.app&fp=chrome&type=ws&sni=rvg-production-6509.up.railway.app#🇺🇸 AnixVPN | United States #3
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.atlast9hdp.info:8443?&security=tls&fp=chrome&sni=ad-010.atlast9hdp.info&type=ws&headerType=none&host=ad-010.atlast9hdp.info&path=%2F#🇬🇧 AnixVPN | United Kingdom #4
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.orbitqgr7v.info:8443?fp=chrome&host=ad-010.orbitqgr7v.info&path=%2F&security=tls&sni=ad-010.orbitqgr7v.info&type=ws#🇬🇧 AnixVPN | United Kingdom #5
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.milo1fmyz.info:8443?encryption=none&security=tls&type=ws#🇨🇦 AnixVPN | Canada #6
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t18.qifei.app:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#🇺🇸 AnixVPN | United States #7
+vless://943ecfd7-bea6-4520-8898-e1fa536250cc@87.242.85.201:13561?encryption=none&security=none&type=raw#🇩🇪 AnixVPN | Germany #8
+vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@217.60.193.1:443?fp=firefox&security=tls&sni=ddc-akn.astralweb.tech#🇩🇪 AnixVPN | Germany #9
+vless://d17418df-741d-480e-9dac-de5624dd776d@176.98.176.110:443?mode=gun&security=reality&encryption=none&pbk=gWQI82-139LOX4McshbOZOGRElcpw_TXwvjVstOGswY&type=grpc&sni=stepik.org&sid=d2f7a1c9e3b04685&fp=chrome#🇷🇺 AnixVPN | Russia #10
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@89.127.217.210:4100?type=ws&security=none&encryption=none&path=%2Fv1&host=live.ok.ru&headerType=none#🇩🇪 AnixVPN | Germany #11
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@168.222.140.233:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#🇺🇸 AnixVPN | United States #12
+vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@168.222.202.187:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇷🇺 AnixVPN | Russia #13
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.37.116:62145?security=none&type=tcp&packetEncoding=xudp#🇳🇱 AnixVPN | Netherlands #14
+vless://77d68177-7331-4816-b5e9-23ec39a2ae3b@104.17.144.29:8880?&security=none&type=ws&headerType=&host=divine-rice-3224.464.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇸🇪 AnixVPN | Sweden #15
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@81.85.78.78:4100?encryption=none&type=ws&path=/v1&host=live.ok.ru#🇷🇺 AnixVPN | Russia #16
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.27:4100?path=%2Fv1&security=none&type=ws#🇺🇸 AnixVPN | United States #17
+vless://943ecfd7-bea6-4520-8898-e1fa536250cc@176.123.165.127:56745?encryption=none&security=none&type=tcp#🇩🇪 AnixVPN | Germany #18
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.67:4100?encryption=none&type=ws&path=/v1&host=live.ok.ru#🇺🇸 AnixVPN | United States #19
+vless://0ed342c3-eb45-4d63-83a1-697252636ca9@104.27.82.154:8880?&security=false&fp=chrome&type=ws&headerType=none&host=yellow-hall-d482.260-d22.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇸🇪 AnixVPN | Sweden #20
+vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@45.149.147.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fin.boxypn.com&fp=firefox&pbk=5sHbJ4047kBhn_28eCvK9cvU1Yd_-qWWl8sVzsSKZhI&type=tcp&headerType=none#🇮🇹 AnixVPN | Italy #21
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.130:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=/&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#🇸🇪 AnixVPN | Sweden #22
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.157.103:62145?security=none&type=tcp&encryption=none#🇳🇱 AnixVPN | Netherlands #23
+vless://35c13bb9-9d22-4d89-bfd2-76fe7abf04ff@194.77.220.41:29?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#🇫🇮 AnixVPN | Finland #24
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇩🇪 AnixVPN | Germany #25
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.144.66:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&eh=Sec-WebSocket-Protocol#🇸🇪 AnixVPN | Sweden #26
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.30:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&eh=Sec-WebSocket-Protocol#🇷🇺 AnixVPN | Russia #27
+vless://8a88edf2-235a-4e74-a012-315e8b0f000c@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&insecure=0&host=oknoloy.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=oknoloy.dearhossein-taktaz.ir#🇫🇮 AnixVPN | Finland #28
+vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@151.101.193.54:80?security=none&type=ws&path=/&host=BankMelat.glObal.ssl.faStly.nEt.&encryption=none#🇩🇪 AnixVPN | Germany #29
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.novayjr9g.info:8443?type=ws&headerType=none&security=tls&encryption=none&sni=ad-005.novayjr9g.info&fp=chrome&path=%2F&insecure=0#🇩🇪 AnixVPN | Germany #30
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.milo1fmyz.info:8443?type=ws&security=tls&encryption=none&path=%2F&host=ad-010.milo1fmyz.info&sni=ad-010.milo1fmyz.info&fp=chrome&headerType=none#🇬🇧 AnixVPN | United Kingdom #31
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.fluxmxd18.info:8443?&security=tls&fp=chrome&sni=ad-013.fluxmxd18.info&type=ws&headerType=none&host=ad-013.fluxmxd18.info&path=%2F#🇨🇦 AnixVPN | Canada #32
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?type=ws&security=none&encryption=none&path=%2Fv1&headerType=none#🇩🇪 AnixVPN | Germany #33
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.101.139:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇺🇸 AnixVPN | United States #34
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@nmslfangbinxing.pusytroller.gq:2095/?type=ws&amp;encryption=none&amp;flow=&amp;host=nmslfangbinxing.pusytroller.gq&amp;path=/#🇺🇸 AnixVPN | United States #35
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.flux3ni5o.info:8443?&security=tls&fp=chrome&sni=ad-010.flux3ni5o.info&type=ws&headerType=none&host=ad-010.flux3ni5o.info&path=%2F#🇬🇧 AnixVPN | United Kingdom #36
+vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.udemy.com:443?encryption=none&security=tls&sni=v6.bangfw.dpdns.org&type=ws#🇺🇸 AnixVPN | United States #37
+vless://9d01c418-6474-2935-6373-1fcf6206879d@timazadi-production-e88c.up.railway.app:443?path=/ws/9d01c418-6474-2935-6373-1fcf6206879d&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=timazadi-production-e88c.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=timazadi-production-e88c.up.railway.app#🇺🇸 AnixVPN | United States #38
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.flux3ni5o.info:8443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇨🇦 AnixVPN | Canada #39
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.orbitqgr7v.info:8443?path=%2F&security=tls&type=ws#🇨🇦 AnixVPN | Canada #40
+vless://98262dbd-3606-437b-b12e-3f38ca62522f@1.rmgyvpn.rest:443?encryption=none&security=tls&sni=1.rmgyvpn.rest&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=1.rmgyvpn.rest&path=%2Fws-cdn#🇺🇸 AnixVPN | United States #41
+vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@chatgpt.com:2053?encryption=none&type=ws&host=ov.iran-servers.shop&path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=ov.iran-servers.shop#🇫🇷 AnixVPN | France #42
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.vector9nmb3.info:8443?&security=tls&fp=chrome&sni=ad-004.vector9nmb3.info&type=ws&headerType=none&host=ad-004.vector9nmb3.info&path=%2F#🇫🇷 AnixVPN | France #43
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.cloud25075.info:8443?type=ws&headerType=none&security=tls&encryption=none&sni=ad-004.cloud25075.info&fp=chrome&path=%2F&host=ad-004.cloud25075.info&insecure=0#🇫🇷 AnixVPN | France #44
+vless://f6a92fa2-5685-3c70-16d5-ba38b388dbbf@empty-water-a05b.gfbghfbfngbdgbghngf.workers.dev:443?type=ws&headerType=none&security=tls&encryption=none&sni=empty-water-a05b.gfbghfbfngbdgbghngf.workers.dev&path=%2F&insecure=0#🇭🇰 AnixVPN | Hong Kong #45
+vless://916e3030-6eac-418b-9402-7508ca7d6280@fast.nanniang.top:8443/?type=ws&encryption=none&flow=&host=us-akile.nanniang.top&path=%2F&security=tls&sni=us-akile.nanniang.top&fp=chrome&packetEncoding=xudp#🇺🇸 AnixVPN | United States #46
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.rapid4yjcz.info:8443?type=ws&headerType=none&security=tls&encryption=none&sni=ad-013.rapid4yjcz.info&fp=chrome&path=%2F&host=ad-013.rapid4yjcz.info&insecure=0#🇨🇦 AnixVPN | Canada #47
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-020.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-020.cloud25075.info&type=ws&headerType=none&host=ad-020.cloud25075.info&path=%2F#🇬🇧 AnixVPN | United Kingdom #48
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zenkk0cd.info:8443?&security=tls&fp=chrome&sni=ad-004.zenkk0cd.info&type=ws&headerType=none&host=ad-004.zenkk0cd.info&path=%2F#🇫🇷 AnixVPN | France #49
+vless://d3b3f278-2cca-4abf-aa27-bf0c0f27cbd0@pro-de.emrata.top:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&fp=firefox&sni=pro-de.emrata.top#🇬🇧 AnixVPN | United Kingdom #50
+vless://1742863c-ce4b-4bb7-b807-80da29cbec86@www.gov.ua:8880?&security=false&fp=chrome&type=ws&headerType=none&host=icy-fog-9a41.70-a39.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇭🇰 AnixVPN | Hong Kong #51
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.novayjr9g.info:8443?&security=tls&fp=chrome&sni=ad-004.novayjr9g.info&type=ws&headerType=none&host=ad-004.novayjr9g.info&path=%2F#🇫🇷 AnixVPN | France #52
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.pixel9xdmq.info:8443?type=ws&headerType=none&security=tls&encryption=none&sni=ad-013.pixel9xdmq.info&fp=chrome&path=%2F&host=ad-013.pixel9xdmq.info&insecure=0#🇨🇦 AnixVPN | Canada #53
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@music1000.melobitmusic1.ir:2053?&security=tls&fp=chrome&sni=music1000.melobitmusic1.ir&type=ws&headerType=none&host=music1000.melobitmusic1.ir&path=%2F#🇵🇱 AnixVPN | Poland #54
+vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@ad-018.cloud25075.info:8443?type=ws&headerType=none&security=tls&encryption=none&sni=ad-018.cloud25075.info&fp=chrome&path=%2F&host=ad-018.cloud25075.info&insecure=0#🇫🇷 AnixVPN | France #55
+vless://2e8beadd-99bf-4fda-8692-8493886504bc@ad-007.cloud25075.info:8443?&security=tls&fp=chrome&sni=ad-007.cloud25075.info&type=ws&headerType=none&host=ad-007.cloud25075.info&path=%2F#🇬🇧 AnixVPN | United Kingdom #56
+vless://4bde007a-f683-4a43-83ad-e11eff35e6b4@tasiyanc.nova-5e611f.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=tasiyanc.nova-5e611f.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=tasiyanc.nova-5e611f.workers.dev#🇭🇰 AnixVPN | Hong Kong #57
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector2llqn.info:8443?&security=tls&fp=chrome&sni=ad-010.vector2llqn.info&type=ws&headerType=none&host=ad-010.vector2llqn.info&path=%2F#🇬🇧 AnixVPN | United Kingdom #58
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector9nmb3.info:8443?&security=tls&fp=chrome&type=ws&headerType=none&host=ad-010.vector9nmb3.info&path=%2F#🇬🇧 AnixVPN | United Kingdom #59
+vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@france.io-com-de-dev.org:8443?type=ws&headerType=none&security=tls&encryption=none&sni=france.io-com-de-dev.org&fp=chrome&alpn=http%2F1.1&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Fx9i2&host=france.io-com-de-dev.org&insecure=0#🇫🇷 AnixVPN | France #60
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.zen2bswa.info:8443?&security=tls&fp=chrome&type=ws&headerType=none&host=ad-013.zen2bswa.info&path=%2F#🇨🇦 AnixVPN | Canada #61
+vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443?security=tls&type=ws&path=/xprolk-primeline&host=primelinelk.me&sni=primelinelk.me&fp=chrome&encryption=none#🇸🇬 AnixVPN | Singapore #62
+vless://ba746959-18e7-471c-b00f-fa5cdd930abf@skk.moe:8880?&security=false&fp=chrome&type=ws&headerType=none&host=crimson-bread-c38e.295.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#🇭🇰 AnixVPN | Hong Kong #63
+vless://caeb0482-d3d9-4271-8fbe-bc2cfe694efa@pro-se.emrata.top:443?type=tcp&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=firefox&sni=pro-se.emrata.top#🇬🇧 AnixVPN | United Kingdom #64
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@tn.tmn141246.ru:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru&security=none#🇺🇸 AnixVPN | United States #65
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@tn2.tmn141246.ru:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru&security=none#🇺🇸 AnixVPN | United States #66
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&type=ws&security=tls&path=%2Fodiyfws&host=octopusss.net&sni=octopusss.net&insecure=0&allowInsecure=0#🇬🇧 AnixVPN | United Kingdom #67
+vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?security=tls&type=ws&path=/all&host=feywi.goldleaflab-psr.sbs&alpn=h2&sni=feywi.goldleaflab-psr.sbs&fp=chrome&encryption=none#🇫🇷 AnixVPN | France #68
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@cf.9999669.xyz:2087?security=tls&type=ws&path=/?ed=2560&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&packetEncoding=none&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome#🇷🇺 AnixVPN | Russia #69
