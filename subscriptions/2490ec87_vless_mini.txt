@@ -4,18 +4,18 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://2b5753cf-4d0a-4746-b63d-cd67a3de2ccc@172.66.140.62:8880?security=none&type=ws&host=crimson-hill-8061.166-dcf.workers.dev#🇸🇪 AnixVPN | Sweden #1
-vless://9b7d9618-29a6-45e9-9eca-dcc7ad42f974@104.16.107.139:8880?&security=false&fp=chrome&type=ws&headerType=none&host=shrill-frost-6da5.155-dec.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇸🇪 AnixVPN | Sweden #2
-vless://470c7664-3262-afbb-2bef-f6f0f5e83815@185.226.94.191:80?type=ws&path=%2F#🇩🇪 AnixVPN | Germany #3
-vless://0c0b895d-b954-4bec-94e6-5770677e7925@199.232.78.159:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=pan1.global.ssl.fastly.neT&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053#🇫🇮 AnixVPN | Finland #4
-vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@104.21.56.202:8880?type=ws&host=tiny-feather-4c41.227.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#🇸🇪 AnixVPN | Sweden #5
-vless://8ed35e81-16b9-4316-bcb4-4be6c4db4449@31.58.50.200:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&type=tcp&headerType=none#🇺🇸 AnixVPN | United States #6
-vless://9ea12baf-29ae-493e-a9f0-2916ff22448e@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#🇧🇷 AnixVPN | Brazil #7
-vless://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.250.230:8443?alpn=h2&encryption=none&fp=firefox&path=%2Fwebsocket%3Fed%3D2560&security=tls&sni=2.26.148.147.tyr-agentstvo.tech&type=ws#🇬🇧 AnixVPN | United Kingdom #8
-vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@185.126.67.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-de-4.ai-apiroute.cc&fp=firefox&pbk=kaw2U8L2ZTcgo56qUBONfylYJpHprI_CgZfv1I4q2Sc&sid=b512d49930874a31&type=tcp&headerType=none#🇩🇪 AnixVPN | Germany #9
-vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&mode=auto&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=chrome#🇳🇱 AnixVPN | Netherlands #10
-vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=%2Fcarbon&security=tls&alpn=h2&encryption=none&insecure=0&host=utmwb.freshlionnode-fla.sbs&type=ws&allowInsecure=0&sni=utmwb.freshlionnode-fla.sbs#🇫🇷 AnixVPN | France #11
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@millionaire.levikogjgfdd.ir:8080?path=%2Fv-ws&security=none&encryption=none&host=nl-cdn.doctor-alan-cloud.ir&type=ws#🇭🇰 AnixVPN | Hong Kong #12
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.53.240:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇷🇺 AnixVPN | Russia #1
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.108:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇸🇪 AnixVPN | Sweden #2
+vless://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #3
+vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.126.206.129:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#🇳🇱 AnixVPN | Netherlands #4
+vless://8dd8af16-cae0-4431-b04c-a637b4d7645b@104.16.107.139:8880?&security=none&type=ws&headerType=&host=wild-frog-c709.403-6ff.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇸🇪 AnixVPN | Sweden #5
+vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.126.206.41:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#🇳🇱 AnixVPN | Netherlands #6
+vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?encryption=none&type=ws&host=crimson-king-301d.nexoxnet.workers.dev&path=%2F&security=tls&fp=chrome&sni=crimson-king-301d.nexoxnet.workers.dev#🇸🇪 AnixVPN | Sweden #7
+vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.126.206.29:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#🇳🇱 AnixVPN | Netherlands #8
+vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.126.205.65:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#🇳🇱 AnixVPN | Netherlands #9
+vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.139.251.23:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#🇳🇱 AnixVPN | Netherlands #10
+vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@185.126.67.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn-de-4.ai-apiroute.cc&fp=firefox&pbk=kaw2U8L2ZTcgo56qUBONfylYJpHprI_CgZfv1I4q2Sc&sid=b512d49930874a31&type=tcp&headerType=none#🇩🇪 AnixVPN | Germany #11
+vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&mode=auto&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp&fp=chrome#🇳🇱 AnixVPN | Netherlands #12
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl03.skorostnet.space:443?type=tcp&security=reality&sni=pl03.skorostnet.space&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&fp=edge&encryption=none&flow=xtls-rprx-vision#🇵🇱 AnixVPN | Poland #13
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@pl01.skorostnet.space:443?type=tcp&security=reality&sni=pl01.skorostnet.space&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&fp=edge&encryption=none&flow=xtls-rprx-vision#🇵🇱 AnixVPN | Poland #14
 vless://39c42b0a-b823-4c93-bb99-74b4183e518d@api.getsavesafe.net:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=api.getsavesafe.net&fp=qq&pbk=XyVDRn9DwbR6_bZPiGGz0jgCONpfH5LVbDaUejtiuTA&sid=16f5b3bddf7f68ae&path=%2F#🇳🇱 AnixVPN | Netherlands #15
