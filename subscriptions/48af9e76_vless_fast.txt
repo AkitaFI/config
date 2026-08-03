@@ -1,6 +1,10 @@
+#profile-user-id: 430781541
 #profile-title: Anix VPN - Fast 🕊️
 #profile-update-interval: 6
-#support-url: https://t.me/AnixSec
-#announce: TG: @AnixSec
-#subscription-userinfo: upload=610460672; download=610460672; total=10995116277760; expire=0
+#support-url: https://t.me/AnixCompany
+#announce: TG: @AnixCompany Link: anix-com.ru
 
+vless://39c24c2d-c185-4fc4-8631-3645d46bbb76@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#🇧🇷 AnixVPN | Brazil #1
+vless://6b408e62-c5d5-45e1-ae3a-4c9833d46d82@217.217.254.126:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=T4CMxxAJiCcrGk2r87kMkDcvmfNs3nL-gKleaE1wTHQ&sid=fb7ebc9996caf9ac&sni=www.cloudflare.com#🇸🇬 AnixVPN | Singapore #2
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@172.64.80.1:8443?type=ws&security=tls&sni=ad-004.vector2llqn.info&fp=chrome&path=/&host=ad-004.vector2llqn.info#🇫🇷 AnixVPN | France #3
+vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&fp=chrome&mode=auto&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp#🇺🇸 AnixVPN | United States #4
