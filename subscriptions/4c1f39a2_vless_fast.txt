@@ -4,9 +4,8 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://2c59b6e0-8544-4042-a587-ecea48dd5a6d@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#🇳🇱 AnixVPN | Netherlands #1
-vless://e2a2a8d1-0a3d-4a1a-bab1-c70329122b18@178.154.214.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yX1E6fqEpS0oU3efsyAc0x6hXsl7w5iBTnZkbzG7JB8&security=reality&sid=22730c666bd10642&sni=api-maps.yandex.ru&type=raw#🇸🇪 AnixVPN | Sweden #2
-vless://04b9e828-43ed-4faf-8952-41069ec08355@ddc-akn.astralweb.tech:443/?type=tcp&encryption=none&flow=&security=tls&sni=ddc-akn.astralweb.tech&alpn=h2&fp=chrome&packetEncoding=xudp#🇩🇪 AnixVPN | Germany #3
-vless://04b9e828-43ed-4faf-8952-41069ec08355@93.115.25.139:443?encryption=none&security=tls&sni=ddc-chr2.astralweb.tech&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇱🇹 AnixVPN | Lithuania #4
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@tn.tmn141246.ru:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws&sni=tn.tmn141246.ru#🇺🇸 AnixVPN | United States #5
-vless://0c0a91de-5250-4d6c-9922-f3594d99f096@2.26.78.11:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-de.emrata.top#🇬🇧 AnixVPN | United Kingdom #6
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#🇺🇸 AnixVPN | United States #1
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@81.85.78.78:4100?encryption=none&type=ws&path=/v1&host=live.ok.ru#🇷🇺 AnixVPN | Russia #2
+vless://0c0a91de-5250-4d6c-9922-f3594d99f096@2.26.78.11:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-de.emrata.top#🇬🇧 AnixVPN | United Kingdom #3
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#🇩🇪 AnixVPN | Germany #4
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.229.153:62145?security=none&type=tcp&encryption=none#🇳🇱 AnixVPN | Netherlands #5
