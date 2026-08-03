@@ -4,9 +4,9 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://4908acbe-485f-4e1c-bb11-5dd04b9f7e88@172.64.80.1:443?type=ws&security=tls&sni=restless-base-fe24.alirezahabibi20009.workers.dev&fp=random&path=/eyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=restless-base-fe24.alirezahabibi20009.workers.dev#🇨🇦 AnixVPN | Canada #1
-vless://caeb0482-d3d9-4271-8fbe-bc2cfe694efa@2.26.127.2:443?type=tcp&security=reality&pbk=RYnbBzo-UTB4nVMymzJ5B6TgYed7DfOc6O5Pr_htYSc&sni=pro-uk.emrata.top&fp=firefox#🇬🇧 AnixVPN | United Kingdom #2
-vless://c46e2605-be24-4555-b7db-0fc6773ad004@185.126.67.63:8443?type=xhttp&security=reality&pbk=oEGHIejUv3mTkHQCx3myCUFPzpbT6tyYay72_pLIkhQ&sni=yandex.tr&fp=firefox#🇩🇪 AnixVPN | Germany #3
-vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@45.80.111.175:8880?type=ws&security=none&path=/cdn/assets/stream&host=cnd.uk.newwaycdn.com#🇩🇪 AnixVPN | Germany #4
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.64.80.1:8443?type=ws&security=tls&sni=ad-013.fluxmxd18.info&fp=chrome&path=/&host=ad-013.fluxmxd18.info#🇨🇦 AnixVPN | Canada #5
-vless://9ea12baf-29ae-493e-a9f0-2916ff22448e@213.219.212.24:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sni=eh.vk.ru&fp=firefox#🇧🇷 AnixVPN | Brazil #6
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.64.80.1:8443?type=ws&security=tls&sni=ad-013.fluxmxd18.info&fp=firefox&path=/&host=ad-013.fluxmxd18.info#🇬🇧 AnixVPN | United Kingdom #1
+vless://9f1c9f8a-3b89-460b-aaa2-c70bc934cebf@83.147.216.66:50000?type=ws&security=tls&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=random&path=/@Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev#🇷🇺 AnixVPN | Russia #2
+vless://573bd634-8fad-46bd-9d76-7828df6dd05f@193.29.225.249:4443?type=ws&security=tls&sni=o-85ley6knn8ut.6nvkygqh144t7xtdyvh0y3o4gzo3ujhnk8n.workers.dev&fp=random&path=/@Marisa_kristi&host=o-85ley6knn8ut.6nvkygqh144t7xtdyvh0y3o4gzo3ujhnk8n.workers.dev#🇩🇪 AnixVPN | Germany #3
+vless://caeb0482-d3d9-4271-8fbe-bc2cfe694efa@2.26.95.2:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-jp.emrata.top&fp=firefox#🇯🇵 AnixVPN | Japan #4
+vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@8.6.112.7:8443?encryption=none&security=tls&sni=ger3.kickfarsi.com&fp=firefox&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#🇩🇪 AnixVPN | Germany #5
+vless://c7e9c591-2764-423a-afca-efbd010fd396@146.59.19.208:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#🇫🇮 AnixVPN | Finland #6
