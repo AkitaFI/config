@@ -4,5 +4,11 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.175:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇷🇺 AnixVPN | Russia #1
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@172.64.80.1:8443?type=ws&security=tls&sni=ad-020.pixel9xdmq.info&fp=chrome&path=/&host=ad-020.pixel9xdmq.info#🇫🇷 AnixVPN | France #2
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.145.202:2095?security=none&type=ws&path=%2F&host=fangbinxingnmsl.pusytroller.gq#🇺🇸 AnixVPN | United States #1
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095?encryption=none&type=ws&path=%2F&host=download.pusytroller.gq#🇺🇸 AnixVPN | United States #2
+vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?path=%2Fcarbon&security=tls&encryption=none&insecure=0&host=xvwve.smartwolfbase-addd.sbs&fp=chrome&type=ws&allowInsecure=0&sni=xvwve.smartwolfbase-addd.sbs#🇫🇷 AnixVPN | France #3
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@172.64.80.1:8443?security=tls&type=ws&path=%2F&host=ad-020.limaklhc6.info&sni=ad-020.limaklhc6.info&encryption=none&fp=ios#🇫🇷 AnixVPN | France #4
+vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?security=tls&type=ws&path=%2Fall&host=feywi.goldleaflab-psr.sbs&alpn=h2&sni=feywi.goldleaflab-psr.sbs&fp=chrome&encryption=none#🇫🇷 AnixVPN | France #5
+vless://98262dbd-3606-437b-b12e-3f38ca62522f@1.rmgyvpn.rest:443?fp=chrome&host=1.rmgyvpn.rest&path=%2Fws-cdn&security=tls&sni=1.rmgyvpn.rest&type=ws#🇺🇸 AnixVPN | United States #6
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.245.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram#🇭🇰 AnixVPN | Hong Kong #7
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?encryption=none&host=fuckfangbinxing.pusytroller.gq&path=/&security=none&type=ws#🇺🇸 AnixVPN | United States #8
