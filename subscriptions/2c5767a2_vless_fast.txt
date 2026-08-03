@@ -1,6 +1,14 @@
+#profile-user-id: 880096333
 #profile-title: Anix VPN - Fast 🕊️
 #profile-update-interval: 6
-#support-url: https://t.me/AnixSec
-#announce: TG: @AnixSec
-#subscription-userinfo: upload=51795968; download=51795968; total=10995116277760; expire=0
+#support-url: https://t.me/AnixCompany
+#announce: TG: @AnixCompany Link: anix-com.ru
 
+vless://174ffdb5-e578-42df-b014-5fbff27ef8ce@164.38.155.84:2052?type=httpupgrade&security=none#🇺🇸 AnixVPN | United States #1
+vless://943ecfd7-bea6-4520-8898-e1fa536250cc@176.123.165.127:56745?encryption=none&security=none&type=raw#🇩🇪 AnixVPN | Germany #2
+vless://caeb0482-d3d9-4271-8fbe-bc2cfe694efa@31.76.253.3:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=uY-4wMHFY1pD8SIwHBfcxVRdolB7NAJIWIbYjaG8iw0&sni=pro-us.emrata.top&fp=firefox#🇺🇸 AnixVPN | United States #3
+vless://7ba17ba6-8d1d-4968-882b-f5a3b43eb51d@icy-morning-df86.alisooltaniiii2024ali.workers.dev:443?encryption=none&security=tls&type=ws#🇭🇰 AnixVPN | Hong Kong #4
+vless://2b2ed3be-36bd-486d-9d04-ebf5b4be7ae9@www.ipget.net:8880?type=ws&host=twilight-heart-dbd6.220-2bd.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇭🇰 AnixVPN | Hong Kong #5
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@soskeynets.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇷🇺 AnixVPN | Russia #6
+vless://631ddfb7-2f6b-4ecb-8c07-47062fff7ccb@www.gov.ua:8880?type=ws&encryption=none&path=%2Fpyip&host=morning-cell-6297.66-b87.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇭🇰 AnixVPN | Hong Kong #7
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@tn.tmn141246.ru:4100?encryption=none&type=ws&path=%2Fv1&host=live.ok.ru&security=none#🇮🇪 AnixVPN | Ireland #8
