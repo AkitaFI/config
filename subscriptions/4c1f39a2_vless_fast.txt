@@ -4,11 +4,9 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://a7b22989-6c1f-4b59-b0f3-0605401813c4@45.131.4.115:80?type=ws&security=tls&sni=45.131.4.115&fp=random&path=/eyJqdW5rIjoiQXoydFJwaWM0WSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=worker3.gigak25604.workers.dev#🇨🇦 AnixVPN | Canada #1
-vless://f78dac42-c4e5-47e6-b3ce-50c4997661d3@64.227.32.76:61446?type=xhttp&security=reality&pbk=cj-2GvWY9TLI8oG31OlcLuskqSM5SGMjoBgEbV-iWG8&sni=de.kino.yahoo.com&sid=5b70a8b642e23441&fp=chrome#🇨🇦 AnixVPN | Canada #2
-vless://b8b01773-36b1-4b49-9bd0-6249f52345b4@63.141.128.22:443?type=ws&security=tls&sni=misty-tooth-78ca.fobogah414-e7b.workers.dev&fp=random&path=/eyJqdW5rIjoiTkNUaFg0ZnJNUjhhcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=misty-tooth-78ca.fobogah414-e7b.workers.dev#🇨🇦 AnixVPN | Canada #3
-vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@91.193.58.10:8880?type=ws&security=none&path=/pyip=Telegram🇨🇳 @WangCai2&host=yellow-mouse-fcce.400-318.workers.dev#🇨🇦 AnixVPN | Canada #4
-vless://9ea12baf-29ae-493e-a9f0-2916ff22448e@213.219.212.30:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sni=pro-ru-213.emrata.top&fp=safari#🇧🇷 AnixVPN | Brazil #5
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@102.177.176.30:8880?type=ws&security=none&path=/&host=vms.lifetime28.workers.dev#🇨🇦 AnixVPN | Canada #6
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.191:2087?type=ws&security=tls&sni=vlso5.1d.mom&fp=chrome&path=/socks5=888:888@hkip.1d.mom:1080&host=vlso5.1d.mom#🇨🇦 AnixVPN | Canada #7
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@172.64.80.1:8443?type=ws&security=tls&sni=ad-013.fluxmxd18.info&fp=safari&path=/&host=ad-013.fluxmxd18.info#🇨🇦 AnixVPN | Canada #8
+vless://caeb0482-d3d9-4271-8fbe-bc2cfe694efa@2.26.78.67:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-de.emrata.top&fp=firefox#🇩🇪 AnixVPN | Germany #1
+vless://caeb0482-d3d9-0032-8fbe-bc2cfe694efa@2.26.78.19:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-de.emrata.top&fp=firefox#🇩🇪 AnixVPN | Germany #2
+vless://caeb0482-d3d9-4271-8fbe-bc2cfe694efa@2.26.78.3:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-de.emrata.top&fp=firefox#🇩🇪 AnixVPN | Germany #3
+vless://caeb0482-d3d9-4271-8fbe-bc2cfe694efa@2.26.78.115:443?type=tcp&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-de.emrata.top&fp=firefox#🇩🇪 AnixVPN | Germany #4
+vless://52059d55-8c91-426c-867c-7d1cf6b4d22c@213.219.212.24:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sni=pro-ru-213.emrata.top&fp=firefox#🇧🇷 AnixVPN | Brazil #5
+vless://4bce450e-0a37-4fdd-8c9e-ba6a5e4730aa@213.219.212.30:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sni=pro-ru-213.emrata.top&fp=firefox#🇧🇷 AnixVPN | Brazil #6
