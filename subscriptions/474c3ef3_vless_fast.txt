@@ -1,6 +1,13 @@
+#profile-user-id: 266679784
 #profile-title: Anix VPN - Fast 🕊️
 #profile-update-interval: 6
-#support-url: https://t.me/AnixSec
-#announce: TG: @AnixSec
-#subscription-userinfo: upload=551590912; download=551590912; total=10995116277760; expire=0
+#support-url: https://t.me/AnixCompany
+#announce: TG: @AnixCompany Link: anix-com.ru
 
+vless://9ea12baf-29ae-493e-a9f0-2916ff22448e@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=pro-ru-213.emrata.top&type=raw#🇧🇷 AnixVPN | Brazil #1
+vless://0c13ef54-3890-4bbc-baec-e80335db9fe7@104.16.99.215:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&alpn=http/1.1&encryption=none&host=plain-dawn-765f.452.workers.dev&fp=chrome&type=ws#🇷🇺 AnixVPN | Russia #2
+vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@104.16.242.208:8880?encryption=none&type=ws&host=steep-bread-32f0.92-d12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none#🇷🇺 AnixVPN | Russia #3
+vless://f8fff57f-224a-4ae3-80c1-a9299796ad7c@172.67.215.201:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=11.ez-70ef02.workers.dev&path=%2FeyJqdW5rIjoicmc2S3lEeXFMV3Y3UHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1Ny4xMjkuNDcuNTIiXX0%3D&security=tls&sni=11.ez-70ef02.workers.dev&type=ws#🇸🇪 AnixVPN | Sweden #4
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.49:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2F#🇫🇮 AnixVPN | Finland #5
+vless://1709ce04-8455-49f2-a57b-c1f47ad98aaa@185.91.52.36:443?encryption=none&fp=firefox&path=%2Fws&security=tls&sni=amogus.razkur.dev&type=ws#🇳🇱 AnixVPN | Netherlands #6
+vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@217.60.193.1:443?fp=firefox&security=tls&sni=ddc-akn.astralweb.tech#🇩🇪 AnixVPN | Germany #7
