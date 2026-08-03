@@ -4,12 +4,11 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://c7e9c591-2764-423a-afca-efbd010fd396@95.216.168.240:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #1
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.146.211:2087?&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F#🇸🇪 AnixVPN | Sweden #2
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=secure.furrycdn.net&type=raw#🇳🇱 AnixVPN | Netherlands #3
-vless://0c0a91de-5250-4d6c-9922-f3594d99f096@2.26.78.11:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-de.emrata.top#🇬🇧 AnixVPN | United Kingdom #4
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@tn.tmn141246.ru:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws&sni=tn.tmn141246.ru#🇷🇺 AnixVPN | Russia #5
-vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?security=tls&type=ws&path=/&host=workspace.evan00.dpdns.org&packetEncoding=xudp&sni=workspace.evan00.dpdns.org&fp=randomized#🇸🇪 AnixVPN | Sweden #6
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@mnl.savesafe.space:443?encryption=none&type=xhttp&security=reality&sni=ya.ru&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&sid=b997e34499a919f3&host=mnl.savesafe.space&path=%2F&mode=auto&fp=safari#🇩🇪 AnixVPN | Germany #7
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.151.21:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&eh=Sec-WebSocket-Protocol#🇸🇪 AnixVPN | Sweden #8
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.108:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&eh=Sec-WebSocket-Protocol#🇸🇪 AnixVPN | Sweden #9
+vless://35699c54-9188-4f43-972e-e8e42dbb104e@94.126.206.41:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#🇳🇱 AnixVPN | Netherlands #1
+vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.204.159:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#🇳🇱 AnixVPN | Netherlands #2
+vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.139.251.9:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#🇳🇱 AnixVPN | Netherlands #3
+vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.126.206.117:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&security=reality&sni=apple.com&type=raw#🇳🇱 AnixVPN | Netherlands #4
+vless://1078d418-b4e0-4668-9018-dc90c2042d61@104.17.28.89:443?&security=tls&fp=chrome&sni=workspace.evan00.dpdns.org&type=ws&headerType=none&host=workspace.evan00.dpdns.org&path=%2Ffp%3Drandomized#🇸🇪 AnixVPN | Sweden #5
+vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?encryption=none&security=reality&sni=www.amazon.com&fp=firefox&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&sid=f57d8f26&type=xhttp&path=%2FG3EEoH63&mode=auto#🇫🇷 AnixVPN | France #6
+vless://d6dc1358-1bb5-4a9d-92fd-3e255567e3fc@94.126.206.129:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=M9_R2DX7bxoMJpkF4RcyJ0oJ8ZuGsxWrjuREKi6Ol0w&security=reality&sni=apple.com&type=raw#🇳🇱 AnixVPN | Netherlands #7
+vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.139.251.23:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6ycuxfrEPsqE9eXZ5_Osbnx4g6hXWmkc8pFuAJkJ4jY&security=reality&sni=apple.com&type=raw#🇳🇱 AnixVPN | Netherlands #8
