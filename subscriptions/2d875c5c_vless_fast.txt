@@ -1,0 +1,16 @@
+#profile-user-id: 5
+#profile-title: Anix VPN - Fast 🕊️
+#profile-update-interval: 6
+#support-url: https://t.me/AnixCompany
+#announce: TG: @AnixCompany Link: anix-com.ru
+
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.59.120.124:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #1
+vless://ec399c6b-04d1-443f-8413-b342f55439bc@185.178.208.176:443?alpn=h3%2Ch2&encryption=none&fp=chrome&host=founders-blog.online&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=founders-blog.online&type=ws#🇸🇪 AnixVPN | Sweden #2
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@68.183.65.82:2083?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&encryption=none&host=lucky-sky-0104.alvlirm444.workers.dev&fp=chrome&type=ws&sni=lucky-sky-0104.alvlirm444.workers.dev#🇩🇪 AnixVPN | Germany #3
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@89.127.217.210:4100?security=none&sni=tn.tmn141246.ru&type=ws&host=live.ok.ru&path=%2Fv1#🇮🇪 AnixVPN | Ireland #4
+vless://cfb74ef3-f868-43c5-b05a-56509e2c948f@162.159.156.214:8880?host=flat-limit-5b5e.472-cf5.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&type=ws#🇷🇺 AnixVPN | Russia #5
+vless://ec399c6b-04d1-443f-8413-b342f55439bc@188.68.218.120:443?encryption=none&fp=firefox&mode=gun&pbk=VaKp9XjMqT7lA4F3b6hpdF6fmsiY4B_hz6MzT6fv938&security=reality&sni=ads.x5.ru&type=grpc#🇸🇪 AnixVPN | Sweden #6
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@172.67.185.125:8443?encryption=none&type=ws&host=ad-005.zen2bswa.info&path=%2F&security=tls&fp=chrome&sni=ad-005.zen2bswa.info#🇩🇪 AnixVPN | Germany #7
+vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws#🇸🇪 AnixVPN | Sweden #8
+vless://06e01b88-3753-4d3f-adcc-d82000000000@104.17.148.22:443?security=tls&type=ws&path=/NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&host=netlivpn0714.sav2772v7272hshshsbuwiqmq.workers.dev&sni=netlivpn0714.sav2772v7272hshshsbuwiqmq.workers.dev&fp=chrome&encryption=none#🇷🇺 AnixVPN | Russia #9
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.27:443?type=ws&security=tls&sni=ro.ariyuz.org#🇬🇧 AnixVPN | United Kingdom #10
