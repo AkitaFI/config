@@ -4,13 +4,13 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://121c3728-2b6b-4b69-bac6-170b13658d74@www.zsu.gov.ua:8880?type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=falling-darkness-95ea.289.workers.dev&sni=www.zsu.gov.ua#🇸🇪 AnixVPN | Sweden #1
-vless://49e76398-5127-4005-90cb-c2a971f745f1@162.159.38.119:443?security=tls&type=ws&path=/carbon&host=wrnfu.neospark-nomt.sbs&sni=wrnfu.neospark-nomt.sbs&fp=chrome#🇫🇷 AnixVPN | France #2
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#🇭🇰 AnixVPN | Hong Kong #3
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.145.202:2095?&type=ws&headerType=none&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇺🇸 AnixVPN | United States #4
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?security=none&type=ws&path=%2F&host=fuckfangbinxing.pusytroller.gq&encryption=none#🇺🇸 AnixVPN | United States #5
-vless://428bed8a-ecc3-4621-ad11-3a8ed90886ec@104.16.73.50:443?path=%2Fmashdi&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=17bxjzhhgbdudihdskss1.jakkkat.ir#🇬🇧 AnixVPN | United Kingdom #6
-vless://49e76398-5127-4005-90cb-c2a971f745f1@108.162.194.119:443?security=tls&type=ws&path=/carbon&host=loctc.goldcitynode-tobi.sbs&sni=loctc.goldcitynode-tobi.sbs&fp=firefox&encryption=none#🇫🇷 AnixVPN | France #7
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@104.18.32.47:2053?security=tls&type=ws&path=%2FJ5aLQOY1R9ONWYCM&host=ov.iran-servers.shop&sni=ov.iran-servers.shop&fp=chrome&encryption=none#🇫🇷 AnixVPN | France #8
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.83.2.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%40WangCai2%2520%2F#🇭🇰 AnixVPN | Hong Kong #9
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.127.219:22222?encryption=none&security=none&type=tcp#🇫🇷 AnixVPN | France #10
+vless://04b9e828-43ed-4faf-8952-41069ec08355@ddc-akn.astralweb.tech:443?encryption=none&security=tls&sni=ddc-akn.astralweb.tech&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇩🇪 AnixVPN | Germany #1
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@162.159.44.7:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#🇪🇪 AnixVPN | Estonia #2
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.7:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&type=ws#🇸🇪 AnixVPN | Sweden #3
+vless://d6bbaa54-2fa9-46b9-8f6d-42ccdfc9122b@104.16.241.173:2096?type=ws&security=tls&fp=chrome&sni=odd-wildflower-db1b.yasinmohammad.workers.dev#🇸🇪 AnixVPN | Sweden #4
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.98:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇸🇪 AnixVPN | Sweden #5
+vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.12.58:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #6
+vless://cf44b733-1ebd-11f1-8cae-c3845d39d2de@31.59.102.176:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&sni=www.apple.com#🇱🇻 AnixVPN | Latvia #7
+vless://06f364d4-3d0c-4c60-84e9-a3009f1b0050@103.227.84.174:6443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=81e89aa47ec96f1c&sni=ign.com#🇪🇬 AnixVPN | Egypt #8
+vless://49e76398-5127-4005-90cb-c2a971f745f1@love.ns.cloudflare.com:443?type=ws&security=tls&sni=oekja.megacitylab-nomt.sbs&fp=firefox&host=oekja.megacitylab-nomt.sbs&path=%2Fcarbon#🇫🇷 AnixVPN | France #9
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.215.97:2087?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&eh=Sec-WebSocket-Protocol#🇸🇪 AnixVPN | Sweden #10
