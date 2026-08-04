@@ -4,11 +4,3 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?&security=none&type=ws&headerType=&host=flat-butterfly-d503.411-d1e.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#🇸🇪 AnixVPN | Sweden #1
-vless://04b9e828-43ed-4faf-8952-41069ec08355@ddc-akn.astralweb.tech:443?security=tls&sni=ddc-akn.astralweb.tech#🇩🇪 AnixVPN | Germany #2
-vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.209.85:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #3
-vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.12.58:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🇫🇮 AnixVPN | Finland #4
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?type=ws&encryption=none&host=168.222.140.204&path=%2Fv1&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=1#🇷🇺 AnixVPN | Russia #5
-vless://645ea5d2-7d0a-4d66-940d-eefc2b84f4e9@172.64.94.251:8880?encryption=none&security=none&type=ws&host=fragrant-surf-4797.496-345.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇷🇺 AnixVPN | Russia #6
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.38.74:443?encryption=none&fp=chrome&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&path=%2F&security=tls&sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&type=ws#🇪🇪 AnixVPN | Estonia #7
-vless://e4927998-38dd-4bf4-a37d-4cc67a06ee2d@172.66.170.53:8880?type=ws&host=cold-shadow-66a0.278.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇸🇪 AnixVPN | Sweden #8
