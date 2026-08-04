@@ -1,0 +1,33 @@
+#profile-user-id: 1431666524
+#profile-title: Anix VPN - Mini 🕊️
+#profile-update-interval: 6
+#support-url: https://t.me/AnixCompany
+#announce: TG: @AnixCompany Link: anix-com.ru
+
+vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@37.9.4.224:443?encryption=none&flow=xtls-rprx-vision&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&security=reality&sid=aa03ec59c9695e91&sni=wl-2-1.legendary.ac&type=raw&fp=edge#🇩🇪 AnixVPN | Germany #1
+vless://45c876f9-4900-40c0-b269-94871e78df54@95.85.226.92:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q8UxCgHpEfppsmuMR8nWyMlcMdpWgzFChQqiTkA9Nkw&security=reality&sid=f4c9f048e3385ee1&sni=nl02.port-server.online&type=tcp#🇩🇪 AnixVPN | Germany #2
+vless://43694943-d64e-4393-a3cd-8c38de1c2a4e@155.212.240.30:443?alpn=http/1.1&encryption=none&fp=firefox&host=vbirffour.site&path=/6facebf4-4bc6b53d-ae32f25d125c&security=tls&sni=8qt88qpnmy.vbirffour.site&type=ws#🇩🇪 AnixVPN | Germany #3
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.22:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=fr05.skorostnet.space#🇩🇪 AnixVPN | Germany #4
+vless://45c876f9-4900-40c0-b269-94871e78df54@95.85.247.4:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DuBWDQyWu_GSuXJ1obaGfRsaLuAUjM9-FfjNaDhTC34&security=reality&sid=2474ace4845fcdef&sni=nl01.port-server.online&type=tcp#🇩🇪 AnixVPN | Germany #5
+vless://3817f8d1-094d-4860-ac22-5e5d17943765@193.84.3.57:443?type=xhttp&security=tls&fp=firefox&sni=hlb.tunnelguard.ru&mode=auto&extra={#🇩🇪 AnixVPN | Germany #6
+vless://43694943-d64e-4393-a3cd-8c38de1c2a4e@155.212.240.43:443?alpn=http/1.1&encryption=none&fp=firefox&host=vbirfeight.site&path=/6bd147db-405ca363-42fe38402f54&security=tls&sni=g0952prmtw.vbirfeight.site&type=ws#🇩🇪 AnixVPN | Germany #7
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?type=grpc&security=reality&fp=firefox&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5&sni=c.primarymaster.online#🇩🇪 AnixVPN | Germany #8
+vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@ru.musicwave.net:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=ru.musicwave.net&fp=firefox&pbk=VO7cwLD_8k4BIM7zn2z7GMJTFyf6KnDkKVdcsFg0hz0&sid=825d392c67e4&spx=/#🇩🇪 AnixVPN | Germany #9
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@185.212.119.177:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=fl10.skorostnet.space#🇩🇪 AnixVPN | Germany #10
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@52.43.158.158:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=random&spx=%2Ffdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#🇩🇪 AnixVPN | Germany #11
+vless://c46e2605-be24-4555-b7db-0fc6773ad004@176.124.222.75:443?encryption=none&fp=firefox&mode=auto&pbk=th2Eu0Zvmu02_hA8MEjlFahwjXl37ck9W1JD7k2BhEg&security=reality&sid=12334e&sni=www.cloudflare.com&type=xhttp#🇩🇪 AnixVPN | Germany #12
+vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@sa.ch-moltisanti.ru:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=sa.ch-moltisanti.ru&fp=firefox&pbk=zb1esVBjrdlitl7Z_YkRi44kC0NXVvF5U17LAXW6fDQ&sid=825d392c67e4&spx=/#🇩🇪 AnixVPN | Germany #13
+vless://d94c72ee-f85e-497b-8400-ef20778ba773@144.31.52.222:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ThYiOQmlRYp3vrb_MAshWmjSxwOOYcstJusgIiiopHY&security=reality&sid=1b4e086bf0a1b1f4&sni=fi.i-love-russia.online&type=tcp#🇩🇪 AnixVPN | Germany #14
+vless://89c3b66f-c849-4602-a5a8-84b6f06af478@3.162.103.19:80?allowInsecure=0&sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=/#🇩🇪 AnixVPN | Germany #15
+vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@87.120.92.181:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oEZR7FpSd4ZrBKHrBLJqfGq_23-xf7DQy0bkqkiq0mw&sid=825d392c67e4&sni=e-spectacular.ru#🇩🇪 AnixVPN | Germany #16
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@191.44.109.194:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=ger11.skorostnet.space#🇩🇪 AnixVPN | Germany #17
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&flow=xtls-rprx-vision#🇩🇪 AnixVPN | Germany #18
+vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@au.musicwave.net:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=au.musicwave.net&fp=firefox&pbk=ukD87Vk-vZlpFizTh-zSjst2lEN39Cfyjd4mNiu2CS0&sid=825d392c67e4&spx=/#🇩🇪 AnixVPN | Germany #19
+vless://89c3b66f-c849-4602-a5a8-84b6f06af478@3.169.173.8:80?allowInsecure=0&sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=/#🇩🇪 AnixVPN | Germany #20
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.20:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=fr03.skorostnet.space#🇩🇪 AnixVPN | Germany #21
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@191.44.109.195:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=ger12.skorostnet.space#🇩🇪 AnixVPN | Germany #22
+vless://68b4b16e-2759-47a4-8a69-33118edf5ce6@194.147.35.83:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5RK9ivB7UF_89vkywwpZjW3jAJqsEGskRSS7c0OUOXM&security=reality&sid=2f4761809cf9fbfb&sni=ang.leontunel.ru&type=tcp#🇩🇪 AnixVPN | Germany #23
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@89.185.80.195:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=5us.skorostnet.space#🇩🇪 AnixVPN | Germany #24
+vless://89c3b66f-c849-4602-a5a8-84b6f06af478@3.162.103.26:80?sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F#🇩🇪 AnixVPN | Germany #25
+vless://89c3b66f-c849-4602-a5a8-84b6f06af478@3.162.103.97:80?sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F#🇩🇪 AnixVPN | Germany #26
+vless://43694943-d64e-4393-a3cd-8c38de1c2a4e@155.212.240.109:443?alpn=http/1.1&encryption=none&fp=firefox&host=vbirfeight.site&path=/6bd147db-405ca363-42fe38402f54&security=tls&sni=g0952prmtw.vbirfeight.site&type=ws#🇩🇪 AnixVPN | Germany #27
