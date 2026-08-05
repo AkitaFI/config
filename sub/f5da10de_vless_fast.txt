@@ -1,0 +1,6 @@
+#profile-user-id: 75
+#profile-title: Anix VPN - Fast 🕊️
+#profile-update-interval: 6
+#support-url: https://t.me/AnixCompany
+#announce: TG: @AnixCompany Link: anix-com.ru
+
