@@ -4,14 +4,18 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://ND91608427@next-turkey.rooster465.autos:443?security=tls&sni=next-turkey.rooster465.autos#🇩🇪 AnixVPN | Germany #1
-trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos#🇫🇷 AnixVPN | France #2
-trojan://ND91608427@definite-sturgeon.rooster465.autos:443?security=tls&sni=definite-sturgeon.rooster465.autos#🇯🇵 AnixVPN | Japan #3
-trojan://ND91608427@pet-ghost.rooster465.autos:443?security=tls&sni=pet-ghost.rooster465.autos#🇺🇸 AnixVPN | United States #4
-trojan://ND91608427@careful-tadpole.rooster465.autos:443?security=tls&sni=careful-tadpole.rooster465.autos#🇫🇷 AnixVPN | France #5
-trojan://UO36402987@3.120.37.181:443?sni=many-cricket.rooster465.autos&type=tcp#🇩🇪 AnixVPN | Germany #6
-trojan://UO36402987@many-cricket.rooster465.autos:443?type=raw&headerType=none&security=tls#🇩🇪 AnixVPN | Germany #7
-trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos#🇩🇪 AnixVPN | Germany #8
-trojan://ND91608427@star-kiwi.rooster465.autos:443?security=tls&sni=star-kiwi.rooster465.autos#🇩🇪 AnixVPN | Germany #9
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?mux=1#🇩🇪 AnixVPN | Germany #10
-trojan://ND91608427@sincere-gelding.rooster465.autos:443?security=tls&sni=sincere-gelding.rooster465.autos#🇩🇪 AnixVPN | Germany #11
+trojan://ND91608427@gentle-raptor.rooster465.autos:443?security=tls&sni=gentle-raptor.rooster465.autos#🇩🇪 AnixVPN | Germany #1
+trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&headerType=none&type=tcp#🇹🇭 AnixVPN | Thailand #2
+trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#🇰🇷 AnixVPN | South Korea #3
+trojan://ND91608427@next-turkey.rooster465.autos:443?security=tls&sni=next-turkey.rooster465.autos#🇩🇪 AnixVPN | Germany #4
+trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos#🇫🇷 AnixVPN | France #5
+trojan://ND91608427@definite-sturgeon.rooster465.autos:443?security=tls&sni=definite-sturgeon.rooster465.autos#🇯🇵 AnixVPN | Japan #6
+trojan://ND91608427@pet-ghost.rooster465.autos:443?security=tls&sni=pet-ghost.rooster465.autos#🇺🇸 AnixVPN | United States #7
+trojan://ND91608427@careful-tadpole.rooster465.autos:443?security=tls&sni=careful-tadpole.rooster465.autos#🇫🇷 AnixVPN | France #8
+trojan://UO36402987@3.120.37.181:443?sni=many-cricket.rooster465.autos&type=tcp#🇩🇪 AnixVPN | Germany #9
+trojan://UO36402987@many-cricket.rooster465.autos:443?type=raw&headerType=none&security=tls#🇩🇪 AnixVPN | Germany #10
+trojan://ND91608427@star-kiwi.rooster465.autos:443?security=tls&sni=star-kiwi.rooster465.autos#🇩🇪 AnixVPN | Germany #11
+trojan://UO36402987@definite-ladybird.rooster465.autos:443?mux=1#🇩🇪 AnixVPN | Germany #12
+trojan://ND91608427@sincere-gelding.rooster465.autos:443?security=tls&sni=sincere-gelding.rooster465.autos#🇩🇪 AnixVPN | Germany #13
+trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #14
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #15
