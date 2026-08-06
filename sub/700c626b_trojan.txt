@@ -45,9 +45,9 @@ trojan://ND91608427@humorous-malamute.rooster465.autos:443?security=tls&sni=humo
 trojan://ND91608427@internal-sunbird.rooster465.autos:443?security=tls&sni=internal-sunbird.rooster465.autos#🇯🇵 AnixVPN | Japan #39
 trojan://ND91608427@3.124.187.220:443?sni=rapid-firefly.rooster465.autos&type=tcp&fp=chrome#🇩🇪 AnixVPN | Germany #40
 trojan://ND91608427@distinct-llama.rooster465.autos:443?security=tls&sni=distinct-llama.rooster465.autos#🇰🇷 AnixVPN | South Korea #41
-trojan://ND91608427@sincere-gelding.rooster465.autos:443?security=tls&sni=sincere-gelding.rooster465.autos#🇵🇱 AnixVPN | Poland #42
-trojan://ND91608427@willing-beagle.rooster465.autos:443?type=tcp&security=tls&sni=willing-beagle.rooster465.autos#🇺🇸 AnixVPN | United States #43
-trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?type=grpc&serviceName=%2F43588%2FG43plZahWW&security=tls&sni=titandarkness.mooo.com&fp=qq#🇯🇵 AnixVPN | Japan #44
-trojan://ND91608427@devoted-tapir.rooster465.autos:443?security=tls&sni=devoted-tapir.rooster465.autos#🇫🇮 AnixVPN | Finland #45
+trojan://ND91608427@sincere-gelding.rooster465.autos:443?security=tls&sni=sincere-gelding.rooster465.autos#🇳🇴 AnixVPN | Norway #42
+trojan://ND91608427@willing-beagle.rooster465.autos:443?type=tcp&security=tls&sni=willing-beagle.rooster465.autos#🇧🇪 AnixVPN | Belgium #43
+trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?type=grpc&serviceName=%2F43588%2FG43plZahWW&security=tls&sni=titandarkness.mooo.com&fp=qq#🇳🇱 AnixVPN | Netherlands #44
+trojan://ND91608427@devoted-tapir.rooster465.autos:443?security=tls&sni=devoted-tapir.rooster465.autos#🇮🇪 AnixVPN | Ireland #45
 trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #46
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #47
