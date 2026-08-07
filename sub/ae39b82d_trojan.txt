@@ -54,24 +54,5 @@ trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.
 trojan://ND91608427@intimate-moray.rooster465.autos:443?security=tls#🇰🇷 AnixVPN | South Korea #48
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&sni=moved-meerkat.rooster465.autos#🇰🇷 AnixVPN | South Korea #49
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@hkdcrtc-e.catcat321.com:20129?security=tls&sni=hk.catxstar.com#🇺🇸 AnixVPN | United States #50
-trojan://ND91608427@43.203.203.244:443?allowInsecure=1&sni=main-whippet.rooster465.autos#🇰🇷 AnixVPN | South Korea #51
-trojan://ND91608427@3.36.59.34:443?allowInsecure=1&sni=select-ferret.rooster465.autos#🇰🇷 AnixVPN | South Korea #52
-trojan://ND91608427@43.201.46.108:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#🇰🇷 AnixVPN | South Korea #53
-trojan://ND91608427@communal-sunbird.rooster465.autos:443?allowInsecure=1&sni=communal-sunbird.rooster465.autos#🇦🇹 AnixVPN | Austria #54
-trojan://ND91608427@exotic-chow.rooster465.autos:443?sni=exotic-chow.rooster465.autos&path=/#🇦🇺 AnixVPN | Australia #55
-trojan://ND91608427@upward-puma.rooster465.autos:443?sni=upward-puma.rooster465.autos&type=tcp&path=/#🇰🇷 AnixVPN | South Korea #56
-trojan://ND91608427@pet-ghost.rooster465.autos:443?security=tls&sni=pet-ghost.rooster465.autos#🇳🇱 AnixVPN | Netherlands #57
-trojan://ND91608427@18.179.31.199:443?sni=prompt-duckling.rooster465.autos&type=tcp#🇯🇵 AnixVPN | Japan #58
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#🇦🇹 AnixVPN | Austria #59
-trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=1&sni=upright-impala.rooster465.autos#🇧🇪 AnixVPN | Belgium #60
-trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#🇺🇸 AnixVPN | United States #61
-trojan://ND91608427@main-whippet.rooster465.autos:443?sni=main-whippet.rooster465.autos&path=/#🇨🇦 AnixVPN | Canada #62
-trojan://ND91608427@definite-malamute.rooster465.autos:443?sni=definite-malamute.rooster465.autos&path=/#🇳🇴 AnixVPN | Norway #63
-trojan://ND91608427@natural-collie.rooster465.autos:443?security=tls&sni=natural-collie.rooster465.autos#🇫🇮 AnixVPN | Finland #64
-trojan://ND91608427@willing-beagle.rooster465.autos:443?type=tcp&security=tls&sni=willing-beagle.rooster465.autos&allowInsecure=1#🇵🇱 AnixVPN | Poland #65
-trojan://ND91608427@54.93.65.133:443?security=tls&sni=next-turkey.rooster465.autos&path=/#🇩🇪 AnixVPN | Germany #66
-trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#🇨🇦 AnixVPN | Canada #67
-trojan://ND91608427@right-seahorse.rooster465.autos:443?sni=right-seahorse.rooster465.autos&path=/#🇦🇺 AnixVPN | Australia #68
-trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#🇳🇱 AnixVPN | Netherlands #69
-trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #70
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #71
+trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #51
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #52
