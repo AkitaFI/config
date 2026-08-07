@@ -1,0 +1,9 @@
+#profile-user-id: 999821624
+#profile-title: Заблокированная подписка 
+#profile-update-interval: 99999999
+#support-url: https://t.me/AnixCompany
+#announce: TG: Чтоб разблокировать подписку перейдите в бота @AnixVPN_robot и напишите /confirm 999821624
+
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.232.12:2027?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&sni=storage.yandex.net#🇷🇺 AnixVPN | Russia #1
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#🇳🇱 AnixVPN | Netherlands #2
+vless://6dfc9149-1ff9-41c3-8563-0ef284381731@server.slavkiti.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=1374bddeb25d&sni=www.tradingview.com#🇫🇮 AnixVPN | Finland #3
