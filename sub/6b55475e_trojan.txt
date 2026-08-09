@@ -51,18 +51,18 @@ trojan://ND91608427@striking-maggot.rooster465.autos:443?security=tls&sni=striki
 trojan://ND91608427@pure-ram.rooster465.autos:443?security=tls#🇰🇷 AnixVPN | South Korea #45
 trojan://humanity@168.100.9.178:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 AnixVPN | France #46
 trojan://humanity@chat.openai.com:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=h2&fp=chrome&type=ws&host=www.calmlunch.com&path=%2Fassignment#🇫🇷 AnixVPN | France #47
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@46.8.209.223:443?security=tls&sni=zz.tgnn.live#🇯🇵 AnixVPN | Japan #48
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@kz1.nnmm.me:443?security=tls&sni=kz1.nnmm.me#🇫🇷 AnixVPN | France #49
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@ru1.nnmm.me:443?security=tls&sni=ru1.nnmm.me#🇰🇷 AnixVPN | South Korea #50
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@fi1.nnmm.me:443?security=tls&sni=fi1.nnmm.me#🇸🇪 AnixVPN | Sweden #51
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@de3.nnmm.me:443?security=tls&sni=de3.nnmm.me#🇰🇷 AnixVPN | South Korea #52
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@no.nnmm.me:443?security=tls&sni=no.nnmm.me#🇳🇱 AnixVPN | Netherlands #53
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@ee1.nnmm.me:443?security=tls&sni=ee1.nnmm.me#🇺🇸 AnixVPN | United States #54
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@de8.nnmm.me:443?security=tls&sni=de8.nnmm.me#🇬🇧 AnixVPN | United Kingdom #55
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@uk1.nnmm.me:443?security=tls&sni=uk1.nnmm.me#🇬🇧 AnixVPN | United Kingdom #56
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@sw.nnmm.me:443?security=tls&sni=sw.nnmm.me#🇦🇹 AnixVPN | Austria #57
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@de5.nnmm.me:443?security=tls&sni=de5.nnmm.me#🇳🇴 AnixVPN | Norway #58
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@fr.nnmm.me:443?security=tls&sni=fr.nnmm.me#🇨🇿 AnixVPN | Czech Republic #59
-trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@us.nnmm.me:443?security=tls&sni=us.nnmm.me#🇵🇱 AnixVPN | Poland #60
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@46.8.209.223:443?security=tls&sni=zz.tgnn.live#🇷🇺 AnixVPN | Russia #48
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@kz1.nnmm.me:443?security=tls&sni=kz1.nnmm.me#🇨🇿 AnixVPN | Czech Republic #49
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@ru1.nnmm.me:443?security=tls&sni=ru1.nnmm.me#🇨🇦 AnixVPN | Canada #50
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@fi1.nnmm.me:443?security=tls&sni=fi1.nnmm.me#🇯🇵 AnixVPN | Japan #51
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@de3.nnmm.me:443?security=tls&sni=de3.nnmm.me#🇸🇪 AnixVPN | Sweden #52
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@no.nnmm.me:443?security=tls&sni=no.nnmm.me#🇯🇵 AnixVPN | Japan #53
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@ee1.nnmm.me:443?security=tls&sni=ee1.nnmm.me#🇦🇹 AnixVPN | Austria #54
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@de8.nnmm.me:443?security=tls&sni=de8.nnmm.me#🇫🇮 AnixVPN | Finland #55
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@uk1.nnmm.me:443?security=tls&sni=uk1.nnmm.me#🇺🇸 AnixVPN | United States #56
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@sw.nnmm.me:443?security=tls&sni=sw.nnmm.me#🇰🇷 AnixVPN | South Korea #57
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@de5.nnmm.me:443?security=tls&sni=de5.nnmm.me#🇧🇪 AnixVPN | Belgium #58
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@fr.nnmm.me:443?security=tls&sni=fr.nnmm.me#🇸🇪 AnixVPN | Sweden #59
+trojan://HfvYDw6SfZMPBwwzvkm_So1UQHxcCNQT@us.nnmm.me:443?security=tls&sni=us.nnmm.me#🇰🇷 AnixVPN | South Korea #60
 trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #61
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #62
