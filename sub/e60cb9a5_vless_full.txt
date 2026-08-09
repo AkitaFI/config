@@ -19,7 +19,7 @@ vless://6d662736-24ea-4f8e-9e73-acbc14d09cb1@77.222.38.3:4100?encryption=none&pa
 vless://50e636af-b554-4526-94ad-d0f4b34adecc@147.45.47.38:443?encryption=none&security=reality&type=tcp&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇷🇺 AnixVPN | Russia #13
 vless://1995a4e0-fd85-4de2-94f1-f86829e44308@147.45.47.51:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=raw#🇷🇺 AnixVPN | Russia #14
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@147.45.47.48:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=raw#🇷🇺 AnixVPN | Russia #15
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@147.45.47.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=raw#🇭🇰 AnixVPN | Hong Kong #16
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@147.45.47.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=raw#🇯🇵 AnixVPN | Japan #16
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@87.228.122.108:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺 AnixVPN | Russia #17
 vless://5710bc50-f5ff-4d19-a3f5-067959ed2644@94.103.2.91:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ru.convert-flow.net&fp=qq&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&flow=xtls-rprx-vision#🇷🇺 AnixVPN | Russia #18
 vless://bfa91d79-049c-41e1-be94-029397377150@87.242.85.201:35412?encryption=none&security=none&type=tcp#🇬🇧 AnixVPN | United Kingdom #19
