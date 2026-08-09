@@ -54,24 +54,28 @@ trojan://ND91608427@43.203.244.203:443?security=tls&sni=grateful-owl.rooster465.
 trojan://ND91608427@intimate-moray.rooster465.autos:443?security=tls#🇰🇷 AnixVPN | South Korea #48
 trojan://ND91608427@moved-meerkat.rooster465.autos:443?security=tls&sni=moved-meerkat.rooster465.autos#🇰🇷 AnixVPN | South Korea #49
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@hkdcrtc-e.catcat321.com:20129?security=tls&sni=hk.catxstar.com#🇺🇸 AnixVPN | United States #50
-trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇸🇪 AnixVPN | Sweden #51
-trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇮🇪 AnixVPN | Ireland #52
-trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇬🇧 AnixVPN | United Kingdom #53
-trojan://humanity@195.181.244.216:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇩🇪 AnixVPN | Germany #54
-trojan://humanity@80.77.25.142:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇮🇪 AnixVPN | Ireland #55
-trojan://humanity@45.147.228.249:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇿 AnixVPN | Czech Republic #56
-trojan://humanity@45.87.41.18:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇦🇺 AnixVPN | Australia #57
-trojan://humanity@194.135.38.140:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇿 AnixVPN | Czech Republic #58
-trojan://humanity@84.21.172.81:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇭 AnixVPN | Switzerland #59
-trojan://humanity@80.74.28.213:443?type=ws&security=tls&sni=www.calmlunch.com&path=%2Fassignment&host=www.calmlunch.com#🇨🇭 AnixVPN | Switzerland #60
-trojan://humanity@185.36.141.81:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇸🇬 AnixVPN | Singapore #61
-trojan://humanity@194.135.80.192:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇧🇪 AnixVPN | Belgium #62
-trojan://humanity@185.164.163.173:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 AnixVPN | Germany #63
-trojan://humanity@45.133.117.185:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇳🇴 AnixVPN | Norway #64
-trojan://humanity@193.239.160.134:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇬 AnixVPN | Singapore #65
-trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇳🇴 AnixVPN | Norway #66
-trojan://humanity@5.181.187.58:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇩🇪 AnixVPN | Germany #67
-trojan://humanity@5.189.254.114:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇯🇵 AnixVPN | Japan #68
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&sni=hk.catxstar.com&type=tcp#🇨🇦 AnixVPN | Canada #69
-trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #70
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #71
+trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇳🇱 AnixVPN | Netherlands #51
+trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇵🇱 AnixVPN | Poland #52
+trojan://humanity@185.225.68.232:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇬 AnixVPN | Singapore #53
+trojan://humanity@193.239.160.134:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇦🇺 AnixVPN | Australia #54
+trojan://humanity@168.100.9.178:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇿 AnixVPN | Czech Republic #55
+trojan://humanity@80.77.25.142:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 AnixVPN | Germany #56
+trojan://humanity@185.164.163.173:8443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦 AnixVPN | Canada #57
+trojan://humanity@5.189.254.114:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇿 AnixVPN | Czech Republic #58
+trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇬🇧 AnixVPN | United Kingdom #59
+trojan://humanity@188.215.31.110:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇳🇴 AnixVPN | Norway #60
+trojan://humanity@45.147.228.249:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇯🇵 AnixVPN | Japan #61
+trojan://humanity@45.87.41.18:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦 AnixVPN | Canada #62
+trojan://humanity@80.74.28.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇮 AnixVPN | Finland #63
+trojan://humanity@194.135.80.192:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇮🇪 AnixVPN | Ireland #64
+trojan://humanity@195.181.244.216:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇳🇴 AnixVPN | Norway #65
+trojan://humanity@185.36.141.81:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦 AnixVPN | Canada #66
+trojan://humanity@45.133.117.185:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇭 AnixVPN | Switzerland #67
+trojan://humanity@5.181.187.58:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇯🇵 AnixVPN | Japan #68
+trojan://humanity@89.150.34.41:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇭🇰 AnixVPN | Hong Kong #69
+trojan://chrysanthemum@104.20.48.11:443?type=ws&security=tls&sni=cmee.ezbiz.dynv6.net#🇸🇬 AnixVPN | Singapore #70
+trojan://humanity@194.135.38.140:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇪 AnixVPN | Sweden #71
+trojan://humanity@84.21.172.81:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 AnixVPN | France #72
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&sni=hk.catxstar.com&type=tcp#🇫🇮 AnixVPN | Finland #73
+trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #74
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #75
