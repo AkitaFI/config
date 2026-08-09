@@ -12,3 +12,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTWFxbUxKd1dYdGRKUHZwelhEMk1TWWlaclhEd25lcVpiQUVYcVpVdzdSelg3bmRkM3hGTTlDM3U5TmRSWFpQVE5nREJlblBMbjZCNlZyd21vZENTRVFjOFJmdXhCbjg@104.249.22.75:43377#🇬🇧 AnixVPN | United Kingdom #6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks=@70.39.198.35:54166#🇺🇸 AnixVPN | United States #7
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375?type=tcp&headerType=none#🇳🇱 AnixVPN | Netherlands #8
+ss://YWVzLTEyOC1nY206b2l3eW00b3ZJNFli@104.16.88.23:443#🇹🇼 AnixVPN | Taiwan #9
