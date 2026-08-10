@@ -73,7 +73,7 @@ vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-akn.astralweb.tech:443?type=tcp
 vless://8b9986f7-889c-4213-bc64-fafe012fabd6@104.18.10.118:8880?path=%2Fpyip&security=&encryption=none&host=morning-cell-adfc.99-c38.workers.dev&type=ws#🇫🇮 AnixVPN | Finland #67
 vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@132.243.214.215:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=Axohq6jd8keuu4_tut3zq9nkDSES6F21mEA_SFba3AM&sid=7cec667da1e0&type=tcp&headerType=none&fp=qq#🇺🇸 AnixVPN | United States #68
 vless://b90d6e73-ade0-41e7-8c48-bc29401a2174@195.19.164.84:443?encryption=none&security=reality&type=tcp&sni=se.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇸🇪 AnixVPN | Sweden #69
-vless://112912a9-cedf-485d-b8ed-d8f8d4774437@104.171.132.185:4100?type=ws&path=%2Fv1&host=live.ok.ru#🇭🇰 AnixVPN | Hong Kong #70
+vless://112912a9-cedf-485d-b8ed-d8f8d4774437@104.171.132.185:4100?type=ws&path=%2Fv1&host=live.ok.ru#🇫🇷 AnixVPN | France #70
 vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?type=tcp&security=reality&encryption=none&fp=chrome&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&sid=cd21e552537c7c0b&sni=www.samsung.com#🇫🇮 AnixVPN | Finland #71
 vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@89.208.199.252:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=obx1.vypnet.su&type=raw#🇷🇺 AnixVPN | Russia #72
 vless://0c95558f-3771-4f9d-bf65-4434262cce82@37.252.17.192:8448?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=irO6YqLiim7GfFqMXpWv1dNeahEq7mHN4qx0zswPDAo&security=reality&sid=29e52be4beb63ec3&sni=www.rumedia-cdn.com&type=raw#🇫🇮 AnixVPN | Finland #73
