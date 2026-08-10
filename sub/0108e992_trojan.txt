@@ -4,23 +4,20 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#🇯🇵 AnixVPN | Japan #1
-trojan://ND91608427@internal-sunbird.rooster465.autos:443?security=tls&sni=internal-sunbird.rooster465.autos#🇯🇵 AnixVPN | Japan #2
-trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#🇯🇵 AnixVPN | Japan #3
-trojan://ND91608427@picked-guinea.rooster465.autos:443?security=tls&sni=picked-guinea.rooster465.autos#🇯🇵 AnixVPN | Japan #4
-trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos#🇫🇷 AnixVPN | France #5
-trojan://ND91608427@sensible-mongrel.rooster465.autos:443?security=tls&sni=sensible-mongrel.rooster465.autos#🇯🇵 AnixVPN | Japan #6
-trojan://ND91608427@sure-humpback.rooster465.autos:443?security=tls&sni=sure-humpback.rooster465.autos#🇯🇵 AnixVPN | Japan #7
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#🇮🇪 AnixVPN | Ireland #8
-trojan://ND91608427@nearby-egret.rooster465.autos:443?sni=nearby-egret.rooster465.autos&peer=nearby-egret.rooster465.autos&security=tls#🇯🇵 AnixVPN | Japan #9
-trojan://ND91608427@learning-leopard.rooster465.autos:443?security=tls&sni=learning-leopard.rooster465.autos#🇯🇵 AnixVPN | Japan #10
-trojan://Mehdi1234@172.64.144.251:2083?type=ws&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F&security=tls&sni=purple-recipe-5e30.cimavo4626.workers.dev#🇷🇺 AnixVPN | Russia #11
-trojan://humanity@80.77.25.142:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇵🇱 AnixVPN | Poland #12
-trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇵🇱 AnixVPN | Poland #13
-trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇫🇷 AnixVPN | France #14
-trojan://cd5637fd-f992-423a-8be0-5b80360f26fc@aeryy5gfrp630ww1.lovebaipiao.net:443?security=tls&sni=aeryy5gfrp630ww1.lovebaipiao.net&insecure=0&allowInsecure=0&type=ws&host=aeryy5gfrp630ww1.lovebaipiao.net&path=%2Fimages#🇫🇮 AnixVPN | Finland #15
-trojan://MiTiVPN@104.254.140.62:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fdde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=Dde1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.kingnetwork.ir&type=ws&allowInsecure=0&sni=ddp-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.kingnetwork.ir&fp=qq#🇵🇱 AnixVPN | Poland #16
-trojan://humanity@45.133.117.185:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 AnixVPN | Canada #17
-trojan://humanity@194.135.80.192:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇭 AnixVPN | Switzerland #18
-trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #19
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #20
+trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#🇮🇪 AnixVPN | Ireland #1
+trojan://ND91608427@relaxing-bluebird.rooster465.autos:443?security=tls&sni=relaxing-bluebird.rooster465.autos#🇯🇵 AnixVPN | Japan #2
+trojan://ND91608427@better-molly.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #3
+trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🇫🇮 AnixVPN | Finland #4
+trojan://ND91608427@social-mutt.rooster465.autos:443?security=tls&sni=social-mutt.rooster465.autos#🇯🇵 AnixVPN | Japan #5
+trojan://ND91608427@devoted-tapir.rooster465.autos:443?security=tls&sni=devoted-tapir.rooster465.autos#🇺🇸 AnixVPN | United States #6
+trojan://ND91608427@moral-buzzard.rooster465.autos:443?security=tls&sni=moral-buzzard.rooster465.autos#🇯🇵 AnixVPN | Japan #7
+trojan://ND91608427@thankful-mustang.rooster465.autos:443?security=tls&sni=thankful-mustang.rooster465.autos#🇯🇵 AnixVPN | Japan #8
+trojan://ND91608427@learning-leopard.rooster465.autos:443?security=tls&sni=learning-leopard.rooster465.autos#🇯🇵 AnixVPN | Japan #9
+trojan://cd5637fd-f992-423a-8be0-5b80360f26fc@aeryy5gfrp630ww1.lovebaipiao.net:443?security=tls&sni=aeryy5gfrp630ww1.lovebaipiao.net&insecure=0&allowInsecure=0&type=ws&host=aeryy5gfrp630ww1.lovebaipiao.net&path=%2Fimages#🇨🇿 AnixVPN | Czech Republic #10
+trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇧🇪 AnixVPN | Belgium #11
+trojan://chrysanthemum@104.20.48.11:443?type=ws&security=tls&sni=cmee.ezbiz.dynv6.net#🇩🇪 AnixVPN | Germany #12
+trojan://MiTiVPN@104.254.140.62:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fdde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=Dde1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.kingnetwork.ir&type=ws&allowInsecure=0&sni=ddp-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.kingnetwork.ir&fp=qq#🇨🇦 AnixVPN | Canada #13
+trojan://humanity@45.133.117.185:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 AnixVPN | France #14
+trojan://humanity@80.77.25.142:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇭 AnixVPN | Switzerland #15
+trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #16
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #17
