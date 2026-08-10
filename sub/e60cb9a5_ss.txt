@@ -7,3 +7,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#🇳🇱 AnixVPN | Netherlands #1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#🇳🇱 AnixVPN | Netherlands #2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#🇦🇺 AnixVPN | Australia #3
+ss://YWVzLTEyOC1nY206b2l3eW00b3ZJNFli@104.16.88.23:443#🇹🇼 AnixVPN | Taiwan #4
