@@ -20,7 +20,7 @@ trojan://ND91608427@moral-buzzard.rooster465.autos:443?security=tls&sni=moral-bu
 trojan://ND91608427@communal-sunbird.rooster465.autos:443?security=tls&sni=communal-sunbird.rooster465.autos#🇰🇷 AnixVPN | South Korea #14
 trojan://ND91608427@internal-sunbird.rooster465.autos:443?security=tls&sni=internal-sunbird.rooster465.autos#🇯🇵 AnixVPN | Japan #15
 trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇩🇪 AnixVPN | Germany #16
-trojan://cd5637fd-f992-423a-8be0-5b80360f26fc@aeryy5gfrp630ww1.lovebaipiao.net:443?security=tls&sni=aeryy5gfrp630ww1.lovebaipiao.net&insecure=0&allowInsecure=0&type=ws&host=aeryy5gfrp630ww1.lovebaipiao.net&path=%2Fimages#🇺🇸 AnixVPN | United States #17
+trojan://cd5637fd-f992-423a-8be0-5b80360f26fc@aeryy5gfrp630ww1.lovebaipiao.net:443?security=tls&sni=aeryy5gfrp630ww1.lovebaipiao.net&insecure=0&allowInsecure=0&type=ws&host=aeryy5gfrp630ww1.lovebaipiao.net&path=%2Fimages#🇸🇬 AnixVPN | Singapore #17
 trojan://MiTiVPN@104.254.140.62:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fdde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=Dde1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.kingnetwork.ir&type=ws&allowInsecure=0&sni=ddp-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.kingnetwork.ir&fp=qq#🇺🇸 AnixVPN | United States #18
 trojan://chrysanthemum@104.20.48.11:443?type=ws&security=tls&sni=cmee.ezbiz.dynv6.net#🇨🇦 AnixVPN | Canada #19
 trojan://humanity@194.135.80.192:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇱🇹 AnixVPN | Lithuania #20
