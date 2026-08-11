@@ -4,22 +4,13 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@dc-129-kz.netzrun.at:5222?security=tls&sni=dc-129-kz.netzrun.at&fp=firefox#🇰🇿 AnixVPN | Kazakhstan #1
-trojan://humanity@80.77.25.142:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 AnixVPN | France #2
-trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&sni=saving-octopus.rooster465.autos#🇰🇷 AnixVPN | South Korea #3
-trojan://ND91608427@humorous-malamute.rooster465.autos:443?security=tls&sni=humorous-malamute.rooster465.autos#🇰🇷 AnixVPN | South Korea #4
-trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&sni=upright-impala.rooster465.autos#🇯🇵 AnixVPN | Japan #5
-trojan://ND91608427@intimate-moray.rooster465.autos:443?security=tls#🇰🇷 AnixVPN | South Korea #6
-trojan://ND91608427@35.86.90.51:443?security=tls&sni=natural-collie.rooster465.autos#🇺🇸 AnixVPN | United States #7
-trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@be-lb-rtt.netzrun.at:5222?security=tls&sni=be-lb-rtt.netzrun.at&fp=firefox#🇮🇪 AnixVPN | Ireland #8
-trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@dc-112-fr.netzrun.at:5222?security=tls&sni=dc-112-fr.netzrun.at&fp=firefox#🇰🇷 AnixVPN | South Korea #9
-trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@dc-109-se.netzrun.at:5222?security=tls&sni=dc-109-se.netzrun.at&fp=firefox#🇨🇭 AnixVPN | Switzerland #10
-trojan://humanity@194.135.80.192:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇯🇵 AnixVPN | Japan #11
-trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@dc-114-ee.netzrun.at:5222?security=tls&sni=dc-114-ee.netzrun.at&fp=firefox#🇭🇰 AnixVPN | Hong Kong #12
-trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@se-01.netzrun.at:5222?security=tls&sni=se-01.netzrun.at&fp=firefox#🇵🇱 AnixVPN | Poland #13
-trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@dc-106-es.netzrun.at:5222?security=tls&sni=dc-106-es.netzrun.at&fp=firefox#🇩🇪 AnixVPN | Germany #14
-trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@dc-73-fr.netzrun.at:5222?security=tls&sni=dc-73-fr.netzrun.at&fp=firefox#🇨🇿 AnixVPN | Czech Republic #15
-trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@at-lb-rtt.netzrun.at:5222?security=tls&sni=at-lb-rtt.netzrun.at&fp=firefox#🇫🇮 AnixVPN | Finland #16
-trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇵🇱 AnixVPN | Poland #17
-trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #18
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #19
+trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos#🇫🇷 AnixVPN | France #1
+trojan://pYzEFqrAjuhwAcVjdu9oMA@nodejs.org:2086?security=none&type=ws&headerType=&path=%2Ft-ws&host=tr.web.doctor-alan-cloud.ir#🇹🇷 AnixVPN | Turkey #2
+trojan://Telegram_healer_config@www.speedtest.net:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Ftr%2FD0RNup7f2Tt0Tna3gVu5OvfMJYJjD%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=30f67sbq8jjwmt7gytfc14.0m68-qz3hqyfnlar6n3iq.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=30F67SBQ8jJwmT7GyTFc14.0m68-QZ3hQyFnlar6N3IQ.WoRKErS.deV#🇷🇺 AnixVPN | Russia #3
+trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@dc-73-fr.netzrun.at:5222?security=tls&sni=dc-73-fr.netzrun.at&fp=firefox#🇫🇷 AnixVPN | France #4
+trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos#🇫🇷 AnixVPN | France #5
+trojan://bpb-trojan@vless.herogoing.top:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=%2Ftr%3Fed%3D2560#🇭🇰 AnixVPN | Hong Kong #6
+trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#🇮🇪 AnixVPN | Ireland #7
+trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&type=ws#🇫🇷 AnixVPN | France #8
+trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #9
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #10
