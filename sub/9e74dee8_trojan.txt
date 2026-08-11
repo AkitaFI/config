@@ -4,10 +4,6 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://ND91608427@18.179.31.199:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=prompt-duckling.rooster465.autos#🇯🇵 AnixVPN | Japan #1
-trojan://ND91608427@52.194.230.221:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=happy-mutt.rooster465.autos#🇯🇵 AnixVPN | Japan #2
-trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starling.rooster465.autos#🇭🇰 AnixVPN | Hong Kong #3
-trojan://QV31589740@51.44.160.58:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=great-krill.rooster465.autos#🇫🇷 AnixVPN | France #4
-trojan://aT8IM3oAvt@138.124.92.103:44453?security=reality&sni=aws.amazon.com&fp=chrome&pbk=RAlMKlEpT_CeD5sWS_fCgtS3Tpfss3WCfJrHDbvx2BU&sid=8ef331069304bf&spx=%2F&type=tcp&headerType=none#🇩🇪 AnixVPN | Germany #5
-trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #6
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #7
+trojan://bpb-trojan@vless.herogoing.top:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=%2Ftr%3Fed%3D2560#🇭🇰 AnixVPN | Hong Kong #1
+trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #2
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #3
