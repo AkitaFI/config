@@ -61,6 +61,6 @@ trojan://ND91608427@internal-sunbird.rooster465.autos:443?security=tls&sni=inter
 trojan://ND91608427@upward-puma.rooster465.autos:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=upward-puma.rooster465.autos#🇰🇷 AnixVPN | South Korea #55
 trojan://ND91608427@select-ferret.rooster465.autos:443?security=tls&sni=select-ferret.rooster465.autos#🇰🇷 AnixVPN | South Korea #56
 trojan://-------------BanV2ray--------------@oooooooooooooooo-00000000000000000.poki-pakipon.ir:39644?mode=gun&security=reality&pbk=2T8W7086SiTW3viiVVNeZCTZjiJ-d8f6LsSSJZ_iM2o&fp=chrome&type=grpc&sni=yahoo.com&sid=5bae#🇷🇺 AnixVPN | Russia #57
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&type=tcp&fp=android#🇬🇧 AnixVPN | United Kingdom #58
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@217.217.222.230:20004?security=tls&sni=hk.catxstar.com&type=tcp&fp=android#🇭🇰 AnixVPN | Hong Kong #58
 trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #59
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #60
