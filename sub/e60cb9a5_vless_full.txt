@@ -5,7 +5,7 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://106b0505-da24-4ae4-b22c-302ab814f6f4@104.171.136.172:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇺🇸 AnixVPN | United States #1
-vless://d3984ebd-b876-4a38-be7d-90299feafc81@212.193.26.170:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇳🇱 AnixVPN | Netherlands #2
+vless://d3984ebd-b876-4a38-be7d-90299feafc81@212.193.26.170:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇨🇿 AnixVPN | Czech Republic #2
 vless://af325624-e28d-44fd-a8a7-058a439d128f@5.129.194.34:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇷🇺 AnixVPN | Russia #3
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@201.24.120.68:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#🇧🇷 AnixVPN | Brazil #4
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?encryption=none&security=none&type=ws&path=/v1#🇷🇺 AnixVPN | Russia #5
