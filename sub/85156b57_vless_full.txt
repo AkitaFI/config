@@ -28,7 +28,7 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.58.164.47:22223?encryption=none&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.71.241.48:22222?encryption=none&security=none&type=tcp#🇩🇪 AnixVPN | Germany #22
 vless://2a88091e-e3f8-4478-9751-6ce0557a7f2e@82.117.87.199:4100?type=ws&security=none&encryption=none&path=%2Fv1&headerType=none#🇷🇺 AnixVPN | Russia #23
 vless://47947923-49ac-49f8-86ed-2912bcbf2d18@104.171.134.67:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇺🇸 AnixVPN | United States #24
-vless://1a2f7607-b36a-4996-b7a2-72359123c446@194.26.229.211:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#🇬🇧 AnixVPN | United Kingdom #25
+vless://1a2f7607-b36a-4996-b7a2-72359123c446@194.26.229.211:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none#🇦🇹 AnixVPN | Austria #25
 vless://866c99ed-0274-47fb-bf91-f67a953579c4@www.speedtest.net:8880?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2056&security=none&encryption=none&host=www.speedtest.net.A.lightning-6.LiVE.&type=ws#🇷🇺 AnixVPN | Russia #26
 vless://859ca789-2c75-472c-b02b-4b7af099f512@194.26.229.214:4100?encryption=none&path=/v1&security=none&type=ws#🇷🇺 AnixVPN | Russia #27
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.58.164.47:22224?encryption=none&security=none&type=tcp#🇩🇪 AnixVPN | Germany #28
@@ -47,8 +47,8 @@ vless://b3d66abd-ea82-4616-92f0-1dec8d1e4cfc@194.26.229.222:4100?encryption=none
 vless://6b6733fb-580b-411b-8bf8-51137c2aa037@172.66.170.53:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=restless-sky-eb31.438-aa8.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇸🇪 AnixVPN | Sweden #41
 vless://010d7dc9-776b-4495-a85c-44794f3da49c@193.168.46.180:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&security=reality&sid=c1a7e9b4711d5f60&sni=rruu.persik.host&type=raw#🇺🇸 AnixVPN | United States #42
 vless://31c2a8e8-0ab2-4f3f-8767-11f3a35d4228@45.90.32.132:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺 AnixVPN | Russia #43
-vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&sid=69d4&type=tcp&headerType=none#🇩🇪 AnixVPN | Germany #44
-vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@194.26.229.219:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇦🇺 AnixVPN | Australia #45
+vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&sid=69d4&type=tcp&headerType=none#🇯🇵 AnixVPN | Japan #44
+vless://099c6e3f-e8d3-41d4-95f2-ef2eafb51cdc@194.26.229.219:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇨🇦 AnixVPN | Canada #45
 vless://bfa91d79-049c-41e1-be94-029397377150@87.242.85.201:35412?encryption=none&security=none&type=raw#🇬🇧 AnixVPN | United Kingdom #46
 vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@104.25.217.123:2086?encryption=none&type=ws&host=misty-bread-fd96.salehinezhadali.workers.dev&path=%2FeyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ%3D%3D%3Fed%3D2560&security=none#🇸🇪 AnixVPN | Sweden #47
 vless://e27dce75-b33b-49b6-afb7-17e29ce67bb1@92.63.99.228:7899?type=tcp&security=reality&sni=tradingview.com&fp=firefox&pbk=YXVnk7FdM6IXOlFqisWurmtfmoftXLqqsrJ-JqqP6Rc&flow=xtls-rprx-vision#🇦🇪 AnixVPN | United Arab Emirates #48
