@@ -28,7 +28,7 @@ vless://5d0206d9-fb42-4c8b-a84b-3d95ab0f42c7@109.73.196.160:4100?encryption=none
 vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@89.208.199.252:443?encryption=none&flow=xtls-rprx-vision&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&security=reality&sni=obx1.vypnet.su&type=raw&fp=ios#🇷🇺 AnixVPN | Russia #22
 vless://e58a0802-443e-4ba3-992b-73687bb5b9f0@194.26.229.217:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺 AnixVPN | Russia #23
 vless://89537879-e550-45e9-ab1c-5e1a11c168f1@45.151.101.67:4100?path=%2Fv1&sni=live.ok.ru&type=ws#🇩🇪 AnixVPN | Germany #24
-vless://260b31c8-9de4-4014-b5df-d20e1ee760e3@193.168.46.180:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&security=reality&sid=c1a7e9b4711d5f60&sni=rruu.persik.host&type=raw#🇯🇵 AnixVPN | Japan #25
+vless://260b31c8-9de4-4014-b5df-d20e1ee760e3@193.168.46.180:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&security=reality&sid=c1a7e9b4711d5f60&sni=rruu.persik.host&type=raw#🇬🇧 AnixVPN | United Kingdom #25
 vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?type=tcp&security=none&encryption=none#🇬🇧 AnixVPN | United Kingdom #26
 vless://87f3bc47-ee10-4418-9260-7a4e43f28e00@176.98.178.17:4100?&security=none&type=ws&headerType=&path=%2Fv1#🇷🇺 AnixVPN | Russia #27
 vless://598b823c-d3fc-4013-aae5-837f10080f7a@72.56.36.96:40443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&security=reality&sid=33e48a03db900ff3&sni=deepl.com&spx=%2F&type=raw#🇳🇱 AnixVPN | Netherlands #28
