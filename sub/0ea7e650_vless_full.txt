@@ -32,7 +32,7 @@ vless://f20db72d-58c3-4789-9225-03a8cfc2e2c3@151.245.217.159:443?encryption=none
 vless://187c2caa-528c-46bf-9903-99df02d8067d@217.149.23.169:4100?host=live.ok.ru&path=%2Fv1&security=none&type=ws#🇷🇺 AnixVPN | Russia #26
 vless://106b0505-da24-4ae4-b22c-302ab814f6f4@104.171.136.172:4100?type=ws&security=none&path=/v1#🇺🇸 AnixVPN | United States #27
 vless://598b823c-d3fc-4013-aae5-837f10080f7a@72.56.36.96:40443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&security=reality&sid=33e48a03db900ff3&sni=deepl.com&spx=%2F&type=raw#🇳🇱 AnixVPN | Netherlands #28
-vless://d3984ebd-b876-4a38-be7d-90299feafc81@212.193.26.170:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇩🇪 AnixVPN | Germany #29
+vless://d3984ebd-b876-4a38-be7d-90299feafc81@212.193.26.170:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇰🇷 AnixVPN | South Korea #29
 vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@185.193.89.47:443?security=reality&flow=xtls-rprx-vision&sni=xfr.saturn-cloud.net&type=tcp&pbk=UjwVdSvY-6dV5UKCNO7ROokiSF_aLaXYyUaG6RybOmI&sid=2762604ed2e0fa2f#🇫🇷 AnixVPN | France #30
 vless://1c6824de-312c-4876-aa3f-5a30e3df2de7@ru211.mechvpn.online:443?security=tls&encryption=none&flow=xtls-rprx-vision#🇷🇺 AnixVPN | Russia #31
 vless://7b8ff2bf-29c0-4a4f-8925-9f9ef6e486f5@104.24.152.211:8880?encryption=none&type=ws&host=long-math-be5a.233-98b.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#🇸🇪 AnixVPN | Sweden #32
