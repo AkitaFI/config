@@ -5,40 +5,32 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1&sni=bing.com#🇫🇷 AnixVPN | France #1
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@2.26.85.26:443/?sni=fi-one.quiet-rogue.site#🇫🇮 AnixVPN | Finland #2
-hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@194.180.174.69:443/?sni=fr2.h2corp.org#🇫🇷 AnixVPN | France #3
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?alpn=h3&insecure=1&security=tls&sni=germany3.h2corp.local#🇩🇪 AnixVPN | Germany #4
-hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443/?sni=grape-sos-de.roxa.org&fm=%7B#🇩🇪 AnixVPN | Germany #5
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.134:8443?sni=grape-zet-turbo-nl.yyuyy.com#🇩🇪 AnixVPN | Germany #6
-hysteria2://52e3dd44-ed23-4030-b0cc-5b5a953f2d4d@45.145.43.56:8443?sni=speedtestmark.com#🇩🇪 AnixVPN | Germany #7
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1#🇭🇰 AnixVPN | Hong Kong #8
-hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=www.bing.com#🇯🇵 AnixVPN | Japan #9
-hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@23.95.75.151:8080?sni=hopp-us.yyuyy.com&security=tls#🇲🇽 AnixVPN | Mexico #10
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443/?sni=ro.h2corp.org#🇷🇴 AnixVPN | Romania #11
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443/?sni=wopa7.api3-max.ru#🇬🇧 AnixVPN | United Kingdom #12
-hysteria2://57ad54a0-59ca-4553-bdad-35aab6bd3aa5@104.36.86.93:9992?allowInsecure=1#🇺🇸 AnixVPN | United States #13
-hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@222.238.227.54:20801?insecure=1#🇰🇷 AnixVPN | South Korea #14
-hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443/?insecure=1#🇸🇬 AnixVPN | Singapore #15
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#🇹🇼 AnixVPN | Taiwan #16
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=5.255.102.165#🇳🇱 AnixVPN | Netherlands #17
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@167.104.219.217:443/?sni=taga5.api3-max.ru#🇹🇷 AnixVPN | Turkey #18
-hysteria2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001?security=tls&insecure=1#🇺🇸 AnixVPN | United States #19
-hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@23.95.75.151:8443?sni=hopp-us.yyuyy.com#🇺🇸 AnixVPN | United States #20
-hysteria2://Hy2%40SiLiCon2026%21@43.130.7.3:8443?insecure=1&sni=bing.com#🇺🇸 AnixVPN | United States #21
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443?security=tls&insecure=0#🇫🇮 AnixVPN | Finland #22
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga3.api3-max.ru:443?security=tls&alpn=h3&insecure=0&sni=taga3.api3-max.ru#🇹🇷 AnixVPN | Turkey #23
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga6.api3-max.ru:443?security=tls&insecure=0&sni=taga6.api3-max.ru#🇹🇷 AnixVPN | Turkey #24
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443?sni=taga5.api3-max.ru#🇹🇷 AnixVPN | Turkey #25
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa7.api3-max.ru:443?sni=wopa7.api3-max.ru#🇬🇧 AnixVPN | United Kingdom #26
-hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?%3Fdescriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F3004b2#🇫🇷 AnixVPN | France #27
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga10.api3-max.ru:443#🇹🇷 AnixVPN | Turkey #28
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1#🇹🇼 AnixVPN | Taiwan #29
-hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@mg-1.yuanbaojc.site:20801?peer=mg-1.yuanbaojc.site&insecure=1&fastopen=1#🇺🇸 AnixVPN | United States #30
-hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@hg1.yuanbaojc.site:20801?insecure=1#🇰🇷 AnixVPN | South Korea #31
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443?security=tls&insecure=0#🇬🇧 AnixVPN | United Kingdom #32
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa6.api3-max.ru:443?sni=wopa6.api3-max.ru#🇬🇧 AnixVPN | United Kingdom #33
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa9.api3-max.ru:443?security=tls&insecure=0#🇬🇧 AnixVPN | United Kingdom #34
-hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@finlandi.blokinet3.ru:443/?sni=finlandi.blokinet3.ru#🇳🇱 AnixVPN | Netherlands #35
-hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@popa.leontunel.ru:443/?sni=popa.leontunel.ru&fm=%7B#🇬🇧 AnixVPN | United Kingdom #36
-hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?security=tls&alpn=h3&insecure=0&sni=ro.h2corp.org#🇷🇴 AnixVPN | Romania #37
-hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1#🇩🇪 AnixVPN | Germany #38
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443/?insecure=1&sni=germany3.h2corp.local#🇩🇪 AnixVPN | Germany #2
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇷🇴 AnixVPN | Romania #3
+hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&sni=www.bing.com#🇯🇵 AnixVPN | Japan #4
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇸🇬 AnixVPN | Singapore #5
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇸🇬 AnixVPN | Singapore #6
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.201.1.129:443?insecure=1&sni=t.me&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇰🇷 AnixVPN | South Korea #7
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.201.58.201:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇰🇷 AnixVPN | South Korea #8
+hysteria2://gf1%3Agfhysteria2024@66.94.121.46:443?sni=www.broadcom.com&insecure=1&nonce=iK9uCTPh&nonce=vauvCdBx#🇺🇸 AnixVPN | United States #9
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@35.87.211.237:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇺🇸 AnixVPN | United States #10
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇰🇷 AnixVPN | South Korea #11
+hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:8080?sni=grape-honk.yyuyy.com#🇰🇷 AnixVPN | South Korea #12
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443?insecure=1#🇺🇸 AnixVPN | United States #13
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443/?insecure=1&sni=127.0.0.1#🇹🇼 AnixVPN | Taiwan #14
+hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:8443?sni=grape-honk.yyuyy.com#🇺🇸 AnixVPN | United States #15
+hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.38.60.15:8443?insecure=1&sni=hopp-us.yyuyy.com#🇺🇸 AnixVPN | United States #16
+hysteria2://e03ce527-eb73-4ad3-9c88-966def39ae95@hk03.poke-mon.xyz:20000/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&mport=20000-50000#🇭🇰 AnixVPN | Hong Kong #17
+hysteria2://AAHTUsz8f6BW_HKMezmb-iQ5EtZ-B1Kx@ee-2-gatev1.dedicated.cdnnow.xyz:43327?sni=gate-v1.not-a-projects.xyz#🇪🇪 AnixVPN | Estonia #18
+hysteria2://130e6aab-9eba-441e-9021-22cbccc72832@srvhy1.ezcon24.online:8443?sni=srvhy1.ezcon24.online#🇩🇪 AnixVPN | Germany #19
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#🇹🇼 AnixVPN | Taiwan #20
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?sni=nl1.noesissite.ru#🇳🇱 AnixVPN | Netherlands #21
+hysteria2://ee159b52-fc4e-4b42-a6bf-308f75118d80@fin1.apexvpn.space:443?sni=fin1.apexvpn.space#🇫🇮 AnixVPN | Finland #22
+hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg1.xiaoliyu.cyou:1935?insecure=1&sni=sg1.xiaoliyu.cyou#🇸🇬 AnixVPN | Singapore #23
+hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.210:8080?sni=borat-hopp.bumbleshrimp.com#🇮🇳 AnixVPN | India #24
+hysteria2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001/?insecure=1#🇺🇸 AnixVPN | United States #25
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.214:8443?sni=grape-turbo-fr.roxa.org#🇬🇧 AnixVPN | United Kingdom #26
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@193.23.194.78:443/?insecure=1&sni=nl1.noesissite.ru#🇳🇱 AnixVPN | Netherlands #27
+hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.210:8443?sni=borat-hopp.bumbleshrimp.com#🇰🇿 AnixVPN | Kazakhstan #28
+hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723?insecure=1&sni=de2.vpn.legendaah.xyz#🇩🇪 AnixVPN | Germany #29
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦 AnixVPN | Canada #30
