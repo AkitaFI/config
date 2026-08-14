@@ -80,6 +80,6 @@ trojan://AE62539071@intense-wildcat.rooster465.autos:443?type=tcp&security=tls&e
 trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos#🇫🇷 AnixVPN | France #74
 trojan://AE62539071@superb-dory.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #75
 trojan://ND91608427@18.181.164.216:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=upright-impala.rooster465.autos#🇯🇵 AnixVPN | Japan #76
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.14.123:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#🇨🇦 AnixVPN | Canada #77
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.14.123:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#🇫🇮 AnixVPN | Finland #77
 trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #78
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #79
