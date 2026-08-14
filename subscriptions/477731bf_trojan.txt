@@ -1,0 +1,106 @@
+#profile-user-id: 6535640110
+#profile-title: Anix VPN - Trojan 🕊️
+#profile-update-interval: 6
+#support-url: https://t.me/AnixCompany
+#announce: TG: @AnixCompany Link: anix-com.ru
+
+trojan://humanity@141.101.90.101:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #1
+trojan://humanity@198.41.223.96:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #2
+trojan://humanity@8.6.112.6:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #3
+trojan://humanity@8.6.112.0:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇫🇷 AnixVPN | France #4
+trojan://humanity@86.38.214.205:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇫🇷 AnixVPN | France #5
+trojan://humanity@www.speedtest.org:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇭🇰 AnixVPN | Hong Kong #6
+trojan://humanity@www.ignitelimit.com:443?allowInsecure=0&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #7
+trojan://MiTiVPN@45.80.111.7:443?allowInsecure=0&sni=d-2-AA-ia-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe&ws=1&wspath=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#🇩🇪 AnixVPN | Germany #8
+trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#🇺🇸 AnixVPN | United States #9
+trojan://humanity@216.24.57.1:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#🇺🇸 AnixVPN | United States #10
+trojan://humanity@104.18.152.219:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇯🇵 AnixVPN | Japan #11
+trojan://humanity@104.18.152.179:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #12
+trojan://humanity@172.67.149.60:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇫🇷 AnixVPN | France #13
+trojan://humanity@104.17.111.8:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇨🇦 AnixVPN | Canada #14
+trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?security=tls#🇳🇱 AnixVPN | Netherlands #15
+trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#🇩🇪 AnixVPN | Germany #16
+trojan://humanity@104.18.152.143:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #17
+trojan://humanity@104.18.152.50:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇫🇷 AnixVPN | France #18
+trojan://humanity@188.114.97.7:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #19
+trojan://humanity@104.18.23.63:443?allowInsecure=1&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #20
+trojan://humanity@104.16.174.72:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #21
+trojan://humanity@104.18.152.207:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇫🇷 AnixVPN | France #22
+trojan://humanity@104.18.152.210:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇭🇰 AnixVPN | Hong Kong #23
+trojan://humanity@104.16.174.121:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇭🇰 AnixVPN | Hong Kong #24
+trojan://humanity@104.18.152.229:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇭🇰 AnixVPN | Hong Kong #25
+trojan://humanity@104.18.152.152:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇭🇰 AnixVPN | Hong Kong #26
+trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls#🇩🇪 AnixVPN | Germany #27
+trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#🇩🇪 AnixVPN | Germany #28
+trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc#🇩🇪 AnixVPN | Germany #29
+trojan://humanity@104.16.174.46:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #30
+trojan://humanity@104.18.152.103:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇫🇷 AnixVPN | France #31
+trojan://humanity@172.67.221.242:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇨🇦 AnixVPN | Canada #32
+trojan://humanity@104.26.14.137:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #33
+trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443?security=tls#🇬🇧 AnixVPN | United Kingdom #34
+trojan://CF68213490@gentle-raptor.rooster465.autos:443?security=tls#🇩🇪 AnixVPN | Germany #35
+trojan://humanity@104.18.152.233:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #36
+trojan://humanity@104.16.174.34:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #37
+trojan://humanity@104.16.174.44:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #38
+trojan://humanity@104.18.152.246:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #39
+trojan://humanity@104.16.174.6:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇫🇷 AnixVPN | France #40
+trojan://humanity@104.19.229.21:443?allowInsecure=0&sni=www.calmlunch.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #41
+trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#🇩🇪 AnixVPN | Germany #42
+trojan://humanity@104.18.12.149:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #43
+trojan://humanity@104.18.152.133:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #44
+trojan://humanity@104.16.73.213:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #45
+trojan://humanity@104.16.174.36:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #46
+trojan://humanity@104.16.7.70:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇫🇷 AnixVPN | France #47
+trojan://humanity@104.16.174.37:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #48
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com#🇫🇷 AnixVPN | France #49
+trojan://humanity@ip.myip2.qzz.io:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #50
+trojan://humanity@104.18.152.73:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #51
+trojan://humanity@104.18.152.108:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #52
+trojan://humanity@104.18.152.159:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇫🇷 AnixVPN | France #53
+trojan://humanity@104.18.152.175:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇫🇷 AnixVPN | France #54
+trojan://humanity@104.17.111.3:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #55
+trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#🇬🇧 AnixVPN | United Kingdom #56
+trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#🇫🇷 AnixVPN | France #57
+trojan://humanity@104.18.152.77:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇭🇰 AnixVPN | Hong Kong #58
+trojan://humanity@104.18.152.113:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇸🇬 AnixVPN | Singapore #59
+trojan://humanity@104.18.152.187:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇭🇰 AnixVPN | Hong Kong #60
+trojan://humanity@104.18.152.144:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #61
+trojan://humanity@104.16.174.22:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2F%2Fassignment#🇺🇸 AnixVPN | United States #62
+trojan://humanity@104.18.152.225:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #63
+trojan://humanity@104.16.174.71:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #64
+trojan://humanity@104.17.111.4:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇫🇷 AnixVPN | France #65
+trojan://humanity@104.18.152.97:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇯🇵 AnixVPN | Japan #66
+trojan://humanity@104.21.46.3:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #67
+trojan://JT80563429@musical-shrew.rooster465.autos:443?security=tls#🇫🇷 AnixVPN | France #68
+trojan://humanity@104.18.22.63:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇭🇰 AnixVPN | Hong Kong #69
+trojan://humanity@198.62.62.23:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#🇺🇸 AnixVPN | United States #70
+trojan://IQ68037294@eager-louse.rooster465.autos:443?security=tls#🇳🇱 AnixVPN | Netherlands #71
+trojan://581e14a5fcc14107b9326cc54f047891@2.26.96.251:443?security=tls#🇳🇱 AnixVPN | Netherlands #72
+trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls#🇫🇷 AnixVPN | France #73
+trojan://CF68213490@bright-cicada.rooster465.autos:443?security=tls#🇩🇪 AnixVPN | Germany #74
+trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net#🇳🇱 AnixVPN | Netherlands #75
+trojan://ND91608427@next-turkey.rooster465.autos:443?security=tls#🇩🇪 AnixVPN | Germany #76
+trojan://humanity@104.17.177.143:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #77
+trojan://ND91608427@classic-gator.rooster465.autos:443?security=tls&sni=classic-gator.rooster465.autos#🇫🇷 AnixVPN | France #78
+trojan://humanity@104.18.152.204:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #79
+trojan://ND91608427@13.36.175.151:443?security=tls&sni=classic-gator.rooster465.autos#🇫🇷 AnixVPN | France #80
+trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#🇺🇸 AnixVPN | United States #81
+trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir#🇫🇷 AnixVPN | France #82
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?security=tls#🇺🇸 AnixVPN | United States #83
+trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#🇨🇿 AnixVPN | Czech Republic #84
+trojan://NQ26071394@ready-kangaroo.rooster465.autos:443?security=tls#🇫🇷 AnixVPN | France #85
+trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz#🇬🇧 AnixVPN | United Kingdom #86
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#🇵🇱 AnixVPN | Poland #87
+trojan://NQ26071394@chief-cricket.rooster465.autos:443?security=tls#🇫🇷 AnixVPN | France #88
+trojan://ND91608427@202.78.163.148:443?security=tls&sni=discrete-basilisk.rooster465.autos#🇵🇱 AnixVPN | Poland #89
+trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos#🇵🇱 AnixVPN | Poland #90
+trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#🇫🇷 AnixVPN | France #91
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#🇵🇱 AnixVPN | Poland #92
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#🇺🇸 AnixVPN | United States #93
+trojan://ND91608427@relaxed-gull.rooster465.autos:443?security=tls&sni=relaxed-gull.rooster465.autos#🇵🇱 AnixVPN | Poland #94
+trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#🇵🇱 AnixVPN | Poland #95
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls#🇺🇸 AnixVPN | United States #96
+trojan://581e14a5fcc14107b9326cc54f047891@31.76.11.46:443?security=tls&sni=31.76.11.46.cdn-one.org&type=grpc&serviceName=/50779/NQmry9z8yR#🇩🇪 AnixVPN | Germany #97
+trojan://PD07395842@pro-crane.rooster465.autos:443?security=tls#🇳🇱 AnixVPN | Netherlands #98
+trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos#🇫🇷 AnixVPN | France #99
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#🇺🇸 AnixVPN | United States #100
