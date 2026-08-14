@@ -1,0 +1,9 @@
+#profile-user-id: 123456789
+#profile-title: Anix VPN - WhiteList 🕊️
+#profile-update-interval: 6
+#support-url: https://t.me/AnixCompany
+#announce: TG: @AnixCompany Link: anix-com.ru
+
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@31.77.152.14:443?encryption=none&flow=xtls-rprx-vision&pbk=jJQ3uy2Se5ObXCsYJnT-2ukvUMRiOBBfOZ38Wnm2Ygs&security=reality&sid=a75046af5dcaf1d2&sni=de1.murhost.network&type=tcp&fp=edge#🇩🇪 AnixVPN | Germany #1
+vless://d2aeb078-90db-4f90-b334-623bcbea8d31@94.183.254.28:443?encryption=none&flow=xtls-rprx-vision&pbk=imMbjIHjVAatF3I36WWu7SnesG5laWuokwad0hB19R8&security=reality&sid=b5f4c7a73b9dec66&sni=cdnjs.cloudflare.com&type=tcp&fp=edge#🇳🇱 AnixVPN | Netherlands #2
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@103.119.18.115:443?encryption=none&flow=xtls-rprx-vision&pbk=V-B12dvv0fVIwcmcRNdMQIcc4nmqsYB_PR_3X4VVB0A&security=reality&sid=91a7a393d805f5c6&sni=ch1.murhost.network&type=tcp&fp=chrome#🇨🇿 AnixVPN | Czech Republic #3
