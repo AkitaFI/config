@@ -4,5 +4,6 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://463a26c2-eba8-0031-89c4-ee5c1373ccbe@vruaz.mostserv.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vruaz.mostserv.xyz&pbk=ckPCrgbrSdQaz1j3vP0-f0P8F4E8ZucQTeQGtxBKagU&sid=3882f019072c5dcd&flow=xtls-rprx-vision&fp=edge#🇷🇺 AnixVPN | Russia #1
-vless://ff1b0b50-70dc-4bae-866e-55cff86f4d6d@asffff.falsemirrov.com:443?encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=Z0Pvb9937hVW9Ch_um5DG00t6n9lXLfpcFRUT64cJRc&sid=27e53bbcab7593d7&type=grpc#🇳🇱 AnixVPN | Netherlands #2
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@31.77.152.14:443?encryption=none&flow=xtls-rprx-vision&pbk=jJQ3uy2Se5ObXCsYJnT-2ukvUMRiOBBfOZ38Wnm2Ygs&security=reality&sid=a75046af5dcaf1d2&sni=de1.murhost.network&type=tcp&fp=edge#🇩🇪 AnixVPN | Germany #1
+vless://d2aeb078-90db-4f90-b334-623bcbea8d31@94.183.254.28:443?encryption=none&flow=xtls-rprx-vision&pbk=imMbjIHjVAatF3I36WWu7SnesG5laWuokwad0hB19R8&security=reality&sid=b5f4c7a73b9dec66&sni=cdnjs.cloudflare.com&type=tcp&fp=edge#🇳🇱 AnixVPN | Netherlands #2
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@103.119.18.115:443?encryption=none&flow=xtls-rprx-vision&pbk=V-B12dvv0fVIwcmcRNdMQIcc4nmqsYB_PR_3X4VVB0A&security=reality&sid=91a7a393d805f5c6&sni=ch1.murhost.network&type=tcp&fp=chrome#🇨🇿 AnixVPN | Czech Republic #3
