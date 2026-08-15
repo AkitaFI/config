@@ -4,4 +4,7 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.104.107.41:8090#🇨🇴 AnixVPN | Colombia #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 AnixVPN | United States #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 AnixVPN | Spain #2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSHRlc1owcXZndGc@38.180.135.156:8388#🇺🇸 AnixVPN | United States #3
+ss://YWVzLTEyOC1nY206b2l3eW00b3ZJNFli@104.16.88.23:443#🇹🇼 AnixVPN | Taiwan #4
