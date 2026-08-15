@@ -17,7 +17,7 @@ vless://b3764969-ffeb-4436-8f83-ca9f1774edb9@72.56.7.195:4100?path=%2Fv1&sni=liv
 vless://ed1cd50f-ead9-4e01-b5ae-b7d2dfb532fc@201.51.5.253:4100?host=live.ok.ru&path=%2Fv1&type=ws#🇧🇷 AnixVPN | Brazil #11
 vless://eb135f2b-4b9e-4abb-9a89-78242613da61@5.129.252.140:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺 AnixVPN | Russia #12
 vless://106b0505-da24-4ae4-b22c-302ab814f6f4@104.171.136.172:4100?type=ws&security=none&path=/v1#🇺🇸 AnixVPN | United States #13
-vless://187c2caa-528c-46bf-9903-99df02d8067d@217.149.23.169:4100?encryption=none&type=ws&host=live.ok.ru&path=/v1&packetEncoding=xudp#🇧🇪 AnixVPN | Belgium #14
+vless://187c2caa-528c-46bf-9903-99df02d8067d@217.149.23.169:4100?encryption=none&type=ws&host=live.ok.ru&path=/v1&packetEncoding=xudp#🇮🇪 AnixVPN | Ireland #14
 vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@104.171.133.53:4100?type=ws&security=none&path=/v1#🇺🇸 AnixVPN | United States #15
 vless://302c2e89-6f2d-4500-90ce-26d075c7e84f@66.78.40.202:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=8zJkTehTmhmgKWUIj-CyJP4gtMjNxLgBxPjHC1wwW3A&headerType=none&fp=chrome&spx=/b46a29a208a37d1&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=61#🇷🇺 AnixVPN | Russia #16
 vless://bebfd37f-4369-4d09-91e7-8a34ce5c3230@157.22.207.182:21098?encryption=none&security=none&type=raw#🇷🇺 AnixVPN | Russia #17
