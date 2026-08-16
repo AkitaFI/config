@@ -9,6 +9,6 @@ hysteria2://qIg7TMxfJvx6t27er0c9P0osebAAPu2PYlB_aoWelV5kVVQ2@fr2.h2corp.org:443?
 hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?security=tls&insecure=0&sni=ro.h2corp.org#🇩🇪 AnixVPN | Germany #3
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443?security=tls&insecure=0&sni=nederland.gamestocke.ru#🇳🇱 AnixVPN | Netherlands #4
 hysteria2://M2NbFywBXjS9Ova8SgqRrQkp@de-tg.fastlanehosting.ru:443?security=tls&insecure=0&sni=de-tg.fastlanehosting.ru#🇩🇪 AnixVPN | Germany #5
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.42:8443/?sni=speedtestmark.com#🇦🇺 AnixVPN | Australia #6
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@104.165.205.40:8443/?sni=speedtestmark.com#🇳🇱 AnixVPN | Netherlands #6
 hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@45.157.234.178:8443/?sni=speedtestmark.com#🇩🇪 AnixVPN | Germany #7
 hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@95.85.248.113:8443/?sni=speedtestmark.com#🇳🇱 AnixVPN | Netherlands #8
