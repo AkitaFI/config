@@ -4,7 +4,7 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://112912a9-cedf-485d-b8ed-d8f8d4774437@104.171.132.185:4100?type=ws&path=%2Fv1&host=live.ok.ru#🇨🇦 AnixVPN | Canada #1
+vless://112912a9-cedf-485d-b8ed-d8f8d4774437@104.171.132.185:4100?type=ws&path=%2Fv1&host=live.ok.ru#🇨🇭 AnixVPN | Switzerland #1
 vless://081f4a5d-f8ed-07d0-b824-49d1d563730f@139.100.197.28:52006?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=qq&security=tls&sni=search.setlisting.ru&type=raw#🇷🇺 AnixVPN | Russia #2
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@91.196.35.146:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&sid=bef240e96a8474a3&sni=russia.cendora.ru#🇷🇺 AnixVPN | Russia #3
 vless://c7e9c591-2764-423a-afca-efbd010fd396@145.239.85.117:2053?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🇫🇮 AnixVPN | Finland #4
