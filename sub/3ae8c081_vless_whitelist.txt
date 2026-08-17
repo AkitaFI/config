@@ -5,7 +5,7 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://ad074ab8-c55b-46d3-a0b2-fbd278414873@213.178.155.239:443?encryption=none&fp=firefox&mode=gun&pbk=dg-XAKwtCTyYz0HN94sbNCM8xLwY4lBHkUa883nTFn8&security=reality&serviceName=bridge-akenai-grpc-max&sid=be7d4026&sni=max.ru&type=grpc#🇷🇺 WhiteList | Russia #1
-vless://48c622d6-3cdd-47d5-8cd8-29855f7716d1@94.159.108.239:554?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=E8r9n9A0VyyYV6VE_94xo5UsZMvssa5Ub8kYudvCPCk&sid=ab1da24b10d4c1&sni=api-maps.yandex.ru#🇧🇪 WhiteList | Belgium #2
+vless://48c622d6-3cdd-47d5-8cd8-29855f7716d1@94.159.108.239:554?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=E8r9n9A0VyyYV6VE_94xo5UsZMvssa5Ub8kYudvCPCk&sid=ab1da24b10d4c1&sni=api-maps.yandex.ru#🇫🇮 WhiteList | Finland #2
 vless://6a0a3a97-f063-5599-b5fa-2b5ad599a683@132.243.207.38:5000?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0qifn7FGo1Fv6bAhw29gy5SmVHcWarBfIHTUPOwpXVs&sid=360e&sni=www.vk.com#🇬🇧 WhiteList | United Kingdom #3
 vless://b6c29ae7-4748-4049-b642-b695c0d2c776@193.58.121.95:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6RshLCSAs31qGRa_tWi63KClbh2Kzj9ooXpdaPJKbjs&sid=a6bbc4aecf5d961f&sni=vk.ru#🇩🇪 WhiteList | Germany #4
 vless://b6c29ae7-4748-4049-b642-b695c0d2c776@de-193-58.neobo-tooth.ru:2053?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6RshLCSAs31qGRa_tWi63KClbh2Kzj9ooXpdaPJKbjs&sid=a6bbc4aecf5d961f&sni=vk.ru#🇩🇪 WhiteList | Germany #5
