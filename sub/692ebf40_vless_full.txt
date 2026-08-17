@@ -4,5 +4,5 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://48c622d6-3cdd-47d5-8cd8-29855f7716d1@2.26.7.249:554?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=E8r9n9A0VyyYV6VE_94xo5UsZMvssa5Ub8kYudvCPCk&sid=ab1da24b10d4c1#🇭🇰 AnixVPN | Hong Kong #1
-vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@us3.techdatacloud.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=06GvG7PU5F3Hgq-vUH24tU0tpsbGMCCt26BSvlaBNUE&fp=firefox&sni=cloud.mail.ru&sid=dfbfa87e9f37f1f0&spx=%2F&headerType=none&encryption=none#🇺🇸 AnixVPN | United States #2
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru&hiddify=1#🇫🇷 AnixVPN | France #1
+vless://ad074ab8-c55b-46d3-a0b2-fbd278414873@5.188.115.185:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wt6P3gC6Fizmx9sSUfKWJR7y4XyDW7qBgrR1lVNShh8&sid=5e6193b86ab75103&sni=cdn.pubhoster.ru#🇦🇪 AnixVPN | United Arab Emirates #2
