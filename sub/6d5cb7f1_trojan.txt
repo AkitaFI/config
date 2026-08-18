@@ -4,17 +4,14 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://ND91608427@43.203.244.203:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=grateful-owl.rooster465.autos#🇰🇷 AnixVPN | South Korea #1
-trojan://AE62539071@52.68.175.30:443?security=tls&sni=on-roughy.rooster465.autos#🇯🇵 AnixVPN | Japan #2
-trojan://ND91608427@intimate-moray.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇰🇷 AnixVPN | South Korea #3
-trojan://ND91608427@3.36.59.34:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=select-ferret.rooster465.autos#🇰🇷 AnixVPN | South Korea #4
-trojan://ND91608427@35.72.13.34:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=casual-bee.rooster465.autos#🇯🇵 AnixVPN | Japan #5
-trojan://ND91608427@52.78.13.238:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=upward-puma.rooster465.autos#🇰🇷 AnixVPN | South Korea #6
-trojan://ND91608427@43.202.56.122:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=striking-maggot.rooster465.autos#🇰🇷 AnixVPN | South Korea #7
-trojan://ND91608427@43.201.103.8:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=intimate-moray.rooster465.autos#🇰🇷 AnixVPN | South Korea #8
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#🇭🇰 AnixVPN | Hong Kong #9
-trojan://ND91608427@saving-octopus.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=saving-octopus.rooster465.autos#🇰🇷 AnixVPN | South Korea #10
-trojan://HC04361579@powerful-troll.rooster465.autos:443?security=tls&sni=powerful-troll.rooster465.autos#🇰🇷 AnixVPN | South Korea #11
-trojan://FH72359861@charming-ox.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇸🇬 AnixVPN | Singapore #12
-trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #13
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #14
+trojan://AE62539071@clear-heron.rooster465.autos:443?security=tls&sni=clear-heron.rooster465.autos#🇯🇵 AnixVPN | Japan #1
+trojan://PQ05174892@champion-alien.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #2
+trojan://FH72359861@bright-quagga.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #3
+trojan://PQ05174892@fun-poodle.rooster465.autos:443?type=tcp&security=tls&sni=fun-poodle.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #4
+trojan://FH72359861@helping-shark.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #5
+trojan://FH72359861@endless-kiwi.rooster465.autos:443?security=tls&sni=endless-kiwi.rooster465.autos#🇯🇵 AnixVPN | Japan #6
+trojan://PQ05174892@intense-sole.rooster465.autos:443?security=tls&sni=intense-sole.rooster465.autos#🇸🇬 AnixVPN | Singapore #7
+trojan://PQ05174892@famous-opossum.rooster465.autos:443?type=tcp&security=tls&sni=famous-opossum.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #8
+trojan://FH72359861@casual-stallion.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #9
+trojan://ykhvvbl2clv11t8i@31.76.251.127.cdn-one.org:443?security=tls&authority=31.76.251.127.cdn-one.org&insecure=0&type=grpc&serviceName=%2F28786%2F4U7gXXHftA&allowInsecure=0#🇵🇱 AnixVPN | Poland #10
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #11
