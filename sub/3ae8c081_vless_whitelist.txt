@@ -4,7 +4,7 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://526c4eb2-9b4e-563a-b9e4-7fd6d0f28733@89.125.168.45:53060?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ImZszpFLaRorXOn0ISNH4V1YN71lwaLJzzvqqnFwPHk&sid=ef73bb&sni=www.vk.com#🇩🇪 WhiteList | Germany #1
+vless://526c4eb2-9b4e-563a-b9e4-7fd6d0f28733@89.125.168.45:53060?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ImZszpFLaRorXOn0ISNH4V1YN71lwaLJzzvqqnFwPHk&sid=ef73bb&sni=www.vk.com#🇨🇿 WhiteList | Czech Republic #1
 vless://b6c29ae7-4748-4049-b642-b695c0d2c776@45.144.28.39:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&sid=1eb8ea8dae937ae0&sni=vk.ru#🇫🇷 WhiteList | France #2
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru#🇫🇷 WhiteList | France #3
 vless://6a0a3a97-f063-5599-b5fa-2b5ad599a683@132.243.207.38:50039?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0qifn7FGo1Fv6bAhw29gy5SmVHcWarBfIHTUPOwpXVs&sid=95456e&sni=www.vk.com#🇬🇧 WhiteList | United Kingdom #4
