@@ -44,8 +44,8 @@ trojan://PQ05174892@concise-guinea.rooster465.autos:443?type=raw&headerType=none
 trojan://AE62539071@intimate-koi.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #38
 trojan://SEYnpOitNLndBhDtkZyeAShl@31.76.49.185:443?security=tls&sni=nl-vk.tkbvpcompany.site&path=/#🇳🇱 AnixVPN | Netherlands #39
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇪🇪 AnixVPN | Estonia #40
-trojan://7535c544-14f0-436a-aad9-76e13ffe00a3@fr2us9.stableq.top:24421?allowInsecure=0#🇵🇱 AnixVPN | Poland #41
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇫🇮 AnixVPN | Finland #42
+trojan://7535c544-14f0-436a-aad9-76e13ffe00a3@fr2us9.stableq.top:24421?allowInsecure=0#🇮🇪 AnixVPN | Ireland #41
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇺🇸 AnixVPN | United States #42
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#🇭🇰 AnixVPN | Hong Kong #43
 trojan://6ec301428255a78a1d826988d86cc87e@18.162.125.164:50887?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇭🇰 AnixVPN | Hong Kong #44
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#🇭🇰 AnixVPN | Hong Kong #45
