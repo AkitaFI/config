@@ -6,8 +6,8 @@
 
 trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls#🇩🇪 AnixVPN | Germany #1
 trojan://FH72359861@57.180.34.69:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=magical-airedale.rooster465.autos#🇯🇵 AnixVPN | Japan #2
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇸🇬 AnixVPN | Singapore #3
-trojan://6ec301428255a78a1d826988d86cc87e@18.162.125.164:50887?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇺🇸 AnixVPN | United States #4
-trojan://fg20mtCFHy@8.217.167.229:5496?security=tls&headerType=&type=tcp&sni=hyctx.southbyte.xyz#🇭🇰 AnixVPN | Hong Kong #5
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#🇸🇬 AnixVPN | Singapore #6
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#🇨🇿 AnixVPN | Czech Republic #7
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇩🇪 AnixVPN | Germany #3
+trojan://6ec301428255a78a1d826988d86cc87e@18.162.125.164:50887?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇦🇹 AnixVPN | Austria #4
+trojan://fg20mtCFHy@8.217.167.229:5496?security=tls&headerType=&type=tcp&sni=hyctx.southbyte.xyz#🇳🇴 AnixVPN | Norway #5
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#🇫🇷 AnixVPN | France #6
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#🇸🇪 AnixVPN | Sweden #7
