@@ -74,7 +74,7 @@ vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?type=ws&headerType
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.1.18:443?type=ws&headerType=none&security=tls&encryption=none&sni=germany-2.ariyuz.org.&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&path=%2F&host=germany-2.ariyuz.org.&insecure=0#🇩🇪 AnixVPN | Germany #68
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.94:443?type=ws&headerType=none&security=tls&encryption=none&sni=d1yxsk0zprgivr.cloudfront.net&fp=firefox&path=%2F&insecure=0#🇹🇭 AnixVPN | Thailand #69
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@188.114.97.6:2095?type=ws&host=fangbinxingnmsl.pusytroller.gq&path=%2F#🇺🇸 AnixVPN | United States #70
-vless://916e3030-6eac-418b-9402-7508ca7d6280@fast.nanniang.top:8443?security=tls&type=ws&path=/&host=aq.nanniang.top&sni=aq.nanniang.top&fp=chrome&encryption=none#🇰🇷 AnixVPN | South Korea #71
+vless://916e3030-6eac-418b-9402-7508ca7d6280@fast.nanniang.top:8443?security=tls&type=ws&path=/&host=aq.nanniang.top&sni=aq.nanniang.top&fp=chrome&encryption=none#🇦🇺 AnixVPN | Australia #71
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.21.111:2095?security=&encryption=none&host=fangbinxingnmsl.pusytroller.gq&type=ws#🇺🇸 AnixVPN | United States #72
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.70:443?security=tls&type=ws&path=%2F&host=d1yxsk0zprgivr.cloudfront.net&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&encryption=none#🇹🇭 AnixVPN | Thailand #73
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.levikogjgfdd.ir:2095?path=%2F&security=none&encryption=none&host=download.pusytroller.gq&type=ws#🇺🇸 AnixVPN | United States #74
