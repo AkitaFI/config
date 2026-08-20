@@ -4,24 +4,90 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇮🇪 AnixVPN | Ireland #1
-trojan://ND91608427@18.181.164.216:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=upright-impala.rooster465.autos#🇯🇵 AnixVPN | Japan #2
-trojan://AE62539071@engaged-ram.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #3
-trojan://FH72359861@equal-labrador.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #4
-trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=adjusted-labrador.rooster465.autos#🇯🇵 AnixVPN | Japan #5
-trojan://PQ05174892@open-caribou.rooster465.autos:443?type=tcp&security=tls&sni=open-caribou.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #6
-trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#🇯🇵 AnixVPN | Japan #7
-trojan://FH72359861@funny-squid.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #8
-trojan://ND91608427@nearby-egret.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nearby-egret.rooster465.autos#🇯🇵 AnixVPN | Japan #9
-trojan://ND91608427@better-molly.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇯🇵 AnixVPN | Japan #10
-trojan://ND91608427@3.112.15.214:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=adjusted-labrador.rooster465.autos#🇯🇵 AnixVPN | Japan #11
-trojan://PQ05174892@merry-falcon.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #12
-trojan://AE62539071@literate-cow.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #13
-trojan://ND91608427@3.113.24.17:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=nearby-egret.rooster465.autos#🇯🇵 AnixVPN | Japan #14
-trojan://ND91608427@sure-humpback.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=sure-humpback.rooster465.autos#🇯🇵 AnixVPN | Japan #15
-trojan://ND91608427@picked-guinea.rooster465.autos:443?security=tls&sni=picked-guinea.rooster465.autos#🇯🇵 AnixVPN | Japan #16
-trojan://ND91608427@social-mutt.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=social-mutt.rooster465.autos#🇯🇵 AnixVPN | Japan #17
-trojan://ND91608427@upright-impala.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=upright-impala.rooster465.autos#🇯🇵 AnixVPN | Japan #18
+trojan://ND91608427@15.237.137.197:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#🇫🇷 AnixVPN | France #1
+trojan://FH72359861@tough-tuna.rooster465.autos:443?security=tls#🇺🇸 AnixVPN | United States #2
+trojan://PQ05174892@usable-dogfish.rooster465.autos:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#🇩🇪 AnixVPN | Germany #3
+trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls#🇩🇪 AnixVPN | Germany #4
+trojan://FH72359861@pretty-adder.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=#🇯🇵 AnixVPN | Japan #5
+trojan://FH72359861@new-eagle.rooster465.autos:443?security=tls&sni=new-eagle.rooster465.autos#🇯🇵 AnixVPN | Japan #6
+trojan://PQ05174892@open-caribou.rooster465.autos:443?type=tcp&security=tls&sni=open-caribou.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #7
+trojan://AE62539071@healthy-panda.rooster465.autos:443?security=tls#🇮🇪 AnixVPN | Ireland #8
+trojan://PQ05174892@sterling-vervet.rooster465.autos:443?security=tls&amp;sni=sterling-vervet.rooster465.autos#🇯🇵 AnixVPN | Japan #9
+trojan://HC04361579@settling-shad.rooster465.autos:443?security=tls&sni=settling-shad.rooster465.autos#🇯🇵 AnixVPN | Japan #10
+trojan://FH72359861@bright-quagga.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #11
+trojan://HC04361579@driven-doberman.rooster465.autos:443?security=tls&sni=driven-doberman.rooster465.autos#🇯🇵 AnixVPN | Japan #12
+trojan://AE62539071@arriving-colt.rooster465.autos:443?security=tls#🇺🇸 AnixVPN | United States #13
+trojan://FH72359861@equal-labrador.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #14
+trojan://PQ05174892@aware-puma.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #15
+trojan://EQ30679154@upright-sheepdog.rooster465.autos:443?type=tcp&security=tls&sni=upright-sheepdog.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #16
+trojan://ND91608427@better-molly.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇯🇵 AnixVPN | Japan #17
+trojan://PQ05174892@famous-opossum.rooster465.autos:443?type=tcp&security=tls&sni=famous-opossum.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #18
 trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸 AnixVPN | United States #19
-trojan://FH72359861@emerging-porpoise.rooster465.autos:443?security=tls&sni=emerging-porpoise.rooster465.autos#🇯🇵 AnixVPN | Japan #20
-trojan://Aimer@167.68.4.199:2053?type=ws&sni=epge.muarua.filegear-sg.me#🇨🇿 AnixVPN | Czech Republic #21
+trojan://ND91608427@sure-humpback.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=sure-humpback.rooster465.autos#🇯🇵 AnixVPN | Japan #20
+trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fancy-skink.rooster465.autos#🇫🇷 AnixVPN | France #21
+trojan://FH72359861@wise-gibbon.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #22
+trojan://FH72359861@many-pangolin.rooster465.autos:443?security=tls&sni=many-pangolin.rooster465.autos#🇯🇵 AnixVPN | Japan #23
+trojan://FH72359861@classic-pug.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #24
+trojan://AE62539071@game-thrush.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #25
+trojan://PQ05174892@fun-poodle.rooster465.autos:443?type=tcp&security=tls&sni=fun-poodle.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #26
+trojan://PQ05174892@ready-monarch.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #27
+trojan://PQ05174892@merry-falcon.rooster465.autos:443?sni=merry-falcon.rooster465.autos&peer=merry-falcon.rooster465.autos&security=tls#🇯🇵 AnixVPN | Japan #28
+trojan://EQ30679154@striking-cheetah.rooster465.autos:443?type=tcp&security=tls&sni=striking-cheetah.rooster465.autos&fp=chrome#🇭🇰 AnixVPN | Hong Kong #29
+trojan://PQ05174892@fair-kingfish.rooster465.autos:443?type=tcp&security=tls&sni=fair-kingfish.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #30
+trojan://FH72359861@touching-ostrich.rooster465.autos:443?security=tls&sni=touching-ostrich.rooster465.autos#🇯🇵 AnixVPN | Japan #31
+trojan://FH72359861@endless-kiwi.rooster465.autos:443?security=tls&sni=endless-kiwi.rooster465.autos#🇯🇵 AnixVPN | Japan #32
+trojan://FH72359861@tough-gopher.rooster465.autos:443?type=tcp&security=tls&sni=tough-gopher.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #33
+trojan://FH72359861@noted-cougar.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #34
+trojan://AE62539071@charmed-fly.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #35
+trojan://AE62539071@intense-wildcat.rooster465.autos:443?security=tls&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇯🇵 AnixVPN | Japan #36
+trojan://EQ30679154@gentle-perch.rooster465.autos:443?type=tcp&security=tls&sni=gentle-perch.rooster465.autos#🇯🇵 AnixVPN | Japan #37
+trojan://FH72359861@devoted-zebra.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #38
+trojan://HC04361579@exact-sawfish.rooster465.autos:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=tls&sni=#🇯🇵 AnixVPN | Japan #39
+trojan://FH72359861@living-hagfish.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #40
+trojan://PQ05174892@concise-guinea.rooster465.autos:443?type=raw&headerType=none&security=tls#🇯🇵 AnixVPN | Japan #41
+trojan://PQ05174892@glorious-hamster.rooster465.autos:443?type=tcp&security=tls&sni=glorious-hamster.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #42
+trojan://AE62539071@whole-grub.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #43
+trojan://FH72359861@flying-swift.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #44
+trojan://AE62539071@novel-bat.rooster465.autos:443?type=tcp&security=tls&sni=novel-bat.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #45
+trojan://FH72359861@communal-troll.rooster465.autos:443?security=tls&sni=communal-troll.rooster465.autos#🇯🇵 AnixVPN | Japan #46
+trojan://FH72359861@comic-poodle.rooster465.autos:443?security=tls#🇺🇸 AnixVPN | United States #47
+trojan://PQ05174892@proud-escargot.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #48
+trojan://AE62539071@real-cardinal.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #49
+trojan://FH72359861@settled-camel.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #50
+trojan://FH72359861@helping-shark.rooster465.autos:443?security=tls&sni=helping-shark.rooster465.autos#🇯🇵 AnixVPN | Japan #51
+trojan://AE62539071@moral-cow.rooster465.autos:443?security=tls#🇺🇸 AnixVPN | United States #52
+trojan://AE62539071@one-quail.rooster465.autos:443?security=tls#🇫🇷 AnixVPN | France #53
+trojan://FH72359861@champion-panther.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #54
+trojan://FH72359861@lucky-primate.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #55
+trojan://FH72359861@united-sculpin.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #56
+trojan://FH72359861@adapting-giraffe.rooster465.autos:443?security=tls&sni=adapting-giraffe.rooster465.autos#🇯🇵 AnixVPN | Japan #57
+trojan://FH72359861@funny-squid.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #58
+trojan://PQ05174892@mighty-lemming.rooster465.autos:443?security=tls&amp;sni=mighty-lemming.rooster465.autos#🇯🇵 AnixVPN | Japan #59
+trojan://AE62539071@safe-frog.rooster465.autos:443?type=tcp&security=tls&sni=safe-frog.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #60
+trojan://ND91608427@18.181.175.120:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=sure-humpback.rooster465.autos#🇯🇵 AnixVPN | Japan #61
+trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=real-werewolf.rooster465.autos#🇯🇵 AnixVPN | Japan #62
+trojan://AE62539071@worthy-labrador.rooster465.autos:443?security=tls#🇮🇪 AnixVPN | Ireland #63
+trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls&sni=sharing-duck.rooster465.autos#🇺🇸 AnixVPN | United States #64
+trojan://FH72359861@needed-gelding.rooster465.autos:443?security=tls&sni=needed-gelding.rooster465.autos#🇯🇵 AnixVPN | Japan #65
+trojan://FH72359861@welcome-owl.rooster465.autos:443?security=tls&sni=welcome-owl.rooster465.autos#🇯🇵 AnixVPN | Japan #66
+trojan://FH72359861@epic-iguana.rooster465.autos:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#🇩🇪 AnixVPN | Germany #67
+trojan://AE62539071@on-roughy.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #68
+trojan://ND91608427@13.230.118.96:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=real-werewolf.rooster465.autos#🇯🇵 AnixVPN | Japan #69
+trojan://ND91608427@nearby-egret.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #70
+trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls#🇮🇪 AnixVPN | Ireland #71
+trojan://PQ05174892@humorous-starling.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #72
+trojan://AE62539071@maximum-elk.rooster465.autos:443?security=tls&sni=maximum-elk.rooster465.autos#🇯🇵 AnixVPN | Japan #73
+trojan://FH72359861@emerging-porpoise.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #74
+trojan://FH72359861@internal-mongoose.rooster465.autos:443?security=tls&amp;sni=internal-mongoose.rooster465.autos#🇯🇵 AnixVPN | Japan #75
+trojan://AE62539071@pure-kodiak.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #76
+trojan://PQ05174892@champion-alien.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #77
+trojan://AE62539071@right-seahorse.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #78
+trojan://ND91608427@perfect-slug.rooster465.autos:443?security=tls&sni=perfect-slug.rooster465.autos#🇯🇵 AnixVPN | Japan #79
+trojan://AE62539071@central-jawfish.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #80
+trojan://PQ05174892@thorough-elf.rooster465.autos:443?type=tcp&security=tls&sni=thorough-elf.rooster465.autos#🇯🇵 AnixVPN | Japan #81
+trojan://AE62539071@funny-hen.rooster465.autos:443?security=tls#🇮🇪 AnixVPN | Ireland #82
+trojan://EQ30679154@57.180.56.235:443?security=tls&headerType=&type=tcp&sni=gentle-perch.rooster465.autos#🇯🇵 AnixVPN | Japan #83
+trojan://ND91608427@thankful-mustang.rooster465.autos:443?security=tls&sni=thankful-mustang.rooster465.autos#🇯🇵 AnixVPN | Japan #84
+trojan://FH72359861@sacred-shepherd.rooster465.autos:443?type=tcp&security=tls&sni=sacred-shepherd.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #85
+trojan://AE62539071@rich-gelding.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #86
+trojan://Aimer@167.68.4.199:2053?type=ws&sni=epge.muarua.filegear-sg.me#🇳🇴 AnixVPN | Norway #87
