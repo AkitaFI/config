@@ -54,7 +54,7 @@ vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?encryption=none&se
 vless://5fc8a5e4-d0c5-4ad2-8bfe-db589553c6c1@www.glassdoor.com:8880?&security=none&type=ws&headerType=&host=red-disk-58df.153-2ce.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇷🇺 AnixVPN | Russia #48
 vless://3bf2781f-63a2-4c38-ad02-2cc337c2f7fa@104.17.64.70:8880?type=ws&host=silent-heart-175f.325-a85.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#🇷🇺 AnixVPN | Russia #49
 vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@37.139.33.57:52006?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&packetEncoding=xudp#🇩🇪 AnixVPN | Germany #50
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@94.156.181.52:443?security=tls&flow=xtls-rprx-vision&sni=ru52.mechvpn.online&type=tcp#🇫🇮 AnixVPN | Finland #51
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@94.156.181.52:443?security=tls&flow=xtls-rprx-vision&sni=ru52.mechvpn.online&type=tcp#🇦🇺 AnixVPN | Australia #51
 vless://b2c879ed-08a2-4a79-9c57-37c7db614e96@log.bpminecraft.com:8880?&security=none&type=ws&headerType=&host=sweet-cake-1340.474-288.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#🇭🇰 AnixVPN | Hong Kong #52
 vless://06bfb14e-66cc-48ca-a429-b9301dba2f81@104.17.123.204:8880?security=none&type=ws&host=long-firefly-a226.216-ce0.workers.dev#🇷🇺 AnixVPN | Russia #53
 vless://d7ec3e31-a9c4-4bdf-a2d8-7f75a8381035@www.visa.com.sg:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=weathered-lake-e883.35-bc4.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇫🇮 AnixVPN | Finland #54
