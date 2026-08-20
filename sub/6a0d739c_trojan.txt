@@ -12,4 +12,4 @@ trojan://ND91608427@picked-guinea.rooster465.autos:443?security=tls&insecure=0&h
 trojan://ND91608427@casual-bee.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=casual-bee.rooster465.autos#🇯🇵 AnixVPN | Japan #6
 trojan://EQ30679154@striking-cheetah.rooster465.autos:443?type=tcp&security=tls&sni=striking-cheetah.rooster465.autos&fp=chrome#🇭🇰 AnixVPN | Hong Kong #7
 trojan://ND91608427@stunning-mite.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=stunning-mite.rooster465.autos#🇯🇵 AnixVPN | Japan #8
-trojan://Aimer@167.68.4.199:2053?type=ws&sni=epge.muarua.filegear-sg.me#🇦🇹 AnixVPN | Austria #9
+trojan://Aimer@167.68.4.199:2053?type=ws&sni=epge.muarua.filegear-sg.me#🇩🇪 AnixVPN | Germany #9
