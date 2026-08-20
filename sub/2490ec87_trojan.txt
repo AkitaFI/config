@@ -59,13 +59,13 @@ trojan://FH72359861@magical-airedale.rooster465.autos:443?security=tls&sni=magic
 trojan://AE62539071@47.131.229.80:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=elegant-marten.rooster465.autos#🇸🇬 AnixVPN | Singapore #53
 trojan://AE62539071@whole-perch.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #54
 trojan://AE62539071@charmed-fly.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #55
-trojan://bpb-trojan@vless.herogoing.top:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=&type=ws&host=&path=%2Ftr%3Fed%3D2560#🇬🇧 AnixVPN | United Kingdom #56
-trojan://4eec530c-d082-44a8-9f12-088cd9db3f35@v1in2.stableq.top:24407?allowInsecure=0#🇳🇱 AnixVPN | Netherlands #57
-trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&sni=nl-vk.tkbvpcompany.site#🇨🇭 AnixVPN | Switzerland #58
-trojan://SEYnpOitNLndBhDtkZyeAShl@31.76.49.185:443?security=tls&sni=nl-vk.tkbvpcompany.site&path=/#🇨🇿 AnixVPN | Czech Republic #59
-trojan://4eec530c-d082-44a8-9f12-088cd9db3f35@fr2us9.stableq.top:24421?allowInsecure=0#🇳🇴 AnixVPN | Norway #60
-trojan://fg20mtCFHy@8.217.167.229:5496/?type=tcp&security=tls&sni=hyctx.southbyte.xyz&allowInsecure=1&fp=android#🇺🇸 AnixVPN | United States #61
-trojan://4eec530c-d082-44a8-9f12-088cd9db3f35@fr2us9.stableq.top:24422?allowInsecure=0#🇧🇪 AnixVPN | Belgium #62
-trojan://Aimer@167.68.4.199:2053?type=ws&sni=epge.muarua.filegear-sg.me#🇳🇱 AnixVPN | Netherlands #63
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇨🇦 AnixVPN | Canada #64
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇦🇺 AnixVPN | Australia #65
+trojan://bpb-trojan@vless.herogoing.top:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=&type=ws&host=&path=%2Ftr%3Fed%3D2560#🇫🇷 AnixVPN | France #56
+trojan://4eec530c-d082-44a8-9f12-088cd9db3f35@v1in2.stableq.top:24407?allowInsecure=0#🇮🇪 AnixVPN | Ireland #57
+trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&sni=nl-vk.tkbvpcompany.site#🇨🇦 AnixVPN | Canada #58
+trojan://SEYnpOitNLndBhDtkZyeAShl@31.76.49.185:443?security=tls&sni=nl-vk.tkbvpcompany.site&path=/#🇦🇺 AnixVPN | Australia #59
+trojan://4eec530c-d082-44a8-9f12-088cd9db3f35@fr2us9.stableq.top:24421?allowInsecure=0#🇺🇸 AnixVPN | United States #60
+trojan://fg20mtCFHy@8.217.167.229:5496/?type=tcp&security=tls&sni=hyctx.southbyte.xyz&allowInsecure=1&fp=android#🇳🇱 AnixVPN | Netherlands #61
+trojan://4eec530c-d082-44a8-9f12-088cd9db3f35@fr2us9.stableq.top:24422?allowInsecure=0#🇭🇰 AnixVPN | Hong Kong #62
+trojan://Aimer@167.68.4.199:2053?type=ws&sni=epge.muarua.filegear-sg.me#🇰🇷 AnixVPN | South Korea #63
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇰🇷 AnixVPN | South Korea #64
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇸🇬 AnixVPN | Singapore #65
