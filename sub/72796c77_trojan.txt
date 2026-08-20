@@ -39,4 +39,4 @@ trojan://AE62539071@intimate-koi.rooster465.autos:443?security=tls#🇯🇵 Anix
 trojan://FH72359861@light-filly.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #33
 trojan://ND91608427@18.181.164.216:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=upright-impala.rooster465.autos#🇯🇵 AnixVPN | Japan #34
 trojan://EQ30679154@57.180.56.235:443?security=tls&headerType=&type=tcp&sni=gentle-perch.rooster465.autos#🇯🇵 AnixVPN | Japan #35
-trojan://Aimer@167.68.4.199:2053?type=ws&sni=epge.muarua.filegear-sg.me#🇨🇭 AnixVPN | Switzerland #36
+trojan://Aimer@167.68.4.199:2053?type=ws&sni=epge.muarua.filegear-sg.me#🇯🇵 AnixVPN | Japan #36
