@@ -58,11 +58,11 @@ trojan://AE62539071@3.112.200.59:443?type=tcp&security=tls&encryption=none&fp=ch
 trojan://PQ05174892@glorious-hamster.rooster465.autos:443?type=tcp&security=tls&sni=glorious-hamster.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #52
 trojan://AE62539071@liked-serval.rooster465.autos:443?security=tls#🇺🇸 AnixVPN | United States #53
 trojan://FH72359861@welcome-owl.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #54
-trojan://Aimer@167.68.4.199:2053?type=ws&sni=epge.muarua.filegear-sg.me&ed=2560&eh=Sec-WebSocket-Protocol#🇩🇪 AnixVPN | Germany #55
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇺🇸 AnixVPN | United States #56
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇳🇱 AnixVPN | Netherlands #57
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=firefox#🇺🇸 AnixVPN | United States #58
-trojan://fg20mtCFHy@128.14.148.84:5531?security=tls&sni=ycgsc.southbyte.xyz#🇵🇱 AnixVPN | Poland #59
-trojan://fg20mtCFHy@47.86.107.20:5443?security=tls&sni=hytfes.southbyte.xyz&path=/#🇳🇱 AnixVPN | Netherlands #60
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?security=tls&sni=tr-switzerlandgopota.unlimited-access.ru#🇨🇦 AnixVPN | Canada #61
-trojan://Sn+JPr7a1JGWKxUrlhKrgTGajkOxbxUg@vip-sg-2.hkd4fwmg.vip:58277?security=tls&sni=vip-sg-2.hkd4fwmg.vip#🇩🇪 AnixVPN | Germany #62
+trojan://Aimer@167.68.4.199:2053?type=ws&sni=epge.muarua.filegear-sg.me&ed=2560&eh=Sec-WebSocket-Protocol#🇳🇱 AnixVPN | Netherlands #55
+trojan://Sn+JPr7a1JGWKxUrlhKrgTGajkOxbxUg@vip-sg-2.hkd4fwmg.vip:58277?security=tls&sni=vip-sg-2.hkd4fwmg.vip#🇰🇷 AnixVPN | South Korea #56
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇮🇪 AnixVPN | Ireland #57
+trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=firefox#🇬🇧 AnixVPN | United Kingdom #58
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?security=tls&sni=tr-switzerlandgopota.unlimited-access.ru#🇬🇧 AnixVPN | United Kingdom #59
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇮🇪 AnixVPN | Ireland #60
+trojan://fg20mtCFHy@128.14.148.84:5531?security=tls&sni=ycgsc.southbyte.xyz#🇬🇧 AnixVPN | United Kingdom #61
+trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@vip-nl-1.hkd4fwmg.vip:28236?security=tls&sni=vip-nl-1.hkd4fwmg.vip#🇦🇹 AnixVPN | Austria #62
