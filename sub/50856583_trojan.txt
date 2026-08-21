@@ -87,9 +87,9 @@ trojan://PQ05174892@aware-puma.rooster465.autos:443?security=tls#🇯🇵 AnixVP
 trojan://ND91608427@adjusted-labrador.rooster465.autos:443?security=tls&sni=adjusted-labrador.rooster465.autos#🇯🇵 AnixVPN | Japan #81
 trojan://PQ05174892@concise-guinea.rooster465.autos:443?type=raw&headerType=none&security=tls#🇯🇵 AnixVPN | Japan #82
 trojan://PQ05174892@usable-dogfish.rooster465.autos:443?security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0#🇩🇪 AnixVPN | Germany #83
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇵🇱 AnixVPN | Poland #84
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇨🇭 AnixVPN | Switzerland #85
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇸🇪 AnixVPN | Sweden #84
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇳🇱 AnixVPN | Netherlands #85
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?security=tls&sni=tr-switzerlandgopota.unlimited-access.ru#🇨🇭 AnixVPN | Switzerland #86
-trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@vip-nl-1.hkd4fwmg.vip:28236?security=tls&sni=vip-nl-1.hkd4fwmg.vip#🇨🇭 AnixVPN | Switzerland #87
-trojan://Sn+JPr7a1JGWKxUrlhKrgTGajkOxbxUg@vip-sg-2.hkd4fwmg.vip:58277?security=tls&sni=vip-sg-2.hkd4fwmg.vip#🇯🇵 AnixVPN | Japan #88
-trojan://fg20mtCFHy@128.14.148.84:5531?security=tls&sni=ycgsc.southbyte.xyz#🇦🇹 AnixVPN | Austria #89
+trojan://0PUoUQvkGLkxuukHJLje21MCg1DNeOpx@vip-nl-1.hkd4fwmg.vip:28236?security=tls&sni=vip-nl-1.hkd4fwmg.vip#🇮🇪 AnixVPN | Ireland #87
+trojan://Sn+JPr7a1JGWKxUrlhKrgTGajkOxbxUg@vip-sg-2.hkd4fwmg.vip:58277?security=tls&sni=vip-sg-2.hkd4fwmg.vip#🇸🇬 AnixVPN | Singapore #88
+trojan://fg20mtCFHy@128.14.148.84:5531?security=tls&sni=ycgsc.southbyte.xyz#🇨🇭 AnixVPN | Switzerland #89
