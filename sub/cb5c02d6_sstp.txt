@@ -95,8 +95,8 @@ vless://20df893e-dcf4-491d-8261-6dbb24f9566b@85.209.157.25:443?encryption=none&f
 vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@cf02.564895.xyz:2096?fp=firefox&host=jp01.564895.xyz&path=%2Fasdasd&security=tls&sni=jp01.564895.xyz&type=ws#🇯🇵 AnixVPN | Japan #89
 vless://64bd5231-8c49-44f4-8bc0-998eef787d05@5.42.121.52:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=chrome#🇷🇺 AnixVPN | Russia #90
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@103.242.2.214:8443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🇩🇪 AnixVPN | Germany #91
-vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@cf01.564895.xyz:2053?fp=firefox&host=mo01.564895.xyz&path=%2Fsadasd&security=tls&sni=mo01.564895.xyz&type=ws#🇨🇭 AnixVPN | Switzerland #92
+vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@cf01.564895.xyz:2053?fp=firefox&host=mo01.564895.xyz&path=%2Fsadasd&security=tls&sni=mo01.564895.xyz&type=ws#🇸🇪 AnixVPN | Sweden #92
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@91.110.174.210:8443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome#🇩🇪 AnixVPN | Germany #93
-vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@cf02.564895.xyz:2087?fp=firefox&host=mo01.564895.xyz&path=%2Fsadasd&security=tls&sni=mo01.564895.xyz&type=ws#🇧🇪 AnixVPN | Belgium #94
+vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@cf02.564895.xyz:2087?fp=firefox&host=mo01.564895.xyz&path=%2Fsadasd&security=tls&sni=mo01.564895.xyz&type=ws#🇳🇴 AnixVPN | Norway #94
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@104.19.149.99:8443?fp=edge&host=hongkong.11459178.xyz&path=%2Fcdn%2Fpackages%2Fruntime-core.tar.gz&security=tls&sni=hongkong.11459178.xyz&type=ws#🇭🇰 AnixVPN | Hong Kong #95
 vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@xmm5.130209.xyz:8443?&security=tls&fp=edge&sni=hongkong.11459178.xyz&type=ws&headerType=none&host=hongkong.11459178.xyz&path=%2Fcdn%2Fpackages%2Fruntime-core.tar.gz#🇭🇰 AnixVPN | Hong Kong #96
