@@ -4,9 +4,9 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?&security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#🇪🇪 WhiteList | Estonia #1
-vless://d01d5a74-09fb-4e9e-b0d9-38b5fd77ad70@200.165.230.19:443?encryption=none&flow=xtls-rprx-vision&pbk=iWxxH0TWB1Ciz6sEwtfjUVY61OcTDihou5IJfkt0O0Q&security=reality&sid=a3f8d21c4b907e56&sni=www.kinopoisk.ru&type=tcp&fp=firefox#🇧🇷 WhiteList | Brazil #2
-vless://dbc43f55-79cd-4331-84ff-d891356d387a@45.195.111.108:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&sni=storage.yandex.net#🇭🇰 WhiteList | Hong Kong #3
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&encryption=none&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=a696de84963656de#🇪🇪 WhiteList | Estonia #1
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F%3Fmtmvpn---mtmvpn---mtmvpn---mtmvpn&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#🇵🇱 WhiteList | Poland #2
+vless://dbc43f55-79cd-4331-84ff-d891356d387a@45.195.111.108:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e&sni=storage.yandex.net#🇫🇮 WhiteList | Finland #3
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru&packetEncoding=none#🇫🇷 WhiteList | France #4
 vless://c90f26f0-5a20-4573-a31a-c27b3c96933e@154.83.246.52:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=500aec9e9e5e2212&sni=storage.yandex.net#🇳🇱 WhiteList | Netherlands #5
 vless://dbc43f55-79cd-4331-84ff-d891356d387a@45.196.208.251:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22&sni=storage.yandex.net#🇪🇸 WhiteList | Spain #6
