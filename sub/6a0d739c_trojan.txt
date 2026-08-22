@@ -10,5 +10,5 @@ trojan://MiTiVPN@213.182.199.137:443?host=2-mitivpn--mitivpn------mitivpn.mitivp
 trojan://MiTiVPN@188.42.145.180:443?host=383838-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=82929473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws#🇷🇺 AnixVPN | Russia #4
 trojan://EQ30679154@185.14.47.56:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=kind-unicorn.rooster465.autos#🇭🇰 AnixVPN | Hong Kong #5
 trojan://EQ30679154@87.121.33.92:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=sharing-chipmunk.rooster465.autos#🇦🇺 AnixVPN | Australia #6
-trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=edge&sni=tttyder.wsone.icu#🇨🇦 AnixVPN | Canada #7
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=firefox#🇧🇪 AnixVPN | Belgium #8
+trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=edge&sni=tttyder.wsone.icu#🇧🇪 AnixVPN | Belgium #7
+trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=firefox#🇨🇦 AnixVPN | Canada #8
