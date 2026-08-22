@@ -13,8 +13,6 @@ trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&
 trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls#🇺🇸 AnixVPN | United States #7
 trojan://FH72359861@many-pangolin.rooster465.autos:443?security=tls#🇯🇵 AnixVPN | Japan #8
 trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #9
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?security=tls&sni=tr-switzerlandgopota.unlimited-access.ru#🇨🇿 AnixVPN | Czech Republic #10
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=firefox#🇨🇿 AnixVPN | Czech Republic #11
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇨🇿 AnixVPN | Czech Republic #12
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇪🇪 AnixVPN | Estonia #13
-trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=edge&sni=tttyder.wsone.icu#🇸🇪 AnixVPN | Sweden #14
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇳🇱 AnixVPN | Netherlands #10
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?security=tls&sni=tr-switzerlandgopota.unlimited-access.ru#🇸🇬 AnixVPN | Singapore #11
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇦🇺 AnixVPN | Australia #12
