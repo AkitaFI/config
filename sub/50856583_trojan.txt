@@ -13,4 +13,4 @@ trojan://MiTiVPN@156.243.83.240:443?host=8373638-mitivpn--mitivpn------mitivpn.m
 trojan://FH72359861@tough-tuna.rooster465.autos:443?security=tls#🇺🇸 AnixVPN | United States #7
 trojan://EQ30679154@absolute-teal.rooster465.autos:443?fp=chrome&security=tls&sni=absolute-teal.rooster465.autos&type=tcp#🇺🇸 AnixVPN | United States #8
 trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=edge&sni=tttyder.wsone.icu#🇫🇮 AnixVPN | Finland #9
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=firefox#🇨🇭 AnixVPN | Switzerland #10
+trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=firefox#🇩🇪 AnixVPN | Germany #10
