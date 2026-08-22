@@ -4,7 +4,13 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://MiTiVPN@188.42.145.180:443?host=383838-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=82929473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws#🇷🇺 AnixVPN | Russia #1
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #2
-trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=edge&sni=tttyder.wsone.icu#🇸🇬 AnixVPN | Singapore #3
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=firefox#🇬🇧 AnixVPN | United Kingdom #4
+trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls&sni=pretty-mollusk.rooster465.autos#🇩🇪 AnixVPN | Germany #1
+trojan://AE62539071@arriving-colt.rooster465.autos:443?security=tls#🇺🇸 AnixVPN | United States #2
+trojan://FH72359861@many-pangolin.rooster465.autos:443?security=tls&sni=many-pangolin.rooster465.autos#🇯🇵 AnixVPN | Japan #3
+trojan://MiTiVPN@188.42.145.180:443?host=383838-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=82929473-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws#🇷🇺 AnixVPN | Russia #4
+trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#🇺🇸 AnixVPN | United States #5
+trojan://MiTiVPN@156.243.83.240:443?host=8373638-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ff-l%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=8373638-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle&type=ws#🇷🇺 AnixVPN | Russia #6
+trojan://FH72359861@tough-tuna.rooster465.autos:443?security=tls#🇺🇸 AnixVPN | United States #7
+trojan://EQ30679154@absolute-teal.rooster465.autos:443?fp=chrome&security=tls&sni=absolute-teal.rooster465.autos&type=tcp#🇺🇸 AnixVPN | United States #8
+trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=edge&sni=tttyder.wsone.icu#🇨🇿 AnixVPN | Czech Republic #9
+trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&encryption=none&fp=firefox#🇦🇺 AnixVPN | Australia #10
