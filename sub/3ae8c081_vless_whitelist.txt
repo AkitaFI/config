@@ -4,7 +4,7 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&sid=1eb8ea8dae937ae0&sni=vk.ru#🇸🇬 WhiteList | Singapore #1
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&sid=1eb8ea8dae937ae0&sni=vk.ru#🇫🇷 WhiteList | France #1
 vless://9fd78c11-d331-4c1d-ba6c-046e970c1464@147.45.134.184:8443?type=tcp&security=reality&fp=firefox&pbk=FnoA9F_919MbdRH1bFYENR1Yl9C0MeDdb47rZ4R-IGo&sid=dd910a5b30&sni=dzen.ru#🇳🇱 WhiteList | Netherlands #2
 vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:443?type=tcp&security=reality&fp=firefox&pbk=l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE&sid=3b802dad547b0847&sni=yandex.ru#🇩🇪 WhiteList | Germany #3
 vless://e5b4fc38-7843-4bb8-ad69-ea40e354ef37@31.129.42.216:443?encryption=none&fp=firefox&mode=gun&pbk=VaKp9XjMqT7lA4F3b6hpdF6fmsiY4B_hz6MzT6fv938&security=reality&sni=360.yandex.ru&type=grpc#🇷🇺 WhiteList | Russia #4
