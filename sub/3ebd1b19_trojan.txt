@@ -4,15 +4,20 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://5e89314202a8405f@kuso30.pacemakere.com:101?security=tls#🇺🇸 AnixVPN | United States #1
-trojan://c857562678594197@saj2000e.pacemakere.com:20063?security=tls#🇺🇸 AnixVPN | United States #2
-trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls#🇺🇸 AnixVPN | United States #3
-trojan://e9c4b07725ff4ad2@ikhk165.iamnew2020.top:20015?security=tls#🇭🇰 AnixVPN | Hong Kong #4
-trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#🇺🇸 AnixVPN | United States #5
-trojan://58d1a580a3fc4a87@w192m.iamnew2020.top:99?security=tls#🇹🇼 AnixVPN | Taiwan #6
-trojan://a877ccb0d44f416d@ggsg170.pacemakere.com:101?security=tls#🇸🇬 AnixVPN | Singapore #7
-trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸 AnixVPN | United States #8
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#🇫🇷 AnixVPN | France #9
-trojan://27396feac9d74bae@kh223.zxom.eu.org:100?security=tls#🇮🇪 AnixVPN | Ireland #10
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇯🇵 AnixVPN | Japan #11
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇸🇬 AnixVPN | Singapore #12
+trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸 AnixVPN | United States #1
+trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #2
+trojan://c857562678594197@saj2000e.pacemakere.com:20063?security=tls#🇺🇸 AnixVPN | United States #3
+trojan://058f2d7a59044e87@jpcn206.pacemakere.com:20030?security=tls#🇯🇵 AnixVPN | Japan #4
+trojan://humanity@104.16.174.46:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #5
+trojan://humanity@104.16.174.101:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #6
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls#🇺🇸 AnixVPN | United States #7
+trojan://e9c4b07725ff4ad2@ikhk165.iamnew2020.top:20015?security=tls#🇭🇰 AnixVPN | Hong Kong #8
+trojan://a877ccb0d44f416d@ggsg170.pacemakere.com:101?security=tls#🇸🇬 AnixVPN | Singapore #9
+trojan://b49a4e18799049c3@tt928m.pacemakere.com:101?security=tls#🇹🇼 AnixVPN | Taiwan #10
+trojan://58d1a580a3fc4a87@w192m.iamnew2020.top:99?security=tls#🇹🇼 AnixVPN | Taiwan #11
+trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#🇺🇸 AnixVPN | United States #12
+trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#🇫🇷 AnixVPN | France #13
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇰🇷 AnixVPN | South Korea #14
+trojan://5e89314202a8405f@kuso30.pacemakere.com:101?security=tls&allowInsecure=1#🇳🇴 AnixVPN | Norway #15
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇳🇴 AnixVPN | Norway #16
+trojan://27396feac9d74bae@kh223.zxom.eu.org:100?security=tls#🇭🇰 AnixVPN | Hong Kong #17
