@@ -7,9 +7,9 @@
 trojan://c857562678594197@saj2000e.pacemakere.com:20063?security=tls#🇺🇸 AnixVPN | United States #1
 trojan://58d1a580a3fc4a87@w192m.iamnew2020.top:99?security=tls#🇹🇼 AnixVPN | Taiwan #2
 trojan://058f2d7a59044e87@jpcn206.pacemakere.com:20030?security=tls#🇯🇵 AnixVPN | Japan #3
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇬🇧 AnixVPN | United Kingdom #4
-trojan://5e89314202a8405f@kuso30.pacemakere.com:101?security=tls&allowInsecure=1#🇳🇴 AnixVPN | Norway #5
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇯🇵 AnixVPN | Japan #6
-trojan://a877ccb0d44f416d@ggsg170.pacemakere.com:101?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggsg170.pacemakere.com#🇳🇱 AnixVPN | Netherlands #7
-trojan://27396feac9d74bae@kh223.zxom.eu.org:100?security=tls#🇰🇷 AnixVPN | South Korea #8
-trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls#🇯🇵 AnixVPN | Japan #9
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇯🇵 AnixVPN | Japan #4
+trojan://5e89314202a8405f@kuso30.pacemakere.com:101?security=tls&allowInsecure=1#🇬🇧 AnixVPN | United Kingdom #5
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443/?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇨🇦 AnixVPN | Canada #6
+trojan://a877ccb0d44f416d@ggsg170.pacemakere.com:101?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggsg170.pacemakere.com#🇰🇷 AnixVPN | South Korea #7
+trojan://27396feac9d74bae@kh223.zxom.eu.org:100?security=tls#🇯🇵 AnixVPN | Japan #8
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls#🇦🇹 AnixVPN | Austria #9
