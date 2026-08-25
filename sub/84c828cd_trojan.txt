@@ -8,7 +8,7 @@ trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&ty
 trojan://c857562678594197@saj2000e.pacemakere.com:20063?security=tls#🇺🇸 AnixVPN | United States #2
 trojan://e9c4b07725ff4ad2@ikhk165.iamnew2020.top:20015?security=tls#🇭🇰 AnixVPN | Hong Kong #3
 trojan://humanity@www.speedtest.org:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #4
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇯🇵 AnixVPN | Japan #5
-trojan://27396feac9d74bae@kh223.zxom.eu.org:100?security=tls#🇺🇸 AnixVPN | United States #6
-trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls#🇮🇪 AnixVPN | Ireland #7
-trojan://58d1a580a3fc4a87@w192m.iamnew2020.top:99?security=tls#🇨🇿 AnixVPN | Czech Republic #8
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=tcp&security=tls&encryption=none&fp=edge&sni=russiapower.accesscam.org#🇪🇪 AnixVPN | Estonia #5
+trojan://27396feac9d74bae@kh223.zxom.eu.org:100?security=tls#🇦🇺 AnixVPN | Australia #6
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls#🇦🇹 AnixVPN | Austria #7
+trojan://58d1a580a3fc4a87@w192m.iamnew2020.top:99?security=tls#🇯🇵 AnixVPN | Japan #8
