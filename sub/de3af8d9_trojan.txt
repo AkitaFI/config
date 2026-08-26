@@ -4,4 +4,4 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#🇺🇸 AnixVPN | United States #1
+trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇫🇷 AnixVPN | France #1
