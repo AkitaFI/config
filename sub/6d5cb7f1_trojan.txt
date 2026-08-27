@@ -4,4 +4,4 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&fp=firefox#🇬🇧 AnixVPN | United Kingdom #1
+trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&fp=firefox#🇳🇱 AnixVPN | Netherlands #1
