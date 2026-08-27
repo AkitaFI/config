@@ -18,4 +18,4 @@ vless://0677abe4-24ff-f0e7-ed28-6287849d131a@69.46.46.40:443?path=%2Fws%2F0677ab
 vless://2e79f3ca-b8db-4d4d-a96e-8f7313480696@168.222.203.14:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺 AnixVPN | Russia #12
 vless://2b0858a4-e8c4-1381-6a73-292bd8b6b396@inetchnl-production-9556.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-9556.up.railway.app&path=/ws/2b0858a4-e8c4-1381-6a73-292bd8b6b396&sni=inetchnl-production-9556.up.railway.app&fp=chrome&alpn=h2,http/1.1,h3#🇺🇸 AnixVPN | United States #13
 vless://5d8fae5f-0427-4da3-99ab-242905fa5c69@fast.iqiraq.shop:443?security=tls&type=ws&fp=qq&alpn=h3%2Ch2%2Chttp%2F1.1#🇩🇪 AnixVPN | Germany #14
-vless://7ee53e03-96ed-4121-9da2-62f3d3374506@185.185.69.26:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇸🇪 AnixVPN | Sweden #15
+vless://7ee53e03-96ed-4121-9da2-62f3d3374506@185.185.69.26:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🇭🇰 AnixVPN | Hong Kong #15
