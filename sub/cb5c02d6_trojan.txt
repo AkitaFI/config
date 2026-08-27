@@ -5,4 +5,4 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇰🇿 AnixVPN | Kazakhstan #1
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&fp=firefox#🇬🇧 AnixVPN | United Kingdom #2
+trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&fp=firefox#🇭🇰 AnixVPN | Hong Kong #2
