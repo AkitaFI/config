@@ -78,7 +78,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.30:8880?security=none&ty
 vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?security=none&type=ws&path=%2Fsync&host=nahan-core.netizo09.workers.dev&packetEncoding=none#🇷🇺 AnixVPN | Russia #72
 vless://1ba59989-225e-4f1c-ab62-9bd7366009cb@5.35.12.222:22109?encryption=none&flow=xtls-rprx-vision&pbk=LKjl_OublHl2Y8DbIhVgkz7jwnJmzsHrjbes39cmdyQ&security=reality&sid=748d7aa53e2be16b&sni=www.cloudflare.com&type=tcp&fp=qq#🇺🇸 AnixVPN | United States #73
 vless://7b2ce6b0-6d2b-4926-b7bf-6247eb1a0050@188.225.47.234:4100?encryption=none&path=%2Fv1&security=none&type=ws#🇷🇺 AnixVPN | Russia #74
-vless://c90f26f0-5a20-4573-a31a-c27b3c96933e@154.83.246.52:443?type=tcp#🇮🇪 AnixVPN | Ireland #75
+vless://c90f26f0-5a20-4573-a31a-c27b3c96933e@154.83.246.52:443?type=tcp#🇵🇱 AnixVPN | Poland #75
 vless://2db92da9-8ffb-491b-81d6-6e8d50876020@www.speedtest.net:443?fp=chrome&host=bpb-01c11365.hjdbcvdbkv.workers.dev&path=%2FeyJqdW5rIjoiWlFRWlMwRDdLakVqMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=bpb-01c11365.hjdbcvdbkv.workers.dev&type=ws#🇷🇺 AnixVPN | Russia #76
 vless://50414e45-4c5f-5a45-5553-cea58e4acf49@104.18.43.36:80?path=%2Fapi%2Fws&security=none&encryption=none&insecure=0&host=web-app-aug8yr.app-f1qsy1.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=web-app-aug8yr.app-f1qsy1.workers.dev&fragment=tlshello%2C5%2C94%2C1%2C0&fragment2=1-1%2C109%2C1%2C1%2C355#🇷🇺 AnixVPN | Russia #77
 vless://06bfb14e-66cc-48ca-a429-b9301dba2f81@104.17.123.204:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&host=long-firefly-a226.216-ce0.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#🇷🇺 AnixVPN | Russia #78
