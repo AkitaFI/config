@@ -7,5 +7,5 @@
 trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 AnixVPN | France #1
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 AnixVPN | France #2
 trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0#🇫🇷 AnixVPN | France #3
-trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇨🇦 AnixVPN | Canada #4
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@kz2.techdatacloud.org:8443?type=tcp&security=reality&pbk=rX_EsbUNJAUJH4HUKyqAzxQx-4zoDj3vhmXj6q2tazQ&fp=firefox&sni=cloud.mail.ru&sid=7df51a98b9d98a7a&spx=%2F#🇨🇦 AnixVPN | Canada #5
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇫🇮 AnixVPN | Finland #4
+trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@kz2.techdatacloud.org:8443?type=tcp&security=reality&pbk=rX_EsbUNJAUJH4HUKyqAzxQx-4zoDj3vhmXj6q2tazQ&fp=firefox&sni=cloud.mail.ru&sid=7df51a98b9d98a7a&spx=%2F#🇳🇱 AnixVPN | Netherlands #5
