@@ -4,5 +4,5 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=www.vk.com&fp=chrome&allowInsecure=1&type=tcp&headerType=none#🇩🇪 AnixVPN | Germany #1
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@kz2.techdatacloud.org:8443?type=tcp&security=reality&pbk=rX_EsbUNJAUJH4HUKyqAzxQx-4zoDj3vhmXj6q2tazQ&fp=firefox&sni=cloud.mail.ru&sid=7df51a98b9d98a7a&spx=%2F#🇭🇰 AnixVPN | Hong Kong #2
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#🇫🇷 AnixVPN | France #1
+trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@kz2.techdatacloud.org:8443?type=tcp&security=reality&pbk=rX_EsbUNJAUJH4HUKyqAzxQx-4zoDj3vhmXj6q2tazQ&fp=firefox&sni=cloud.mail.ru&sid=7df51a98b9d98a7a&spx=%2F#🇳🇱 AnixVPN | Netherlands #2
