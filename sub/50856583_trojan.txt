@@ -4,13 +4,5 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://xhl549341@cf.090227.xyz:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=%2F%3Fed%3D2560#🇷🇺 AnixVPN | Russia #1
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#🇭🇰 AnixVPN | Hong Kong #2
-trojan://bpb-trojan@vless.herogoing.top:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=&type=ws&host=&path=%2Ftr%3Fed%3D2560#🇭🇰 AnixVPN | Hong Kong #3
-trojan://telegram-id-directvpn@18.190.73.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇹🇼 AnixVPN | Taiwan #4
-trojan://humanity@104.18.152.113:443?allowInsecure=1&sni=www.ignitelimit.com#🇭🇰 AnixVPN | Hong Kong #5
-trojan://telegram-id-privatevpns@18.134.53.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇹🇼 AnixVPN | Taiwan #6
-trojan://telegram-id-directvpn@35.182.17.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇹🇼 AnixVPN | Taiwan #7
-trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@app-538961.user-y0o4gm.workers.dev:443?type=ws&security=tls&path=%2F&sni=app-538961.user-y0o4gm.workers.dev&fp=chrome#🇭🇰 AnixVPN | Hong Kong #8
-trojan://73796e63-0000-4000-8000-000000000000@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2052?path=%2FeyJqdW5rIjoiYjNXNmtMdjh1ME8iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4Ijo2fQ%3D%3D&security=none&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev&fp=chrome&type=ws&sni=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#🇭🇰 AnixVPN | Hong Kong #9
-trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@kz2.techdatacloud.org:8443?type=tcp&security=reality&pbk=rX_EsbUNJAUJH4HUKyqAzxQx-4zoDj3vhmXj6q2tazQ&fp=firefox&sni=cloud.mail.ru&sid=7df51a98b9d98a7a&spx=%2F#🇫🇷 AnixVPN | France #10
+trojan://xhl549341@cf.090227.xyz:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=%2F%3Fed%3D2560#🇮🇪 AnixVPN | Ireland #1
+trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@kz2.techdatacloud.org:8443?type=tcp&security=reality&pbk=rX_EsbUNJAUJH4HUKyqAzxQx-4zoDj3vhmXj6q2tazQ&fp=firefox&sni=cloud.mail.ru&sid=7df51a98b9d98a7a&spx=%2F#🇩🇪 AnixVPN | Germany #2
