@@ -6,4 +6,4 @@
 
 trojan://humanity@www.speedtest.org:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #1
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #2
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&fp=firefox#🇨🇭 AnixVPN | Switzerland #3
+trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&fp=firefox#🇵🇱 AnixVPN | Poland #3
