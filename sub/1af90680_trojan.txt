@@ -4,12 +4,5 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:20065?allowInsecure=1&fp=chrome&sni=www.microsoft.com#🇺🇸 AnixVPN | United States #1
-trojan://humanity@104.18.152.229:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇧🇷 AnixVPN | Brazil #2
-trojan://8r%253C%255B9%2527l6hAO%25238ZQi@98.96.231.180:443?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🇪🇸 AnixVPN | Spain #3
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:59385?allowInsecure=1&fp=chrome&sni=us01.duotg.top#🇺🇸 AnixVPN | United States #4
-trojan://i99Cef@207.246.97.36:29739?allowInsecure=1&sni=download.windowsupdate.com#🇩🇪 AnixVPN | Germany #5
-trojan://6d0a7f2f-c26c-466a-8f90-d6630ba97928@137.184.120.86:443?type=tcp&security=tls&sni=829D7BDE-64B9-E759-C661-78BC73E582A0.1c2871ba-6025-61e2-e87f-a5c9e0ac8c1d.9d8f269f96b25232-759cbb36d6548597.kaufen&alpn=http/1.1&allowInsecure=1&fp=chrome#🇹🇼 AnixVPN | Taiwan #6
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:20065?sni=www.microsoft.com&allowInsecure=1&type=tcp&fp=chrome#🇺🇸 AnixVPN | United States #7
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?security=tls&sni=www.microsoft.com#🇨🇭 AnixVPN | Switzerland #8
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:8080?security=none&type=ws&host=id1.nathaya.web.id&path=%2Ftrojan&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%221%22%5D%2C%20%22delays%22%3A%20%5B%224%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#🇮🇩 AnixVPN | Indonesia #9
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #1
+trojan://humanity@www.speedtest.org:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #2
