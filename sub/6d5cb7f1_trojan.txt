@@ -8,4 +8,4 @@ trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&
 trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #2
 trojan://humanity@www.ignitelimit.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fassignment#🇫🇷 AnixVPN | France #3
 trojan://humanity@www.speedtest.org:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #4
-trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&fp=firefox#🇨🇿 AnixVPN | Czech Republic #5
+trojan://M7v%w11Se*@hyfuuf6.wsone.icu:443?type=tcp&security=tls&fp=firefox#🇰🇷 AnixVPN | South Korea #5
