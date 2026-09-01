@@ -4,4 +4,4 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://humanity@213.182.199.137:443?encryption=none&type=ws&security=tls&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&alpn=http%2F1.1&allowInsecure=1&fp=qq#🇦🇹 AnixVPN | Austria #1
+trojan://humanity@213.182.199.137:443?encryption=none&type=ws&security=tls&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&alpn=http%2F1.1&allowInsecure=1&fp=qq#🇨🇿 AnixVPN | Czech Republic #1
