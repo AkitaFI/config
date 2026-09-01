@@ -4,10 +4,10 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fp=android#🇫🇷 AnixVPN | France #1
-trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#🇫🇷 AnixVPN | France #2
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #1
+trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fp=android#🇫🇷 AnixVPN | France #2
 trojan://humanity@www.ignitelimit.com:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #3
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #4
+trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#🇫🇷 AnixVPN | France #4
 trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #5
-trojan://fhdufiydsgfiusdfg@188.68.58.148:3320?security=tls&fp=firefox&sni=potyjnometr.gayvibe.dpdns.org&alpn=http/1.1#🇸🇪 AnixVPN | Sweden #6
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=android#🇨🇿 AnixVPN | Czech Republic #7
+trojan://fhdufiydsgfiusdfg@188.68.58.148:3320?security=tls&fp=firefox&sni=potyjnometr.gayvibe.dpdns.org&alpn=http/1.1#🇺🇸 AnixVPN | United States #6
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=android#🇨🇭 AnixVPN | Switzerland #7
