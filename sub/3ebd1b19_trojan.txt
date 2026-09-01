@@ -4,6 +4,6 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://fhdufiydsgfiusdfg@188.68.58.148:3320?security=tls&fp=firefox&sni=potyjnometr.gayvibe.dpdns.org&alpn=http/1.1#🇩🇪 AnixVPN | Germany #1
-trojan://humanity@213.182.199.137:443?encryption=none&type=ws&security=tls&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&alpn=http%2F1.1&allowInsecure=1&fp=qq#🇳🇴 AnixVPN | Norway #2
-trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇭🇰 AnixVPN | Hong Kong #3
+trojan://fhdufiydsgfiusdfg@188.68.58.148:3320?security=tls&fp=firefox&sni=potyjnometr.gayvibe.dpdns.org&alpn=http/1.1#🇫🇮 AnixVPN | Finland #1
+trojan://humanity@213.182.199.137:443?encryption=none&type=ws&security=tls&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&alpn=http%2F1.1&allowInsecure=1&fp=qq#🇺🇸 AnixVPN | United States #2
+trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#🇰🇷 AnixVPN | South Korea #3
