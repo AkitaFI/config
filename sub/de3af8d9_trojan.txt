@@ -7,4 +7,4 @@
 trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@at-lb-rtt.netzrun.at:5222?security=tls&sni=at-lb-rtt.netzrun.at&fp=firefox#🇦🇹 AnixVPN | Austria #1
 trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls&alpn=http/1.1&fp=firefox#🇬🇧 AnixVPN | United Kingdom #2
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #3
-trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=android#🇧🇪 AnixVPN | Belgium #4
+trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=android#🇰🇷 AnixVPN | South Korea #4
