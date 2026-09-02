@@ -5,5 +5,5 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #1
-trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=qq#🇨🇦 AnixVPN | Canada #2
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=qq#🇩🇪 AnixVPN | Germany #2
 trojan://2e5502fe-a951-4b2f-90fb-3570c8e18b98@kz2.techdatacloud.org:8443?type=tcp&security=reality&pbk=rX_EsbUNJAUJH4HUKyqAzxQx-4zoDj3vhmXj6q2tazQ&fp=firefox&sni=cloud.mail.ru&sid=7df51a98b9d98a7a&spx=%2F#🇩🇪 AnixVPN | Germany #3
