@@ -6,7 +6,7 @@
 
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🇫🇮 AnixVPN | Finland #1
 trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 AnixVPN | Netherlands #2
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:8080?security=none&type=ws&host=id1.nathaya.web.id&path=%2Ftrojan&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%221%22%5D%2C%20%22delays%22%3A%20%5B%224%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#🇮🇩 AnixVPN | Indonesia #3
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls#🇬🇧 AnixVPN | United Kingdom #4
-trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇫🇷 AnixVPN | France #5
-trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#🇧🇪 AnixVPN | Belgium #6
+trojan://humanity@www.ignitelimit.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fassignment#🇫🇷 AnixVPN | France #3
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls#🇰🇷 AnixVPN | South Korea #4
+trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇵🇱 AnixVPN | Poland #5
+trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#🇸🇪 AnixVPN | Sweden #6
