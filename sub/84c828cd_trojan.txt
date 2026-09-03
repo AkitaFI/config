@@ -24,6 +24,6 @@ trojan://telegram-id-privatevpns@13.50.216.167:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@54.77.127.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇹🇼 AnixVPN | Taiwan #18
 trojan://50414e45-4c5f-5a45-5553-05920b4f8f35@o5zmxbeoutis.o7zluiebuo8s.workers.dev:2096?security=tls&sni=o5zmxbeoutis.o7zluiebuo8s.workers.dev&fp=unsafe&insecure=0&allowInsecure=0&type=ws&host=o5zmxbeoutis.o7zluiebuo8s.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F05920b4f8f35#🇭🇰 AnixVPN | Hong Kong #19
 trojan://AE62539071@balanced-goat.rooster465.autos:443?security=tls#🇷🇺 AnixVPN | Russia #20
-trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#🇺🇸 AnixVPN | United States #21
-trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇰🇷 AnixVPN | South Korea #22
-trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇺🇸 AnixVPN | United States #23
+trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#🇫🇮 AnixVPN | Finland #21
+trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇬🇧 AnixVPN | United Kingdom #22
+trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇬🇧 AnixVPN | United Kingdom #23
