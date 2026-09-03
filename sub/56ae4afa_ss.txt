@@ -5,4 +5,17 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.246.111:5498#🇺🇸 AnixVPN | United States #1
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#🇵🇭 AnixVPN | Philippines #2
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇧🇷 AnixVPN | Brazil #2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#🇷🇺 AnixVPN | Russia #3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090#🇫🇷 AnixVPN | France #4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#🇬🇧 AnixVPN | United Kingdom #5
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 AnixVPN | Japan #6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388#🇩🇪 AnixVPN | Germany #7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#🇯🇵 AnixVPN | Japan #8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#🇯🇵 AnixVPN | Japan #9
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979#🇯🇵 AnixVPN | Japan #10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#🇩🇪 AnixVPN | Germany #11
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#🇩🇪 AnixVPN | Germany #12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#🇩🇪 AnixVPN | Germany #13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#🇷🇺 AnixVPN | Russia #14
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#🇨🇦 AnixVPN | Canada #15
