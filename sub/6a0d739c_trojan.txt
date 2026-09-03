@@ -20,6 +20,6 @@ trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?path=%2Ftrojan&se
 trojan://73796e63-0000-4000-8000-000000000000@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2052?path=/eyJqdW5rIjoiYjNXNmtMdjh1ME8iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4Ijo2fQ==&security=none&host=&fp=chrome&type=ws&sni=#🇭🇰 AnixVPN | Hong Kong #14
 trojan://50414e45-4c5f-5a45-5553-eeb34b317c4f@rxziwiequtss.o7zluiebuo8s.workers.dev:443?security=tls&sni=rxziwiequtss.o7zluiebuo8s.workers.dev&fp=unsafe&insecure=0&allowInsecure=0&type=ws&host=rxziwiequtss.o7zluiebuo8s.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Feeb34b317c4f#🇭🇰 AnixVPN | Hong Kong #15
 trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇫🇷 AnixVPN | France #16
-trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#🇰🇷 AnixVPN | South Korea #17
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🇫🇷 AnixVPN | France #18
-trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇨🇦 AnixVPN | Canada #19
+trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#🇳🇴 AnixVPN | Norway #17
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🇸🇪 AnixVPN | Sweden #18
+trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇦🇺 AnixVPN | Australia #19
