@@ -11,7 +11,7 @@ trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&
 trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#🇫🇷 AnixVPN | France #5
 trojan://humanity@www.speedtest.org:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#🇫🇷 AnixVPN | France #6
 trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fp=android#🇫🇷 AnixVPN | France #7
-trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?type=tcp&security=tls&fp=android&sni=hu2.vpnjantit.com&allow_insecure=0#🇭🇰 AnixVPN | Hong Kong #8
-trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇸🇪 AnixVPN | Sweden #9
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=xn--1ugy405pdua.gayvibe.dpdns.org&alpn=http%2F1.1&fp=firefox#🇩🇪 AnixVPN | Germany #10
-trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=android#🇦🇺 AnixVPN | Australia #11
+trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?type=tcp&security=tls&fp=android&sni=hu2.vpnjantit.com&allow_insecure=0#🇺🇸 AnixVPN | United States #8
+trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇩🇪 AnixVPN | Germany #9
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=xn--1ugy405pdua.gayvibe.dpdns.org&alpn=http%2F1.1&fp=firefox#🇫🇷 AnixVPN | France #10
+trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=android#🇰🇷 AnixVPN | South Korea #11
