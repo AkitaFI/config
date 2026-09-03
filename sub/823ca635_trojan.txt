@@ -4,14 +4,8 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://a68f2c6c-3525-4050-9129-8759e4327660@43.165.185.191:50000?sni=jp200m.jiasu.asia&allowInsecure=1&type=tcp&fp=chrome#🇳🇱 AnixVPN | Netherlands #1
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🇫🇮 AnixVPN | Finland #2
-trojan://Telegram_healer_config@104.21.70.21:8080?security=none&type=ws&host=47hr9isj-655383snd63hjap38q6t.k-f3vpqaltfsxbtaxe.workers.dev&path=%2Ftr%2Fkp0IOvZwWV0X35ln0vIh%3Fed%3D2560&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%221%22%5D%2C%20%22delays%22%3A%20%5B%224%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#🇸🇪 AnixVPN | Sweden #3
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls&alpn=http/1.1&fp=firefox#🇬🇧 AnixVPN | United Kingdom #4
-trojan://EQ30679154@nearby-cod.rooster465.autos:443?security=tls#🇹🇷 AnixVPN | Turkey #5
-trojan://EQ30679154@curious-llama.rooster465.autos:443?type=tcp&security=tls&sni=curious-llama.rooster465.autos&fp=chrome#🇯🇵 AnixVPN | Japan #6
-trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#🇫🇷 AnixVPN | France #7
-trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fp=android#🇫🇷 AnixVPN | France #8
-trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#🇭🇺 AnixVPN | Hungary #9
-trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇮🇪 AnixVPN | Ireland #10
-trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=android#🇭🇷 AnixVPN | Croatia #11
+trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0#🇫🇷 AnixVPN | France #1
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls#🇫🇷 AnixVPN | France #2
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🇨🇿 AnixVPN | Czech Republic #3
+trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇨🇦 AnixVPN | Canada #4
+trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=android#🇵🇱 AnixVPN | Poland #5
