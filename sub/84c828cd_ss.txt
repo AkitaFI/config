@@ -1,12 +1,8 @@
 #profile-user-id: 99170942
-#profile-title: Anix VPN - ShadowSocks 🕊️
-#profile-update-interval: 6
+#profile-title: Заблокированная подписка 
+#profile-update-interval: 12
 #support-url: https://t.me/AnixCompany
-#announce: TG: @AnixCompany Link: anix-com.ru
-
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.246.111:5498#🇺🇸 AnixVPN | United States #1
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.104.107.41:8090#🇨🇴 AnixVPN | Colombia #2
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🇺🇸 AnixVPN | United States #3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#🇬🇧 AnixVPN | United Kingdom #4
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#🇺🇸 AnixVPN | United States #5
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#🇨🇦 AnixVPN | Canada #6
+#announce: TG: Ваша подписка заблокирована!
+Причина: не указана
+Срок: навсегда
+Для разблокировки перейдите в бота @AnixVPN_robot и напишите /confirm 99170942
