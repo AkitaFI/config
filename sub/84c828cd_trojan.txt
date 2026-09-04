@@ -4,4 +4,4 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fp=android#🇫🇷 AnixVPN | France #1
+trojan://5359fe596ea94fc89e7086c91f382ad6@fgsgsffbghjbdfhjhbs.german.snapeurop.com:8880?path=%2F&security=none&host=ads.mohsen3.ir&type=ws#🇳🇱 AnixVPN | Netherlands #1
