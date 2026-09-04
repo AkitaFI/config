@@ -9,4 +9,4 @@ trojan://73796e63-0000-4000-8000-000000000000@vqrlof-pwa5a7-onfjlv.zedbazi061.wo
 trojan://5359fe596ea94fc89e7086c91f382ad6@34hru34f9wrui.tr.snapeurop.com:4422?path=%2F&security=none&host=ads.mohsen3.ir&type=ws#🇹🇷 AnixVPN | Turkey #3
 trojan://xhl549341@172.64.145.158:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#🇷🇺 AnixVPN | Russia #4
 trojan://xhl549341@cf.090227.xyz:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=%2F%3Fed%3D2560#🇷🇺 AnixVPN | Russia #5
-trojan://xhl549341@104.18.42.98:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#🇧🇪 AnixVPN | Belgium #6
+trojan://xhl549341@104.18.42.98:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#🇺🇸 AnixVPN | United States #6
