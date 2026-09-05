@@ -4,3 +4,6 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
+trojan://sa1t0t6rz6zbjlcs@uwu.blueknightnet.qzz.io:2087?alpn=h2&fp=chrome&host=uwu.dianaw.cc.cd&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&security=tls&sni=uwu.dianaw.cc.cd&type=ws#🇩🇪 AnixVPN | Germany #1
+trojan://humanity@185.75.243.102:443?path=/assignment&security=tls&alpn=h3,+h2,+http/1.1&fm={"tcp":[{"settings":{"delay":"0-1","length":"3","packets":"tlshello"},"type":"fragment"}]}&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 AnixVPN | France #2
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.83.135:443?type=ws&host=id1.nathaya.web.id&path=/trojan&security=tls&sni=id1.nathaya.web.id&allowInsecure=1#🇸🇬 AnixVPN | Singapore #3
