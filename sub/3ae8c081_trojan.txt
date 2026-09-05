@@ -4,5 +4,6 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://8f8c79fe-02b8-4a46-8cb6-657f7b130a17@hk200m.jiasu.asia:50000?security=tls#🇭🇰 AnixVPN | Hong Kong #1
-trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fp=android#🇫🇷 AnixVPN | France #2
+trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fp=android#🇫🇷 AnixVPN | France #1
+trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@151.236.114.140:8444?security=tls&sni=eenode121.velox-network.org&alpn=h2%2Chttp/1.1&fp=firefox#🇷🇺 AnixVPN | Russia #2
+trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@185.91.52.139:6443?security=tls&sni=ice.velox-network.org&alpn=h2%2Chttp/1.1&fp=firefox#🇷🇺 AnixVPN | Russia #3
