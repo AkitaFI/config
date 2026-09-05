@@ -4,7 +4,7 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@31.76.104.200:8443/?sni=speedtestmark.com#🇭🇰 AnixVPN | Hong Kong #1
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@87.251.19.13:8443/?sni=speedtestmark.com#🇨🇿 AnixVPN | Czech Republic #2
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@31.76.104.202:8443/?sni=speedtestmark.com#🇱🇻 AnixVPN | Latvia #1
+hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@87.251.19.13:8443/?sni=speedtestmark.com#🇪🇪 AnixVPN | Estonia #2
 hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@45.145.43.56:8443/?sni=speedtestmark.com#🇩🇪 AnixVPN | Germany #3
 hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@80.86.215.17:8443/?sni=speedtestmark.com#🇳🇱 AnixVPN | Netherlands #4
