@@ -4,15 +4,30 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@185.91.52.139:6443?security=tls&sni=ice.velox-network.org&alpn=h2%2Chttp/1.1&fp=firefox#🇬🇧 AnixVPN | United Kingdom #1
-trojan://xhl549341@104.18.42.98:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#🇷🇺 AnixVPN | Russia #2
-trojan://73796e63-0000-4000-8000-000000000000@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2052?path=%2FeyJqdW5rIjoiYjNXNmtMdjh1ME8iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4Ijo2fQ%3D%3D&security=none&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev&fp=chrome&type=ws&sni=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev#🇸🇪 AnixVPN | Sweden #3
-trojan://c0c17d1da2c2c9299d5094c8@ez-3e9698.ezaccess1ec1f0c.workers.dev:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=ez-3e9698.ezaccess1ec1f0c.workers.dev&path=/eyJqdW5rIjoiMDdteWJvazY4azJ3MiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&type=ws#🇸🇪 AnixVPN | Sweden #4
-trojan://xhl549341@cf.090227.xyz:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=%2F%3Fed%3D2560#🇷🇺 AnixVPN | Russia #5
-trojan://50414e45-4c5f-5a45-5553-05920b4f8f35@o5zmxbeoutis.o7zluiebuo8s.workers.dev:2096?security=tls&sni=o5zmxbeoutis.o7zluiebuo8s.workers.dev&fp=unsafe&insecure=0&allowInsecure=0&type=ws&host=o5zmxbeoutis.o7zluiebuo8s.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F05920b4f8f35#🇸🇪 AnixVPN | Sweden #6
-trojan://50414e45-4c5f-5a45-5553-eeb34b317c4f@rxziwiequtss.o7zluiebuo8s.workers.dev:443?security=tls&sni=rxziwiequtss.o7zluiebuo8s.workers.dev&fp=unsafe&insecure=0&allowInsecure=0&type=ws&host=rxziwiequtss.o7zluiebuo8s.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Feeb34b317c4f#🇸🇪 AnixVPN | Sweden #7
-trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@app-538961.user-y0o4gm.workers.dev:443?type=ws&security=tls&path=%2F&sni=app-538961.user-y0o4gm.workers.dev&fp=chrome#🇸🇪 AnixVPN | Sweden #8
-trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fp=android#🇫🇷 AnixVPN | France #9
-trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@151.236.114.140:8444?security=tls&sni=eenode121.velox-network.org&alpn=h2%2Chttp/1.1&fp=firefox#🇩🇪 AnixVPN | Germany #10
-trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@31.129.42.164:6443?security=tls&sni=node111.ichost.cloud&alpn=h2%2Chttp/1.1&fp=firefox#🇨🇿 AnixVPN | Czech Republic #11
-trojan://xhl549341@172.64.145.158:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#🇮🇪 AnixVPN | Ireland #12
+trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&alpn=http/1.1&fp=android&insecure=1&security=tls&sni=speedtest.tinkoff.ru&type=tcp#🇷🇺 AnixVPN | Russia #1
+trojan://AE62539071@frank-frog.rooster465.autos:443?security=tls#🇸🇪 AnixVPN | Sweden #2
+trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@151.236.114.140:8444?security=tls&sni=eenode121.velox-network.org&alpn=h2%2Chttp/1.1&fp=firefox#🇳🇱 AnixVPN | Netherlands #3
+trojan://FH72359861@grateful-leech.rooster465.autos:443?security=tls#🇷🇺 AnixVPN | Russia #4
+trojan://I0shjZ@xxxmg1.xiaoliebao.club:4433?type=raw&headertype=none&security=tls&sni=xxxmg1.xiaoliebao.club#🇸🇪 AnixVPN | Sweden #5
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=172.236.220.10#🇩🇪 AnixVPN | Germany #6
+trojan://73796e63-0000-4000-8000-000000000000@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2052?path=/eyJqdW5rIjoiYjNXNmtMdjh1ME8iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W10sInJlbGF5SWR4Ijo2fQ==&security=none&host=&fp=chrome&type=ws&sni=#🇸🇪 AnixVPN | Sweden #7
+trojan://xhl549341@188.114.97.6:443?security=tls&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560&sni=tro.baiyi.cloudns.org&alpn=h3&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={#🇸🇪 AnixVPN | Sweden #8
+trojan://FH72359861@cunning-grub.rooster465.autos:443?security=tls#🇸🇪 AnixVPN | Sweden #9
+trojan://AE62539071@safe-frog.rooster465.autos:443?type=tcp&security=tls&sni=safe-frog.rooster465.autos&fp=chrome#🇺🇸 AnixVPN | United States #10
+trojan://xhl549341@cf.090227.xyz:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=%2F%3Fed%3D2560#🇷🇺 AnixVPN | Russia #11
+trojan://6ec301428255a78a1d826988d86cc87e@18.162.125.164:50887?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇸🇪 AnixVPN | Sweden #12
+trojan://AE62539071@charmed-fly.rooster465.autos:443?security=tls#🇸🇪 AnixVPN | Sweden #13
+trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@app-538961.user-y0o4gm.workers.dev:443?type=ws&security=tls&path=%2F&sni=app-538961.user-y0o4gm.workers.dev&fp=chrome#🇸🇪 AnixVPN | Sweden #14
+trojan://50414e45-4c5f-5a45-5553-eeb34b317c4f@rxziwiequtss.o7zluiebuo8s.workers.dev:443?security=tls&sni=rxziwiequtss.o7zluiebuo8s.workers.dev&fp=unsafe&insecure=0&allowInsecure=0&type=ws&host=rxziwiequtss.o7zluiebuo8s.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Feeb34b317c4f#🇸🇪 AnixVPN | Sweden #15
+trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#🇺🇸 AnixVPN | United States #16
+trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸 AnixVPN | United States #17
+trojan://FH72359861@adapting-giraffe.rooster465.autos:443?security=tls#🇸🇬 AnixVPN | Singapore #18
+trojan://FH72359861@equal-labrador.rooster465.autos:443?security=tls#🇺🇸 AnixVPN | United States #19
+trojan://AE62539071@massive-terrapin.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=massive-terrapin.rooster465.autos#🇺🇸 AnixVPN | United States #20
+trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@185.91.52.139:6443?security=tls&sni=ice.velox-network.org&alpn=h2%2Chttp%2F1.1&fp=qq#🇬🇧 AnixVPN | United Kingdom #21
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#🇸🇪 AnixVPN | Sweden #22
+trojan://humanity@104.16.174.44:443?host=www.ignitelimit.com&path=%2F%252Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇸🇪 AnixVPN | Sweden #23
+trojan://50414e45-4c5f-5a45-5553-05920b4f8f35@o5zmxbeoutis.o7zluiebuo8s.workers.dev:2087?security=tls&sni=o5zmxbeoutis.o7zluiebuo8s.workers.dev&fp=unsafe&insecure=0&allowInsecure=0&type=ws&host=o5zmxbeoutis.o7zluiebuo8s.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F05920b4f8f35#🇸🇪 AnixVPN | Sweden #24
+trojan://8f8c79fe-02b8-4a46-8cb6-657f7b130a17@hk200m.jiasu.asia:50000?security=tls#🇭🇰 AnixVPN | Hong Kong #25
+trojan://xhl549341@104.18.42.98:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#🇸🇬 AnixVPN | Singapore #26
+trojan://xhl549341@172.64.145.158:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#🇧🇪 AnixVPN | Belgium #27
