@@ -4,5 +4,5 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://8PdP6XW-UrZnB6he7hy9macKXmrA7jdm@46.8.210.44:443?security=tls&sni=de-cz.secured-by-tenzo.sbs&alpn=h2%2Chttp/1.1&fp=firefox#🇷🇺 AnixVPN | Russia #1
-trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇬🇧 AnixVPN | United Kingdom #2
+trojan://8PdP6XW-UrZnB6he7hy9macKXmrA7jdm@46.8.210.44:443?security=tls&sni=de-cz.secured-by-tenzo.sbs&alpn=h2%2Chttp/1.1&fp=firefox#🇦🇹 AnixVPN | Austria #1
+trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇫🇷 AnixVPN | France #2
