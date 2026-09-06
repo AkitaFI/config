@@ -7,5 +7,5 @@
 trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@xn--memeshupshop-vl56koa410enom.rekmiva.ir:1080?security=reality&sni=updates.cdn-apple.com&fp=chrome&pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&sid=0d12eb289946de9b&type=tcp&headerType=none#🇩🇪 AnixVPN | Germany #1
 trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment&fp=android#🇫🇷 AnixVPN | France #2
 trojan://8f8c79fe-02b8-4a46-8cb6-657f7b130a17@hk200m.jiasu.asia:50000?security=tls#🇭🇰 AnixVPN | Hong Kong #3
-trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@151.236.114.140:8444?security=tls&sni=eenode121.velox-network.org&alpn=h2%2Chttp/1.1&fp=firefox#🇨🇿 AnixVPN | Czech Republic #4
-trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@185.91.52.139:6443?security=tls&sni=ice.velox-network.org&alpn=h2%2Chttp/1.1&fp=firefox#🇦🇹 AnixVPN | Austria #5
+trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@151.236.114.140:8444?security=tls&sni=eenode121.velox-network.org&alpn=h2%2Chttp/1.1&fp=firefox#🇺🇸 AnixVPN | United States #4
+trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@185.91.52.139:6443?security=tls&sni=ice.velox-network.org&alpn=h2%2Chttp/1.1&fp=firefox#🇮🇪 AnixVPN | Ireland #5
