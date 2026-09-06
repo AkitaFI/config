@@ -10,5 +10,5 @@ trojan://humanity@104.19.229.21:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozarg
 trojan://humanity@104.16.174.109:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 AnixVPN | France #4
 trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🇫🇷 AnixVPN | France #5
 trojan://humanity@104.17.111.4:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 AnixVPN | France #6
-trojan://8PdP6XW-UrZnB6he7hy9macKXmrA7jdm@46.8.210.44:443?security=tls&sni=de-cz.secured-by-tenzo.sbs&alpn=h2%2Chttp/1.1&fp=firefox#🇳🇱 AnixVPN | Netherlands #7
-trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇭🇰 AnixVPN | Hong Kong #8
+trojan://8PdP6XW-UrZnB6he7hy9macKXmrA7jdm@46.8.210.44:443?security=tls&sni=de-cz.secured-by-tenzo.sbs&alpn=h2%2Chttp/1.1&fp=firefox#🇰🇷 AnixVPN | South Korea #7
+trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇺🇸 AnixVPN | United States #8
