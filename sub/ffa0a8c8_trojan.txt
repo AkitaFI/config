@@ -4,3 +4,5 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
+trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@littoral.appagent.net:443?type=raw&security=tls&fp=ios#🇺🇸 AnixVPN | United States #1
+trojan://humanity@212.227.144.37:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 AnixVPN | France #2
