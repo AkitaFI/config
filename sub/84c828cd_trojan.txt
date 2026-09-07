@@ -4,3 +4,5 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
+trojan://telegram-id-directvpn@15.156.252.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸 AnixVPN | United States #1
+trojan://telegram-id-directvpn@3.17.88.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇺🇸 AnixVPN | United States #2
