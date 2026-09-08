@@ -5,7 +5,7 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://7a97f64d-5fc7-4011-9028-58d2ba751595@defaultenginedimly.rivetpress.me:443?type=tcp&headerType=none&security=reality&encryption=none&sni=defaultenginedimly.rivetpress.me&pbk=niL0fb-4IaVHr5VCg2yN_5wDTNYEq9W8wi7pDWLPcVg&sid=7505bfa3b6b933e6&flow=xtls-rprx-vision&fp=ios#🇨🇦 WhiteList | Canada #2
+vless://7a97f64d-5fc7-4011-9028-58d2ba751595@defaultenginedimly.rivetpress.me:443?type=tcp&headerType=none&security=reality&encryption=none&sni=defaultenginedimly.rivetpress.me&pbk=niL0fb-4IaVHr5VCg2yN_5wDTNYEq9W8wi7pDWLPcVg&sid=7505bfa3b6b933e6&flow=xtls-rprx-vision&fp=ios#🇸🇪 WhiteList | Sweden #2
 vless://7a97f64d-5fc7-4011-9028-58d2ba751595@cribkisserevict.indigoyarn.art:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cribkisserevict.indigoyarn.art&pbk=ruLdcX4DDyrZGzDhy4Da87fULoIZs5wbpESDpTbALQw&sid=7afc7016631aa46a&flow=xtls-rprx-vision&fp=qq#🇷🇺 WhiteList | Russia #3
 vless://d0b8c59c-80ad-4116-9093-1d57cf86bc0b@185.178.208.176:443?alpn=h3%2Ch2&encryption=none&fp=chrome&host=founders-blog.online&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=founders-blog.online&type=ws#🇷🇺 WhiteList | Russia #4
 vless://3155cd70-cd6c-45eb-8f4a-2bbce034e82d@185.229.9.236:43005?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tP_mtYuA3fZq8C6WatAA4TmDv0_Wigq9xYcmb5UsTRA&security=reality&sid=93653ee07ff5124c&sni=max.ru&spx=%2F&type=raw#🇷🇺 WhiteList | Russia #5
