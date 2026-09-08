@@ -5,7 +5,7 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://f5f4174a-1605-45a4-84d8-bf96576e2b27@95.129.236.216:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=cdnguard.org&path=%2Forigin%2F190546791%2Ffetch&security=tls&sni=cdnguard.org&type=ws#🇯🇵 WhiteList | Japan #2
+vless://f5f4174a-1605-45a4-84d8-bf96576e2b27@95.129.236.216:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=cdnguard.org&path=%2Forigin%2F190546791%2Ffetch&security=tls&sni=cdnguard.org&type=ws#🇵🇱 WhiteList | Poland #2
 vless://e6883004-0b55-4463-b6e4-eeff23549965@185.229.9.236:43005?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tP_mtYuA3fZq8C6WatAA4TmDv0_Wigq9xYcmb5UsTRA&security=reality&sid=93653ee07ff5124c&sni=max.ru&spx=%2F&type=raw#🇷🇺 WhiteList | Russia #3
 vless://f2823fde-85e3-4b4d-ac3e-3d165f0f7190@185.178.208.176:443?alpn=h3%2Ch2&encryption=none&fp=chrome&host=founders-blog.online&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=founders-blog.online&type=ws#🇷🇺 WhiteList | Russia #4
 vless://4e358a16-f113-4779-8691-d88acd1d2395@201.24.117.25:19210?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rvcGpldftiQ1_SD8XFNLq2L9VkU0yME0YYgTw6guHhE&security=reality&sid=5b&sni=travel.yandex.com&type=raw#🇷🇺 WhiteList | Russia #5
