@@ -5,9 +5,3 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://4d191b82-ac44-493c-ab0c-e3e6b01c40c6@media-6.fast-cone.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=media-6.fast-cone.com&pbk=R-eIzSBCe8yNkwo7YA9nJOUzhbuCKNyp2odJeQ0ANSE&sid=5a0f484e41f8dfc7&spx=%2F&flow=xtls-rprx-vision&fp=safari#🇩🇪 WhiteList | Germany #2
-vless://4d191b82-ac44-493c-ab0c-e3e6b01c40c6@159.194.201.203:443?encryption=none&flow=xtls-rprx-vision&pbk=R-eIzSBCe8yNkwo7YA9nJOUzhbuCKNyp2odJeQ0ANSE&security=reality&sid=5a0f484e41f8dfc7&sni=media-6.fast-cone.com&type=tcp&fp=edge#🇷🇺 WhiteList | Russia #3
-vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@193.124.125.183:443?alpn=h2&encryption=none&security=tls&serviceName=trgrpc&sni=one.sream-video.shop&type=grpc&fp=chrome#🇷🇺 WhiteList | Russia #4
-vless://237f91bf-102e-4077-8cc3-baebccb42936@85.198.70.200:14406?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&security=reality&sid=1a2b3c4d5e6f7a8b&sni=vk.ru&type=raw#🇷🇺 WhiteList | Russia #5
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 WhiteList | Russia #6
-vless://476d23b8-ab0e-4297-aebf-2c373f7538f0@87.228.101.117:443?encryption=none&flow=xtls-rprx-vision&pbk=5t2xCnbbtl19V3Ec5Hip3HPEE3jGPlp3TAYtpjYBFGc&security=reality&sid=c3b8c6bfc38a5883&sni=api-maps.yandex.ru&type=tcp&fp=qq#🇷🇺 WhiteList | Russia #7
