@@ -6,4 +6,3 @@
 
 trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@littoral.appagent.net:443?security=tls&fp=ios#🇺🇸 AnixVPN | United States #1
 trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🇫🇮 AnixVPN | Finland #2
-trojan://xhl549341@104.18.42.98:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#🇦🇺 AnixVPN | Australia #3
