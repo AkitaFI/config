@@ -5,7 +5,7 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://7a97f64d-5fc7-4011-9028-58d2ba751595@cribkisserevict.indigoyarn.art:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cribkisserevict.indigoyarn.art&pbk=ruLdcX4DDyrZGzDhy4Da87fULoIZs5wbpESDpTbALQw&sid=7afc7016631aa46a&flow=xtls-rprx-vision&fp=ios#🇮🇪 WhiteList | Ireland #2
+vless://7a97f64d-5fc7-4011-9028-58d2ba751595@cribkisserevict.indigoyarn.art:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cribkisserevict.indigoyarn.art&pbk=ruLdcX4DDyrZGzDhy4Da87fULoIZs5wbpESDpTbALQw&sid=7afc7016631aa46a&flow=xtls-rprx-vision&fp=ios#🇨🇦 WhiteList | Canada #2
 vless://4e358a16-f113-4779-8691-d88acd1d2395@201.24.117.25:19210?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rvcGpldftiQ1_SD8XFNLq2L9VkU0yME0YYgTw6guHhE&security=reality&sid=5b&sni=travel.yandex.com&type=raw#🇷🇺 WhiteList | Russia #3
 vless://cd665a2d-459d-4a04-b5e0-41f9bec62cb9@185.178.208.176:443?alpn=h3%2Ch2&encryption=none&fp=chrome&host=founders-blog.online&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=founders-blog.online&type=ws#🇷🇺 WhiteList | Russia #4
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@185.22.235.203:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Af5z1nqUp0NV9zY4hEtB66G1Df1vzs0TzX-ttU9BPA8&security=reality&sni=dvc.cloudvk.cc&type=raw#🇷🇺 WhiteList | Russia #5
