@@ -5,3 +5,10 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@78.159.247.205:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NsTRRl4ofT64w0VwmkpOWE8yfiXLcEqgwgi-9SGnXTA&security=reality&sid=a1b2c3d4&sni=kinopoisk.ru&type=raw#🇮🇪 WhiteList | Ireland #2
+vless://add2ff78-1724-49aa-80ee-7369e586fc88@95.129.236.216:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=cdnguard.org&path=%2Forigin%2F190546791%2Ffetch&security=tls&sni=cdnguard.org&type=ws#🇷🇺 WhiteList | Russia #3
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@78.159.247.214:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NsTRRl4ofT64w0VwmkpOWE8yfiXLcEqgwgi-9SGnXTA&security=reality&sid=a1b2c3d4&sni=kinopoisk.ru&type=raw#🇨🇿 WhiteList | Czech Republic #4
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@78.159.247.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NsTRRl4ofT64w0VwmkpOWE8yfiXLcEqgwgi-9SGnXTA&security=reality&sid=a1b2c3d4&sni=kinopoisk.ru&type=raw#🇨🇿 WhiteList | Czech Republic #5
+vless://667afad0-8b39-4609-874f-8d0af1775c83@185.241.195.146:443?alpn=http%2F1.1&encryption=none&fp=edge&path=%2Fe7ws&security=tls&sni=dostavka.stroymatdv.cc&type=ws#🇷🇺 WhiteList | Russia #6
+vless://9a829166-3da9-4445-babe-1612ee5fa9ae@178.248.236.77:55443?type=tcp&headerType=none&security=reality&encryption=none&sni=rutube.ru&pbk=IKz1z0scyrYd-eQD9AcVvmoJDcITPXlKu90guFPrUh4&sid=1f8c1a2e913d1f05&spx=%2F&flow=xtls-rprx-vision&fp=chrome#🇷🇺 WhiteList | Russia #7
+vless://7a97f64d-5fc7-4011-9028-58d2ba751595@glowingjockeycorny.grayribbon.app:443?type=tcp&headerType=none&security=reality&encryption=none&sni=glowingjockeycorny.grayribbon.app&pbk=GJu4Ucn-XsY8pYyihFZOtFZWaowxSV8JqcVozlfSqkk&sid=e066cfc5aed13a33&flow=xtls-rprx-vision&fp=firefox#🇷🇺 WhiteList | Russia #8
