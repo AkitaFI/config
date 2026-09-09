@@ -4,3 +4,4 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
+trojan://humanity@88.198.82.150:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇫🇷 AnixVPN | France #1
