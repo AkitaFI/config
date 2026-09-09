@@ -5,6 +5,6 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://6d94a576-3eb3-4f1d-bf88-1ed29b09e9e4@tractormotivecost.latheanvil.info:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tractormotivecost.latheanvil.info&pbk=ujKEkrHCW0DvtLN3XFoOkoKW99sMuANXoi6jJ768Lk8&sid=34578b870aff901c&fp=firefox#🇳🇱 WhiteList | Netherlands #2
+vless://6d94a576-3eb3-4f1d-bf88-1ed29b09e9e4@tractormotivecost.latheanvil.info:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tractormotivecost.latheanvil.info&pbk=ujKEkrHCW0DvtLN3XFoOkoKW99sMuANXoi6jJ768Lk8&sid=34578b870aff901c&fp=firefox#🇯🇵 WhiteList | Japan #2
 vless://6d94a576-3eb3-4f1d-bf88-1ed29b09e9e4@refriedbuzzhasty.dailygazette.one:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=refriedbuzzhasty.dailygazette.one&pbk=n2v6NvgEHxPfvzo1IvFhc85vdhO80sQZ7t3TFYkagCc&sid=d1de39d194b602ff&fp=qq#🇷🇺 WhiteList | Russia #3
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@78.159.247.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NsTRRl4ofT64w0VwmkpOWE8yfiXLcEqgwgi-9SGnXTA&security=reality&sid=a1b2c3d4&sni=kinopoisk.ru&type=raw#🇨🇿 WhiteList | Czech Republic #4
