@@ -5,7 +5,7 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://3c95901c-10ce-4588-9c23-7684a09839a3@82.148.21.26:443?security=tls&flow=xtls-rprx-vision&sni=crypt-obhod-15.mystatic-cdn.ru&fp=firefox#🇨🇿 WhiteList | Czech Republic #2
+vless://3c95901c-10ce-4588-9c23-7684a09839a3@82.148.21.26:443?security=tls&flow=xtls-rprx-vision&sni=crypt-obhod-15.mystatic-cdn.ru&fp=firefox#🇵🇱 WhiteList | Poland #2
 vless://246b101b-4e4a-451f-8e9c-5e8d3b64b4ef@109.172.39.252:8443?encryption=none&fp=qq&mode=gun&pbk=22xsvJd-vHeh8Xtg7n8Zb6C7yz31UCPyWZTreKTUrlY&security=reality&serviceName=your-custom-path&sid=a1b2c3d4&sni=maps.apple.com&type=grpc#🇷🇺 WhiteList | Russia #3
 vless://246b101b-4e4a-451f-8e9c-5e8d3b64b4ef@109.172.39.252:8444?encryption=none&fp=qq&mode=gun&pbk=22xsvJd-vHeh8Xtg7n8Zb6C7yz31UCPyWZTreKTUrlY&security=reality&serviceName=snob-de-grpc&sid=a1b2c3d4&sni=maps.apple.com&type=grpc#🇷🇺 WhiteList | Russia #4
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#🇷🇺 WhiteList | Russia #5
