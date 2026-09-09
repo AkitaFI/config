@@ -5,7 +5,7 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://3c95901c-10ce-4588-9c23-7684a09839a3@82.148.21.26:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=crypt-obhod-15.mystatic-cdn.ru&alpn=h2&fp=ios#🇸🇪 WhiteList | Sweden #2
+vless://3c95901c-10ce-4588-9c23-7684a09839a3@82.148.21.26:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=crypt-obhod-15.mystatic-cdn.ru&alpn=h2&fp=ios#🇭🇰 WhiteList | Hong Kong #2
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yandex.net&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&packetEncoding=xudp#🇩🇪 WhiteList | Germany #3
 vless://98765c64-e5ac-4140-9a6a-74397162a16b@185.178.208.176:443?alpn=h3%2Ch2&encryption=none&fp=chrome&host=founders-blog.online&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=founders-blog.online&type=ws#🇷🇺 WhiteList | Russia #4
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@78.159.247.214:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NsTRRl4ofT64w0VwmkpOWE8yfiXLcEqgwgi-9SGnXTA&security=reality&sid=a1b2c3d4&sni=kinopoisk.ru&type=raw#🇨🇿 WhiteList | Czech Republic #5
