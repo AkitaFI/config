@@ -5,7 +5,7 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://f72d4df8-133f-4ebb-bed8-5b5834f69f9a@87.242.94.175:1443?encryption=none&fp=firefox&mode=gun&pbk=mK6jUHK0Iv4jpVqpvs4oadjh2Pifkz4QwrOdhWHJ9U0&security=reality&sid=66371c8d7a&sni=360.yandex.ru&type=grpc#🇨🇦 WhiteList | Canada #2
+vless://f72d4df8-133f-4ebb-bed8-5b5834f69f9a@87.242.94.175:1443?encryption=none&fp=firefox&mode=gun&pbk=mK6jUHK0Iv4jpVqpvs4oadjh2Pifkz4QwrOdhWHJ9U0&security=reality&sid=66371c8d7a&sni=360.yandex.ru&type=grpc#🇧🇪 WhiteList | Belgium #2
 vless://e1f0d778-8796-48c0-810b-628f934c71f7@155.212.142.197:2443?encryption=none&fp=chrome&mode=gun&pbk=QOmBHIllrJ3GBWZ9Ik__p6FiuZeUAdJ3nyc4OJvMczI&security=reality&serviceName=vk&sni=vkvideo.ru&type=grpc#🇷🇺 WhiteList | Russia #3
 vless://e1f0d778-8796-48c0-810b-628f934c71f7@155.212.142.197:4443?encryption=none&fp=safari&mode=gun&pbk=QOmBHIllrJ3GBWZ9Ik__p6FiuZeUAdJ3nyc4OJvMczI&security=reality&serviceName=edadeal&sni=yabro-wbplugin.edadeal.yandex.ru&type=grpc#🇷🇺 WhiteList | Russia #4
 vless://e1f0d778-8796-48c0-810b-628f934c71f7@155.212.142.197:3443?encryption=none&fp=edge&mode=gun&pbk=QOmBHIllrJ3GBWZ9Ik__p6FiuZeUAdJ3nyc4OJvMczI&security=reality&serviceName=music&sni=music.yandex.ru&type=grpc#🇷🇺 WhiteList | Russia #5
