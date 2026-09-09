@@ -4,4 +4,5 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://iwangjie@50.62.194.195:2096?type=ws&security=tls&sni=nodes.830901.xyz&fp=android#🇺🇸 AnixVPN | United States #1
+trojan://1e0cc178-82ff-8111-42b1-916b4210ca9b@de9w7ehd8ejr9fyd-development-m0t2g.lucity.app:443?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&path=/trojan-ws&security=tls&insecure=0&host=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app&fp=chrome&type=ws&allowInsecure=0&sni=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app#🇩🇪 AnixVPN | Germany #1
+trojan://iwangjie@50.62.194.195:2096?type=ws&security=tls&sni=nodes.830901.xyz&fp=android#🇸🇪 AnixVPN | Sweden #2
