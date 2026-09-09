@@ -4,3 +4,4 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
+trojan://iwangjie@50.62.194.195:2096?type=ws&security=tls&sni=nodes.830901.xyz&fp=android#🇩🇪 AnixVPN | Germany #1
