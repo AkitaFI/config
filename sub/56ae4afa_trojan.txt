@@ -4,4 +4,5 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://iwangjie@50.62.194.195:2096?type=ws&security=tls&sni=nodes.830901.xyz&fp=android#🇨🇿 AnixVPN | Czech Republic #1
+trojan://humanity@88.198.82.150:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#🇫🇷 AnixVPN | France #1
+trojan://1e0cc178-82ff-8111-42b1-916b4210ca9b@de9w7ehd8ejr9fyd-development-m0t2g.lucity.app:443?path=%2Ftrojan-ws&security=tls&sni=de9w7ehd8ejr9fyd-development-m0t2g.lucity.app&type=ws#🇩🇪 AnixVPN | Germany #2
