@@ -5,7 +5,7 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://b719dc9d-c881-4c9a-8200-7985c2cfc9b5@95.129.236.216:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=cdnguard.org&path=%2Forigin%2F190546791%2Ffetch&security=tls&sni=cdnguard.org&type=ws#🇬🇧 WhiteList | United Kingdom #2
+vless://b719dc9d-c881-4c9a-8200-7985c2cfc9b5@95.129.236.216:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=cdnguard.org&path=%2Forigin%2F190546791%2Ffetch&security=tls&sni=cdnguard.org&type=ws#🇸🇬 WhiteList | Singapore #2
 vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@185.192.247.146:31443?security=reality&encryption=none&sni=www.google.com&pbk=2L85nJmWlabsRGWcDrG968Bw-gAPk6Fl5ERJer9LYC0&sid=43989f5e2e34d4a8&flow=xtls-rprx-vision&fp=qq#🇷🇺 WhiteList | Russia #3
 vless://e35cef4a-e059-493e-9735-0cdf90014b74@185.241.195.146:443?alpn=http%2F1.1&encryption=none&fp=edge&path=%2Fe7ws&security=tls&sni=dostavka.stroymatdv.cc&type=ws#🇷🇺 WhiteList | Russia #4
 vless://89abf17c-8c20-477c-81e8-ffc7f6976149@155.212.142.197:51234?encryption=none&fp=chrome&mode=gun&pbk=QOmBHIllrJ3GBWZ9Ik__p6FiuZeUAdJ3nyc4OJvMczI&security=reality&serviceName=public-ru&sni=max.ru&type=grpc#🇷🇺 WhiteList | Russia #5
