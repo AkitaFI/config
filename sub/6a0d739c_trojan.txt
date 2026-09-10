@@ -8,4 +8,4 @@ trojan://c0c17d1da2c2c9299d5094c8@www.speedtest.net:443?alpn=http/1.1&ed=2560&eh
 trojan://xhl549341@172.64.145.158:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#🇷🇺 AnixVPN | Russia #2
 trojan://xhl549341@104.18.42.98:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#🇷🇺 AnixVPN | Russia #3
 trojan://50414e45-4c5f-5a45-5553-05920b4f8f35@172.67.160.103:2087?security=tls&sni=o5zmxbeoutis.o7zluiebuo8s.workers.dev&type=ws&host=o5zmxbeoutis.o7zluiebuo8s.workers.dev&path=/stream/PANEL_ZEUS/05920b4f8f35#🇸🇪 AnixVPN | Sweden #4
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🇨🇦 AnixVPN | Canada #5
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🇭🇰 AnixVPN | Hong Kong #5
