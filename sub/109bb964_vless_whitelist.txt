@@ -5,7 +5,7 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://92089155-6602-4122-86d4-fe6de20e8c4d@78.159.247.214:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NsTRRl4ofT64w0VwmkpOWE8yfiXLcEqgwgi-9SGnXTA&security=reality&sid=a1b2c3d4&sni=kinopoisk.ru&type=raw#🇺🇸 WhiteList | United States #2
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@78.159.247.214:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NsTRRl4ofT64w0VwmkpOWE8yfiXLcEqgwgi-9SGnXTA&security=reality&sid=a1b2c3d4&sni=kinopoisk.ru&type=raw#🇮🇪 WhiteList | Ireland #2
 vless://b90470bc-9067-4923-9ba6-a9adfe3c5fdb@155.212.160.45:443?encryption=none&flow=xtls-rprx-vision&pbk=WAiUIB-B_atmuRIEIt3ktYfQcG5aswZz8lg1NLiq1U0&security=reality&sid=ef995c2d2092537f&sni=laggeddrenchcurly.brackenmount.com&type=tcp&fp=qq#🇷🇺 WhiteList | Russia #3
 vless://b90470bc-9067-4923-9ba6-a9adfe3c5fdb@laggeddrenchcurly.brackenmount.com:443?flow=xtls-rprx-vision&pbk=WAiUIB-B_atmuRIEIt3ktYfQcG5aswZz8lg1NLiq1U0&security=reality&sid=ef995c2d2092537f&sni=laggeddrenchcurly.brackenmount.com&fp=safari#🇷🇺 WhiteList | Russia #4
 vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@72.56.234.16:21443?security=reality&encryption=none&sni=www.cloudflare.com&pbk=M6BT_GEwaoIZqpxPO6vxMqcXSMjmhAYd2Tb4fJO-uC4&sid=f6d36e2e08205c67&flow=xtls-rprx-vision&fp=chrome#🇷🇺 WhiteList | Russia #5
