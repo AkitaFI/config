@@ -4,5 +4,4 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://Telegram_healer_config@104.17.147.22:443?alpn=http/1.1&fp=chrome&host=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&path=/tr/mPZ7O1CUbIBPGNPZQ2HeV%3Fed%3D2560&security=tls&sni=to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev&type=ws#🇷🇺 AnixVPN | Russia #1
-trojan://c0c17d1da2c2c9299d5094c8@ez-3e9698.ezaccess1ec1f0c.workers.dev:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=ez-3e9698.ezaccess1ec1f0c.workers.dev&path=/eyJqdW5rIjoiMDdteWJvazY4azJ3MiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&type=ws#🇸🇪 AnixVPN | Sweden #2
+trojan://UQfj7bdfjibTjpUHfg72aew51S7fB32g@bright.bitgas.org:443?security=tls&fp=firefox#🇧🇪 AnixVPN | Belgium #1
