@@ -11,4 +11,4 @@ trojan://xhl549341@104.18.42.98:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=
 trojan://50414e45-4c5f-5a45-5553-05920b4f8f35@172.67.160.103:2087?security=tls&sni=o5zmxbeoutis.o7zluiebuo8s.workers.dev&type=ws&host=o5zmxbeoutis.o7zluiebuo8s.workers.dev&path=/stream/PANEL_ZEUS/05920b4f8f35#🇸🇪 AnixVPN | Sweden #5
 trojan://xhl549341@172.64.145.158:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#🇷🇺 AnixVPN | Russia #6
 trojan://50414e45-4c5f-5a45-5553-565221666bd1@172.67.238.241:443?security=tls&sni=mczrh5e3u5ps.shoameny.workers.dev&fp=unsafe&type=ws&host=mczrh5e3u5ps.shoameny.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F565221666bd1%2Floc-5#🇺🇿 AnixVPN | Uzbekistan #7
-trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🇸🇪 AnixVPN | Sweden #8
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.18.153.182:443?host=dimskiee.biz.id&path=/WangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#🇳🇱 AnixVPN | Netherlands #8
