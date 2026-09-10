@@ -5,3 +5,4 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 trojan://humanity@176.97.66.175:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #1
+trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#🇫🇷 AnixVPN | France #2
