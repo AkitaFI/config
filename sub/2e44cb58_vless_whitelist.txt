@@ -5,7 +5,7 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://812dc422-b973-46b8-ba16-73b06f38b1dd@95.129.236.216:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=cdnguard.org&path=%2Forigin%2F190546791%2Ffetch&security=tls&sni=cdnguard.org&type=ws#🇸🇪 WhiteList | Sweden #2
+vless://812dc422-b973-46b8-ba16-73b06f38b1dd@95.129.236.216:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=cdnguard.org&path=%2Forigin%2F190546791%2Ffetch&security=tls&sni=cdnguard.org&type=ws#🇫🇷 WhiteList | France #2
 vless://5176f58d-734a-4526-8aa5-64b7046003e0@185.178.208.176:443?alpn=h3%2Ch2&encryption=none&fp=chrome&host=founders-blog.online&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=founders-blog.online&type=ws#🇷🇺 WhiteList | Russia #3
 vless://0764541b-3e57-4b47-954b-51e996fae5fc@78.159.247.153:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=on.mcufa.pro&type=raw#🇨🇿 WhiteList | Czech Republic #4
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@78.159.247.205:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NsTRRl4ofT64w0VwmkpOWE8yfiXLcEqgwgi-9SGnXTA&security=reality&sid=a1b2c3d4&sni=kinopoisk.ru&type=raw#🇨🇿 WhiteList | Czech Republic #5
