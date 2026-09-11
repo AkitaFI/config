@@ -4,3 +4,9 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
+vless://afc40286-cb1d-43d7-ba2d-b3b8428d9ad8@95.129.236.216:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=cdnguard.org&path=%2Forigin%2F190546791%2Ffetch&security=tls&sni=cdnguard.org&type=ws#🇵🇱 WhiteList | Poland #2
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?security=reality&type=raw&packetEncoding=xudp&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=bbe46bd8f6b96839&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM#🇷🇺 WhiteList | Russia #3
+vless://238e492b-bc20-4380-92b6-135d39112ca4@188.225.39.107:14443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aKfJokRORjNdwkn0XY6KA_PIfjytp4E0liM5v72LM1w&security=reality&sid=8e21c5f4&sni=login.vk.com&type=raw#🇷🇺 WhiteList | Russia #4
+vless://237f91bf-102e-4077-8cc3-baebccb42936@85.198.70.200:14406?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&security=reality&sid=1a2b3c4d5e6f7a8b&sni=vk.ru&type=raw#🇷🇺 WhiteList | Russia #5
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw#🇷🇺 WhiteList | Russia #6
