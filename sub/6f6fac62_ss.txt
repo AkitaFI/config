@@ -1,0 +1,10 @@
+#profile-user-id: 99397954
+#profile-title: Anix VPN - ShadowSocks 🕊️
+#profile-update-interval: 6
+#support-url: https://t.me/AnixCompany
+#announce: TG: @AnixCompany Link: anix-com.ru
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YzFmNzRjZGM1MWQ1@91.106.109.17:48211#🇬🇧 AnixVPN | United Kingdom #1
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#🇨🇦 AnixVPN | Canada #2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#🇬🇧 AnixVPN | United Kingdom #3
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#🇨🇦 AnixVPN | Canada #4
