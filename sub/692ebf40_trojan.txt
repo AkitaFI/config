@@ -5,6 +5,6 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 trojan://62dbcf02-0989-4441-a01a-93f9c3b93525@172.64.229.84:443?type=ws&host=ot.hyas.space&path=%2Fx7f9k2m4p8&security=tls&sni=ot.hyas.space#🇯🇵 AnixVPN | Japan #1
-trojan://624209bb-8216-45fe-bbe0-50132ec63162@ot2.hyas.space:443?type=ws&path=/x7f9k2m4p8&host=ot2.hyas.space&security=tls&sni=ot2.hyas.space#🇯🇵 AnixVPN | Japan #2
-trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇫🇮 AnixVPN | Finland #3
-trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇸🇪 AnixVPN | Sweden #4
+trojan://624209bb-8216-45fe-bbe0-50132ec63162@ot2.hyas.space:443?type=ws&path=/x7f9k2m4p8&host=ot2.hyas.space&security=tls&sni=ot2.hyas.space#🇫🇷 AnixVPN | France #2
+trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 AnixVPN | Netherlands #3
+trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇬🇧 AnixVPN | United Kingdom #4
