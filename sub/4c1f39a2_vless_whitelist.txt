@@ -5,9 +5,4 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://4eae040d-9813-4b68-b0fe-5bbc30baa6a7@87.242.94.175:1443?encryption=none&fp=firefox&mode=gun&pbk=mK6jUHK0Iv4jpVqpvs4oadjh2Pifkz4QwrOdhWHJ9U0&security=reality&sid=66371c8d7a&sni=360.yandex.ru&type=grpc#🇷🇺 WhiteList | Russia #2
-vless://b2bd3391-45a8-4543-821a-fd8ec2185577@185.241.195.146:443?alpn=http%2F1.1&encryption=none&fp=edge&path=%2Fe7ws&security=tls&sni=dostavka.stroymatdv.cc&type=ws#🇷🇺 WhiteList | Russia #3
-vless://4eae040d-9813-4b68-b0fe-5bbc30baa6a7@185.178.208.176:443?alpn=h3%2Ch2&encryption=none&fp=chrome&host=founders-blog.online&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=founders-blog.online&type=ws#🇷🇺 WhiteList | Russia #4
-vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?security=reality&type=tcp&packetEncoding=xudp&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=b97e7d4582b6fa6e&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&encryption=none#🇷🇺 WhiteList | Russia #5
-vless://237f91bf-102e-4077-8cc3-baebccb42936@85.198.70.200:14406?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&security=reality&sid=1a2b3c4d5e6f7a8b&sni=vk.ru&type=raw#🇷🇺 WhiteList | Russia #6
-vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@cindio.ferreo.sbs:443?security=reality&encryption=none&sni=cindio.ferreo.sbs&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&sid=1067b23f928e7618&flow=xtls-rprx-vision&fp=ios#🇷🇺 WhiteList | Russia #7
+vless://238e492b-bc20-4380-92b6-135d39112ca4@188.225.39.107:14443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aKfJokRORjNdwkn0XY6KA_PIfjytp4E0liM5v72LM1w&security=reality&sid=8e21c5f4&sni=login.vk.com&type=raw#🇷🇺 WhiteList | Russia #2
