@@ -7,4 +7,5 @@
 trojan://7fb5f16d-4a73-42e6-b6c2-4f76f35af6f4@bestcdn2.868863.xyz:2087/?type=ws&host=17878361433987.206353.xyz&path=/agrbniuh&security=tls&sni=206353.xyz#🇸🇪 AnixVPN | Sweden #1
 trojan://humanity@104.18.152.108:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇸🇪 AnixVPN | Sweden #2
 trojan://AE62539071@wanted-marmoset.rooster465.autos:443?security=tls&amp;sni=wanted-marmoset.rooster465.autos&amp;path=%2f#🇸🇪 AnixVPN | Sweden #3
-trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇺🇸 AnixVPN | United States #4
+trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇴 AnixVPN | Norway #4
+trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇸🇬 AnixVPN | Singapore #5
