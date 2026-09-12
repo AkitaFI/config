@@ -4,6 +4,6 @@
 #support-url: https://t.me/AnixCompany
 #announce: TG: @AnixCompany Link: anix-com.ru
 
-trojan://624209bb-8216-45fe-bbe0-50132ec63162@ot2.hyas.space:443?type=ws&path=/x7f9k2m4p8&host=ot2.hyas.space&security=tls&sni=ot2.hyas.space#🇮🇪 AnixVPN | Ireland #1
-trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇬🇧 AnixVPN | United Kingdom #2
-trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇿 AnixVPN | Czech Republic #3
+trojan://624209bb-8216-45fe-bbe0-50132ec63162@ot2.hyas.space:443?type=ws&path=/x7f9k2m4p8&host=ot2.hyas.space&security=tls&sni=ot2.hyas.space#🇳🇱 AnixVPN | Netherlands #1
+trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇩🇪 AnixVPN | Germany #2
+trojan://M7v%w11Se*@tttyder.wsone.icu:443?type=tcp&security=tls&fp=edge&sni=tttyder.wsone.icu#🇬🇧 AnixVPN | United Kingdom #3
