@@ -24,4 +24,4 @@ trojan://50414e45-4c5f-5a45-5553-05920b4f8f35@104.21.66.137:2087?host=o5zmxbeout
 trojan://62dbcf02-0989-4441-a01a-93f9c3b93525@162.159.38.58:443?type=ws&host=ot.hyas.space&path=%2Fx7f9k2m4p8&security=tls&sni=ot.hyas.space#🇯🇵 AnixVPN | Japan #18
 trojan://624209bb-8216-45fe-bbe0-50132ec63162@ot2.hyas.space:443?type=ws&path=/x7f9k2m4p8&host=ot2.hyas.space&security=tls&sni=ot2.hyas.space#🇯🇵 AnixVPN | Japan #19
 trojan://50414e45-4c5f-5a45-5553-565221666bd1@172.67.238.241:443?security=tls&sni=mczrh5e3u5ps.shoameny.workers.dev&fp=unsafe&type=ws&host=mczrh5e3u5ps.shoameny.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F565221666bd1%2Floc-5#🇺🇿 AnixVPN | Uzbekistan #20
-trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇩🇪 AnixVPN | Germany #21
+trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇫🇷 AnixVPN | France #21
