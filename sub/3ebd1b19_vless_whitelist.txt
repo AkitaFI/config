@@ -5,7 +5,7 @@
 #announce: TG: @AnixCompany Link: anix-com.ru
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus--#🇺🇸 WhiteList | United States #1
-vless://92089155-6602-4122-86d4-fe6de20e8c4d@78.159.247.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NsTRRl4ofT64w0VwmkpOWE8yfiXLcEqgwgi-9SGnXTA&security=reality&sid=a1b2c3d4&sni=kinopoisk.ru&type=raw#🇰🇷 WhiteList | South Korea #2
+vless://92089155-6602-4122-86d4-fe6de20e8c4d@78.159.247.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NsTRRl4ofT64w0VwmkpOWE8yfiXLcEqgwgi-9SGnXTA&security=reality&sid=a1b2c3d4&sni=kinopoisk.ru&type=raw#🇨🇿 WhiteList | Czech Republic #2
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@78.159.247.205:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NsTRRl4ofT64w0VwmkpOWE8yfiXLcEqgwgi-9SGnXTA&security=reality&sid=a1b2c3d4&sni=kinopoisk.ru&type=raw#🇨🇿 WhiteList | Czech Republic #3
 vless://3f9f2bda-0b9c-8469-7381-a73de2255619@62.233.39.9:443?path=%2F&security=reality&encryption=none&pbk=oHaUPZiESTQQ89DMd4uIcPWgsyeFFy58iZYX_8mbvWk&type=xhttp&sni=dl.dell.com&fp=chrome#🇷🇺 WhiteList | Russia #4
 vless://901cb0b0-0185-4983-b42a-67c431fa2f10@in4.linestring.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&pbk=eWZTT3b4Xa0dYUdW52WtF1n8w3-AS4EHcaettRRa_0Q&sid=5f96c103e5734528&flow=xtls-rprx-vision&fp=firefox#🇷🇺 WhiteList | Russia #5
